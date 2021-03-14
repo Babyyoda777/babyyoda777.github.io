@@ -14,6 +14,7 @@ Installed-Size : 4828
 Depends : mobilesubstrate, preferenceloader
 Conflicts : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Name: Snowboard
 
 Package: com.hius.gesturesi11
 Section: Tweaks
