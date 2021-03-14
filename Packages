@@ -1,3 +1,68 @@
+Package: com.megadev.coronacounter
+Version: 3
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Installed-Size: 460
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.megadev.coronacounter_3_iphoneos-arm.deb
+Size: 112262
+MD5sum: b2c324c81027969db5c54896dae8942b
+SHA1: 1341711f135df191377ed62ff5c41a8dab885f71
+SHA256: 3f6ee70179cbb6a1cfb43ee9d4c671bb4fc28c1ef9bf1a0a479ebacc09392000
+Section: Tweaks
+Description: Shows COVID-19 cases in statusbar.
+Author: MegaDev & Simon021
+Name: CoronaCount
+
+Package: com.megadev.coronacounter
+Version: 2.1-4
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.megadev.coronacounter_2.1-4_iphoneos-arm.deb
+Size: 112976
+MD5sum: 6e8c5cbdbbe7bfa1159ed65a1ec0caec
+SHA1: e3cec0dcede0beacf33d79398c7dd45b530282b3
+SHA256: b3e8fc634f83004acf3519daeb44cb29c6c4744dfb7c4b516c33ceaa294d6b1c
+Section: Tweaks
+Description: Shows COVID-19 cases in statusbar.
+Author: MegaDev & Simon021
+Name: CoronaCount
+
+Package: com.megadev.coronacounter
+Version: 2.1-3
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.megadev.coronacounter_2.1-3_iphoneos-arm.deb
+Size: 113758
+MD5sum: 85f069cffd1de315a9f0179a3fec6bc1
+SHA1: 0673532eeb7ec25652748cd5ee7af8155f820286
+SHA256: 6b5b7205853f1d4d37d8c8b32a375a0b1026fdaa0dac740bcc2d6a92790650e6
+Section: Tweaks
+Description: Shows COVID-19 cases in statusbar.
+Author: MegaDev & Simon021
+Name: CoronaCount
+
+Package: com.megadev.coronacounter
+Version: 2.1-2
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.megadev.coronacounter_2.1-2_iphoneos-arm.deb
+Size: 113760
+MD5sum: 0e0b22baf0e15cb16da914f8d417e6c4
+SHA1: cd1022b62b09b79ea54609c26d51d0e78e4c585b
+SHA256: dd3cfaf0c58d0eaf733b784d7b2b2755d6d35eb42e598c146b70bc04fc2da3a9
+Section: Tweaks
+Description: Shows COVID-19 cases in statusbar.
+Author: MegaDev & Simon021
+Name: CoronaCount
+
+
 Package: com.autopear.installipa
 Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 4.0), gsc.armv7
