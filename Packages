@@ -5,7 +5,6 @@ Architecture: iphoneos-arm
 Version: 1.4.12~Beta4
 Depends: mobilesubstrate
 Filename: debs//1.4.12_Beta4.deb
-Size: 1.56
 MD5sum: 
 SHA1: 
 SHA256: 
@@ -20,7 +19,6 @@ Architecture: iphoneos-arm
 Version: 3.6.7
 Depends: mobilesubstrate
 Filename: debs//gesturesi11_3.6.7.deb
-Size: 29.61 kb
 MD5sum: 
 SHA1: 
 SHA256: 
@@ -36,7 +34,6 @@ Architecture: iphoneos-arm
 Version: 1.8
 Depends: mobilesubstrate
 Filename: debs//love.litten.puck_1.8_iphoneos-arm.deb
-Size: 1.07
 MD5sum: 
 SHA1: 
 SHA256: 
@@ -51,7 +48,6 @@ Architecture: iphoneos-arm
 Version: 1.8
 Depends: mobilesubstrate
 Filename: debs//60423ea095a77b001a9181a5.deb
-Size: 14.47
 MD5sum: 
 SHA1: 
 SHA256: 
@@ -66,7 +62,6 @@ Architecture: iphoneos-arm
 Version: 1.1.0
 Depends: mobilesubstrate
 Filename: debs//modernui_1.1.0.deb
-Size: 4.27 Kb
 MD5sum: 
 SHA1: 
 SHA256: 
@@ -81,7 +76,6 @@ Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Filename: deb//com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
-Size: 3003986
 MD5sum: 
 SHA1: 
 SHA256: 
@@ -95,8 +89,6 @@ Package: xyz.willy.zebra
 Version: 1.1.15
 Architecture: iphoneos-arm
 Maintainer: Zebra Team
-Filename: deb//xyz.willy.zebra_1.1.15_iphoneos-arm.deb
-Size: 3003986
 MD5sum: 
 SHA1: 
 SHA256: 
@@ -108,9 +100,8 @@ Name: Zebra
 Package: com.laughingquoll.noctis12
 Version: 1.8.9.6
 Architecture: iphoneos-arm
-Maintainer: Zebra Team
+Maintainer: LaughingQuoll
 Filename: deb//5ff55dd5b37968001bb1125a.deb
-Size: 3003986
 Depends: firmware (>= 12.0)
 MD5sum: 
 SHA1: 
@@ -119,3 +110,16 @@ Section: Tweaks
 Description: Dark Mode for iOS 12
 Author: LaughingQuoll
 Name: Noctis12
+
+Package: net.angelxwind.appsyncunified
+Version: 90.0
+Architecture: iphoneos-arm
+Maintainer: Karen
+Filename: deb//nodelete-net.angelxwind.appsyncunified.deb
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Description: Install unsigned iOS apps freely
+Author: Karen
+Name: AppSync
