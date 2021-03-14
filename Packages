@@ -1,15 +1,15 @@
-Package: 
+Package: com.spark.snowboard
 Section: 
-Maintainer: 
+Maintainer: azlan777@icloud.com
 Architecture: iphoneos-arm
-Version: 
+Version: 1.4.12~Beta4
 Depends: mobilesubstrate
-Filename: debs//
-Size: 
+Filename: debs//1.4.12_Beta4.deb
+Size: 1.56
 MD5sum: 
 SHA1: 
 SHA256: 
-Description: 
+Description: Snowboard is a themes manager that allow you to install themes and customise your icons.
 Name: 
 Author: name <email@email.com>
 
