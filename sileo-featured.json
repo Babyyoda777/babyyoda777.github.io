@@ -8,10 +8,6 @@
          "title":"FlyJB",
          "package":"com.xsf1re.flyjb",
          "hideShadow":false
-      }
-   ]
-}
-{  
    "class":"FeaturedBannersView",
    "itemSize":"{263, 148}",
    "itemCornerRadius":10,
@@ -22,5 +18,8 @@
          "package":"com.megadev.coronacounter_3_iphoneos-arm.deb",
          "hideShadow":false
       }
+      }
    ]
 }
+
+
