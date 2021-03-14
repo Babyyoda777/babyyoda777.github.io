@@ -116,6 +116,7 @@ Author: LaughingQuoll
 Name: Noctis12
 
 Package: net.angelxwind.appsyncunified
+Section : Tweaks
 Version: 90.0
 Architecture: iphoneos-arm
 Maintainer: Karen
@@ -123,7 +124,6 @@ Filename: deb//nodelete-net.angelxwind.appsyncunified.deb
 Description: Install unsigned iOS apps freely
 Name: AppSync
 Author : Karen/あけみ, Linus Yang
-Section : Tweaks
 Version : 90.0
 Size : 58.32 Kb
 Installed-Size : 732
