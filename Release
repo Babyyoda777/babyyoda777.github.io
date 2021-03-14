@@ -1,8 +1,12 @@
-Origin: Babyyoda777's Repo
-Label: Babyyoda777
+Origin: Johnzaro's Perfect Repo
+Label: Johnzaro's Perfect Repo
 Suite: stable
 Version: 1.0
-Codename: Babyyoda777
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: Tweaks I find useful :) If you want something taken down, PM me on reddit: /u/AmountOk3836
+Description: Johnzaro's Cydia Repository
+
+SHA256:
+ 88c873fe0cdcb16437caf9d79dcc8065798b9d9b90d1f9f106a62b9822ce5421 5330 Packages.bz2
+ 9f9c0410cc329f09891685196b8a970ed550ff4c8824a304da72a94a3126ca7f 5444 Packages.xz
