@@ -1,15 +1,92 @@
-Package: 
-Section: 
-Maintainer: 
+Package: com.spark.snowboard
+Section: Tweaks
+Maintainer: azlan777@icloud.com
 Architecture: iphoneos-arm
-Version: 
+Version: 1.4.12~Beta4
 Depends: mobilesubstrate
-Filename: debs//
-Size: 
+Filename: debs//1.4.12_Beta4.deb
+Size: 1.56
 MD5sum: 
 SHA1: 
 SHA256: 
-Description: 
-Name: 
-Author: name <email@email.com>
+Description: Snowboard is a themes manager that allow you to install themes and customise your icons.
+Name: Snowboard
+Author: Spark <email@email.com>
 
+Package: com.hius.gesturesi11
+Section: Tweaks
+Maintainer: azlan777@icloud.com
+Architecture: iphoneos-arm
+Version: 3.6.7
+Depends: mobilesubstrate
+Filename: debs//gesturesi11_3.6.7.deb
+Size: 29.61 kb
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: iPhone X gestures on any iPhone. This is a customiseable version.
+Name: Gesturesi11
+Author: Hius <email@email.com>
+
+
+Package: love.litten.puck
+Section: Tweaks
+Maintainer: azlan777@icloud.com
+Architecture: iphoneos-arm
+Version: 1.8
+Depends: mobilesubstrate
+Filename: debs//love.litten.puck_1.8_iphoneos-arm.deb
+Size: 1.07
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: Save your iPhone from dying when on low battery
+Name: Puck
+Author: Hius <email@email.com>
+
+Package: com.bousrih.violaWhite
+Section: Tweaks
+Maintainer: azlan777@icloud.com
+Architecture: iphoneos-arm
+Version: 1.8
+Depends: mobilesubstrate
+Filename: debs//60423ea095a77b001a9181a5.deb
+Size: 14.47
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: An amazing theme with ove 2000 icons
+Name: Viola White
+Author: Bossgfx <email@email.com>
+
+Package: com.pholic.modernui
+Section: Tweaks
+Maintainer: azlan777@icloud.com
+Architecture: iphoneos-arm
+Version: 1.1.0
+Depends: mobilesubstrate
+Filename: debs//modernui_1.1.0.deb
+Size: 4.27 Kb
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: Gesturesi11 without any customiseability
+Name: GesturesUI
+Author: pholic <email@email.com>
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.14-11
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb//com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
+Size: 3003986
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
