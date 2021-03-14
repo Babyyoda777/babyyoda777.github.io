@@ -2,12 +2,9 @@ Package: com.spark.snowboard
 Version: 1.4.12~Beta4
 Architecture: iphoneos-arm
 Maintainer: BabyYoda777
-Depends: mobilesubstrate
+Depends: 
 Filename: ./debs/1.4.12_Beta4.deb
 Size: 1.56 Mb
-MD5sum: a4dc9696690c0711b57d8c8a327e7fcf
-SHA1: 
-SHA256: 
 Section: Tweaks 
 Description: Theme Manager to install and manage you favourite themes.
 Author: Spark
