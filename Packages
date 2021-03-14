@@ -104,3 +104,18 @@ Section: Tweaks
 Description: One of the best package managers out there.
 Author: Zebra Team
 Name: Zebra
+
+Package: com.laughingquoll.noctis12
+Version: 1.8.9.6
+Architecture: iphoneos-arm
+Maintainer: Zebra Team
+Filename: deb//5ff55dd5b37968001bb1125a.deb
+Size: 3003986
+Depends: firmware (>= 12.0)
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Description: Dark Mode for iOS 12
+Author: LaughingQuoll
+Name: Noctis12
