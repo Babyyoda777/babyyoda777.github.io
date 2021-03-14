@@ -1,8 +1,3 @@
-# Johnzaro's Perfect Repository
-
-https://johnzaro.github.io/cydia/
-
-[Add To Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://johnzaro.github.io/cydia/)  
-[Add To Installer](installer://add/repo=https://johnzaro.github.io/cydia/)  
-[Add To Sileo](sileo://source/https://johnzaro.github.io/cydia/)  
-[Add To Zebra](zbra://sources/add/https://johnzaro.github.io/cydia/)
+# babyyoda777.github.io
+Virusbitts official repo for cydia, sileo, zebra and other package managers.
+Download our recommeded tweaks and themes from here. NO PIRACY OR HACKING APPS TWEAKS WILL BE HERE. ONLY ALREADY FREE TWEAKS.
