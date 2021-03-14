@@ -1,27 +1,781 @@
-Package: com.spark.snowboard
-Version: 1.4.12~Beta4
+Package: com.shiftcmdk.autoalerts
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: BabyYoda777
-Depends: 
-Filename: ./debs/1.4.12_Beta4.deb
-Size: 1.56 Mb
-Section: Tweaks 
-Description: Theme Manager to install and manage you favourite themes.
-Author: Spark
-Name: Snowboard
-
-Package: love.litten.puck
-Version: 1.8
-Architecture: iphoneos-arm
-Maintainer: BabyYoda777
+Maintainer: shiftcmdk
+Installed-Size: 392
 Depends: mobilesubstrate
-Filename: ./debs/love.litten.puck_1.8_iphoneos-arm.deb
-Size: 1.07 Mb
-MD5sum: 378dcf5253beec1abeca5b69d763dcc0
-SHA1: 
-SHA256: 
-Section: Tweaks 
-Description: Save your jailbreak from dying when your phone is about to die.
-Author: Litten
-Name: Puck
+Filename: ./debs/com.shiftcmdk.autoalerts_1.0_iphoneos-arm.deb
+Size: 48746
+MD5sum: eb90a257688ff2e71cbfc9e9bcde68a4
+SHA1: 3643945d3d99c7a5ac635dffacaef1d274d65404
+SHA256: 32d1a8aabd20ec0b5f13a3c451659e811effd60ba36c70baa4b794f5ea40c653
+Section: Tweaks
+Description: Automate alert actions.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Name: AutoAlerts
+
+Package: com.shiftcmdk.autoalerts
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 392
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.autoalerts_1.0.1_iphoneos-arm.deb
+Size: 49212
+MD5sum: 8a114acf9e233fe973be676e35172221
+SHA1: d2aea881303010ae8afe52af91a2bb0d348093da
+SHA256: 4d3e8afe633d8b39c5c6daac7874c4e1d3ade71ba966ecf51e034a5e8c9d046d
+Section: Tweaks
+Description: Automate alert actions.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Name: AutoAlerts
+
+Package: com.shiftcmdk.autoalerts
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm.deb
+Size: 49792
+MD5sum: 21ee93af7a1fffb352f63aff93ff68c6
+SHA1: 4f908f2d2518d6dd7380b2c757f1caa02ba42972
+SHA256: e9913ac9973bbec2784bbb54fbbe98fefe2e1e36952221c474393deb76acc3fd
+Section: Tweaks
+Description: Automate alert actions.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Name: AutoAlerts
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.0_iphoneos-arm.deb
+Size: 5542
+MD5sum: 3badbe6b42e82a3843f6b346bbbb10ab
+SHA1: 605b884b968dd6639a560ea27c12d6377e396888
+SHA256: 9b3f0a65015b208034e6a804fd752c86a0c349143f40d27b3c66b1a425aeaa6a
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.0.1_iphoneos-arm.deb
+Size: 6030
+MD5sum: 55d0b56632e4c84e6b89a0ca38210c1a
+SHA1: adc7f89cea30624a261256b749424f09d9fe563f
+SHA256: 7ec01f1bbb1e0ecca81eab8960706d71726cf8a6a19fcc96128747fcd5716e2f
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.0.2_iphoneos-arm.deb
+Size: 6044
+MD5sum: 27627410a6437a7f46719f1896ab39a0
+SHA1: 7dcbadc571ddda699e51284987f957ea738b15e6
+SHA256: cd13f37526b4904cd564e55c5baa32e18a999ae58e37e409d3067083f7d514fb
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.1_iphoneos-arm.deb
+Size: 19904
+MD5sum: c4b19eeda4b6edc021dd1ca84482504a
+SHA1: b2303f73752b28fc945b8ca4e5ef430ada54396e
+SHA256: 8d277bd0e8dfee2f775ee5f39a34a310da2842e823c26f107e18b4f76af28c78
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.1.1_iphoneos-arm.deb
+Size: 19868
+MD5sum: 714fd336690228690fba5c7bb74aa179
+SHA1: 2119c939422950ab0740c68835de68c46c632f53
+SHA256: 427b72944dc13ee69b79e585258dd9eef565dc3c3011579b6dca08201c08bcfc
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.1.2_iphoneos-arm.deb
+Size: 19866
+MD5sum: 3120cdbd34727411992c8a2aac8b108c
+SHA1: 8955092c0397380633b2e190eb3efc2e74730b54
+SHA256: 28bffbfc0a75de2e80206899be875c332127afe1a48f042286e68e41949bc2aa
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.1.3_iphoneos-arm.deb
+Size: 20100
+MD5sum: b2c010aae07bbe7ccac03898dd0a86a2
+SHA1: 83949b504af164ba99a21b87279d2cc5a94e8683
+SHA256: 2a34a29de923c3163e00b22299f3ae9360a06222252cad18c98a4116991940f4
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.betterreachability
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.1_iphoneos-arm.deb
+Size: 11126
+MD5sum: 592df73225913722f3f67b29ebd64e0a
+SHA1: 51e4458d6d913e2d5f28f8820699f9fca9848cf0
+SHA256: 469a23c9c6a2376cf42e5dcde07ea9b0e9a83818445093a1b423422571f68531
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
+Package: com.shiftcmdk.betterreachability
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.2_iphoneos-arm.deb
+Size: 21430
+MD5sum: 44cb279c0fb6184d06e90a644948ab38
+SHA1: 2159a0746a9b4f7add41125be46d4154ba4d557d
+SHA256: d6060def4027781acdcbd4712efe4c49fdeae3c1ea8f522f0368b2cd03994bd7
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
+Package: com.shiftcmdk.betterreachability
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.2.1_iphoneos-arm.deb
+Size: 16636
+MD5sum: 9c882f8ba8f9d52ebc35aaf66b92c89c
+SHA1: 6efea1944a9cb5bca657cbfb48b87b94291d5ee3
+SHA256: 63172063e90f85a60ca3638b63d7f64eb75170f2f58124c65fdcaf5d5ef1a84d
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
+Package: com.shiftcmdk.betterreachability
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.3_iphoneos-arm.deb
+Size: 30860
+MD5sum: 04f00252ee08e0e4e4ff25df51f15335
+SHA1: 241b51a41a5db72d908da0732773d94e37629a5e
+SHA256: 60995a8ff26fd0970150d933971e11381aa792f7a379f11bfb981bf68e17077b
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
+Package: com.shiftcmdk.bookmarkicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0_iphoneos-arm.deb
+Size: 11912
+MD5sum: f37365276016e998b8a7b8dae07c16a1
+SHA1: 11dc2e1794cc359ffa7be35fda8467674fa825fd
+SHA256: 0d75f74e3701b1219b4b80a613f41d287ba54527ed394ee8f441103b93604e18
+Section: Tweaks
+Description: Set custom icons for Safari bookmarks.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.bookmarkicons
+Name: BookmarkIcons
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.0_iphoneos-arm.deb
+Size: 6988
+MD5sum: 0477f2f23d77857e5a5ac27533d6bb7c
+SHA1: 303249fb7b712e38b70e3354d9ead89ccfbe2c3c
+SHA256: db866145a5869cd332376cec58e543cbc25c1bfc166a448993da40e77fb69b7f
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1_iphoneos-arm.deb
+Size: 8320
+MD5sum: 9e47ff4a008100e3739b50c2c18fbad4
+SHA1: 487846c86f43d92c2d50ebd2e91fe22e1936a9b6
+SHA256: 828547744f2544a0ae2321d31807915cab8502c0d3a9e5e425979714b12a4707
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1.1_iphoneos-arm.deb
+Size: 8516
+MD5sum: 64571134cb5b84a440b2b757b91ed9f5
+SHA1: 7e5423aab29d6939ef90ee51f1cce4b126ab83be
+SHA256: 5bae6c14bcef340d974941d2d64c32c7789e89f5a24fff28f129be57d76a9343
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1.2_iphoneos-arm.deb
+Size: 6480
+MD5sum: d0ab4a8ed3f8d78171ded797cb4752e3
+SHA1: fc11218f489a572d2a4b9abf143cf7149be4e580
+SHA256: 48d6c34409dc06e18c62899073097367ce43ceaf735c9afe8dda3937c4e990b1
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_0.1_iphoneos-arm.deb
+Size: 6430
+MD5sum: a1f0ffe78c6d8720648f000acf262146
+SHA1: 7f39ba6cf129e4476e4d8a71c1c1c4fc73c181a6
+SHA256: c4b8c8722a43d0b5a8f09ebab1164e3e58cf6a96dd7b303aa4487ba0ce56caa2
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_0.1.1_iphoneos-arm.deb
+Size: 7736
+MD5sum: 1e6c67ddc25182edfbb1f33e45ed6360
+SHA1: 697ed7bca766e15347ae27e3ccb6260ffe5ba534
+SHA256: e44e0ab8ff3f100d26e021aa07341d134f56ffbfcf9827bcde63753d557e6679
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_1.0_iphoneos-arm.deb
+Size: 8258
+MD5sum: d21649eeb0345d75b28463e9e2a42203
+SHA1: d187f0fd2255134ff51b2fe13963c99a58028024
+SHA256: 479ac44905aa9fb04b1b7c29c287cf559d346ba9fe061713a54760a723ab26da
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_1.0.1_iphoneos-arm.deb
+Size: 6998
+MD5sum: a8b6ed24e45d11c36e062b500fb9c0c7
+SHA1: 83844a493b316f712fa5f58940138cc4f6dea14a
+SHA256: 81881fcbbcaf1b366d51b4fc3fbc8531a67f8ea02002d149ba64dfd14ca5568b
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_1.0.2_iphoneos-arm.deb
+Size: 7258
+MD5sum: 06cfdf86b97a7eb819762d8ebcbb7dd9
+SHA1: f9832488631b0261a4b13b03ad8cd3131d7f1610
+SHA256: 96e1069b14c46068d4ed2d82b7c5cf89a7906fe6dc0fdb2cb9562ad893424d8a
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.noclipboardforyou
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.noclipboardforyou_1.0_iphoneos-arm.deb
+Size: 20302
+MD5sum: 2144c3c8ed9bc7c1f6055114e0e1407e
+SHA1: af8a2869edebbedcf6581d3e76e336dc8b348b98
+SHA256: 5216624482fea2406a6a448ba682fd4d338a3dd4f4d88323481119310e1ea062
+Section: Tweaks
+Description: Prevent apps from accessing your clipboard.
+Author: shiftcmdk
+Name: NoClipboardForYou
+
+Package: com.shiftcmdk.noclipboardforyou
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.noclipboardforyou_1.0.1_iphoneos-arm.deb
+Size: 20714
+MD5sum: 759ddc4457b2525c6df33af0e8ab5358
+SHA1: ccabc7969fd2d93d7c46e330fb898b985957032d
+SHA256: d215f291ef092348e674954f960bbc29efc90093aeea93d92f025606732be3b7
+Section: Tweaks
+Description: Prevent apps from accessing your clipboard.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.noclipboardforyou
+Name: NoClipboardForYou
+
+Package: com.shiftcmdk.noclipboardforyou
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.noclipboardforyou_1.0.2_iphoneos-arm.deb
+Size: 20754
+MD5sum: a23420b3e68101a8e186ce9bbb78b99d
+SHA1: c38ea5959fd5fe7e540b4d4ce5a0463395d857b3
+SHA256: b1f5acabd503320cdf276d1be19cdee83066a82d659b3f9706df04ee5ea2cce7
+Section: Tweaks
+Description: Prevent apps from accessing your clipboard.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.noclipboardforyou
+Name: NoClipboardForYou
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0_iphoneos-arm.deb
+Size: 21232
+MD5sum: 797dcfd129422c6fe3659e768afb38f3
+SHA1: b45a8c3d3c987b4c986fa177b19a84c85c0609f2
+SHA256: 9afccb980399befd5d2724912077f5ec49d72abee13ec7a17566080242013c98
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0.1_iphoneos-arm.deb
+Size: 21218
+MD5sum: d90b5e8e0bc6b895b660cfa46e387f6c
+SHA1: bbc725141a955f6c578a2de5e8d5da1e5ec5356b
+SHA256: 839b8beb39d2b70a6dbf0721fe98bb44845e04c29a3a912ae603e23aacbea8f8
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0.2_iphoneos-arm.deb
+Size: 21522
+MD5sum: f35e45a15031e81683c297e60f4182c9
+SHA1: 82d90d4c270d8a3e5175acd3638f32d4bc743aa5
+SHA256: f9f128a10ca250c6585fc96d35395c14c13770e2425c27d9269bd5a99032867d
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1_iphoneos-arm.deb
+Size: 40768
+MD5sum: d226c56cf9f684d2b421fe290006141c
+SHA1: eb5c0bf1a41fc82885a8f9ecd5f1508931a2de79
+SHA256: 7bf5a63f54b70f05abf458e3d675f22c35a940a4adb55c466f58e07fc3d6e7ea
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.1_iphoneos-arm.deb
+Size: 40954
+MD5sum: 29fdc82ea42eb928094e6f563b27f551
+SHA1: de747dff5cf7b27f55e0bace10f35d49b731a6e5
+SHA256: d3ead9fad1618410d9b2516c298dd52656f003edc1448eb24704fd9f7748dd32
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.2_iphoneos-arm.deb
+Size: 45998
+MD5sum: 01e92a4348d8a9c7d81ea759c7d41508
+SHA1: f6256f9c76896b4bfd6c1b1e5e4110a355207361
+SHA256: 91c1e894ffc31072e4a7a3427983eff06622c262eb3a2131f16a821ffdca189b
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.3_iphoneos-arm.deb
+Size: 46692
+MD5sum: 82118efbb1569046cf30e8d44234be08
+SHA1: 6886993db8fd1973939e91a8f309b4befed72093
+SHA256: 0198089f71af44969b53ac0bae33db5b4acc7407033bc827621ccd048ea5ff11
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b1_iphoneos-arm.deb
+Size: 48472
+MD5sum: bfe570f56b3666718cec98bf487df850
+SHA1: b178544f1161fa41e4730753c467bb6e5d9af05c
+SHA256: af29ba580f5dc5768e03ed8c1baef853cd6aaef82730fa71815d6727205f2327
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b2_iphoneos-arm.deb
+Size: 48484
+MD5sum: 1fb0b7a80f325602fa7849d73c595378
+SHA1: 81529457af522223cb6c30d6aaed37e4b22d3dd1
+SHA256: bed3a3505c86085eb4d7ecf3e9b4b731c4a9dc72a597ec2204ae9f95e470eb01
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b3_iphoneos-arm.deb
+Size: 48462
+MD5sum: 0e8f8081095cdd97a9eb99bd7eb059cb
+SHA1: 70b94c4930639b6d81451c95c0a64a863d1062c1
+SHA256: dc9caf7ffeba226eb9c855e010198c6b04371b21ef4fc0fe99cdd793fe6a8cce
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b4
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b4_iphoneos-arm.deb
+Size: 387944
+MD5sum: a5460314128d82bc590c153c91ca175d
+SHA1: 8cf63e8ac17525cfa48c15b36b341cdf99d10621
+SHA256: 7ef504696a8e8376f10dc6d503659845da4afa4132781a124b1fc05402361d7e
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b5
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b5_iphoneos-arm.deb
+Size: 388116
+MD5sum: d49ebe2d2a20be1210f7705fd535c640
+SHA1: 633c9ea970d155bbbe482545cdbcbeee33a8e673
+SHA256: e93055daba7bef20e2fb90f0929d6207771e08d35890613618a5ee0463b971a5
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b6
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b6_iphoneos-arm.deb
+Size: 377910
+MD5sum: d89b842b507ecc9c5c7f0bb0c5e4d2cc
+SHA1: f3d140bc2a124917c0af161846a52c111f4c6137
+SHA256: 99a1cadf9f4a8e77a9ed9fd092556d9f10e66be7cb3a7179861ad4e888037895
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b7
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3592
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
+Size: 378932
+MD5sum: 43d42846a6ae58f0c641b13000d762e3
+SHA1: 4828bcef31c915881b03023e6df34da56dd0c050
+SHA256: 023ff8fd7d4a2fa855e38905c844dea1fde60b55f1b2dc79c709bb2c0835b145
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.permaflex
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 372
+Depends: mobilesubstrate, com.shmoopillc.flexible
+Filename: ./debs/com.shiftcmdk.permaflex_1.0.1_iphoneos-arm.deb
+Size: 57138
+MD5sum: 97030d3afac5152997aae0f3cedc5487
+SHA1: 345fdf9934424c5c2448952e41d61bd367eb3edc
+SHA256: 3d0818c8835d51540d58dda1906d53cc111afeb07010da1f94ac45901faa52c3
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Name: PermaFlex
+
+Package: com.shiftcmdk.permaflex
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.permaflex_1.0.2_iphoneos-arm.deb
+Size: 45966
+MD5sum: 9151b6054aad179f4975083b780e7b9a
+SHA1: 43cc7c35be9fcd04225b3e2fd25a2510129beb46
+SHA256: 9734711b853d72da00dc9949cbe02363a1a4b570fef5ec7e0784c0e421934cdf
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Name: PermaFlex
+
+Package: com.shiftcmdk.settingscollapse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.0_iphoneos-arm.deb
+Size: 14676
+MD5sum: f7fe3cc364da343db0a858582a1bf777
+SHA1: 4a5e440882109d4d0465f09469ce40e2a156adfd
+SHA256: 9ab38d8b2723794257782cb5dcbc2e6172cc50d578eb20a8f68eb6d02066a384
+Section: Tweaks
+Description: Expand or hide individual sections in the Settings app.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.settingscollapse
+Name: SettingsCollapse
+
+Package: com.shiftcmdk.settingscollapse
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 348
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.1_iphoneos-arm.deb
+Size: 42044
+MD5sum: 99f13ad781d0242b2849548965d6407e
+SHA1: 2cf964e9263341a1cc0550f9d2a9d5e3387bab3d
+SHA256: 259426d38a8f10f5521dab4d2af07d6b57c235fe6cd22d865d1693c7bcc4abb4
+Section: Tweaks
+Description: Expand or hide individual sections in the Settings app.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.settingscollapse
+Name: SettingsCollapse
+
+Package: com.shiftcmdk.settingscollapse
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 436
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker|me.nepeta.libcolorpicker
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.1.1_iphoneos-arm.deb
+Size: 37650
+MD5sum: c1bf8e1822de52005f65f3b6d43576b3
+SHA1: af39e98bef8c92084b8add68038c6be6cb5161d4
+SHA256: 4531037fd793918d5578f908e3ee7f74bde97138f2b1a84c701c6acde69b9f3c
+Section: Tweaks
+Description: Expand or hide individual sections in the Settings app.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.settingscollapse
+Name: SettingsCollapse
 
