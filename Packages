@@ -58,3 +58,18 @@ SHA256:
 Description: An amazing theme with ove 2000 icons
 Name: Viola White
 Author: Bossgfx <email@email.com>
+
+Package: com.pholic.modernui
+Section: Tweaks
+Maintainer: azlan777@icloud.com
+Architecture: iphoneos-arm
+Version: 1.1.0
+Depends: mobilesubstrate
+Filename: debs//modernui_1.1.0.deb
+Size: 4.27 Kb
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: Gesturesi11 without any customiseability
+Name: GesturesUI
+Author: pholic <email@email.com>
