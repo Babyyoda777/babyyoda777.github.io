@@ -1,131 +1,30 @@
 Package: com.spark.snowboard
-Section: Tweaks
-Maintainer: azlan777@icloud.com
+Version: 1.4.12~Beta4
 Architecture: iphoneos-arm
-Filename: debs//1.4.12_Beta4.deb
-MD5sum: 
+Maintainer: BabyYoda777
+Depends: mobilesubstrate
+Filename: ./debs/1.4.12_Beta4.deb
+Size: 1.56 Mb
+MD5sum: a4dc9696690c0711b57d8c8a327e7fcf
 SHA1: 
 SHA256: 
-Description: Snowboard is a themes manager that allow you to install themes and customise your icons.
-Author : Spark
-Version : 1.4.12~Beta4
-Size : 1.56 Mb
-Installed-Size : 4828
-Depends : mobilesubstrate, preferenceloader
-Conflicts : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Section: Tweaks 
+Description: Theme Manager to install and manage you favourite themes.
+Author: Spark
 Name: Snowboard
 
-Package: com.hius.gesturesi11
-Section: Tweaks
-Maintainer: azlan777@icloud.com
-Architecture: iphoneos-arm
-Version: 3.6.7
-Depends: mobilesubstrate
-Filename: debs//gesturesi11_3.6.7.deb
-MD5sum: 
-SHA1: 
-SHA256: 
-Description: iPhone X gestures on any iPhone. This is a customiseable version.
-Name: Gesturesi11
-Author: Hius <email@email.com>
-
-
 Package: love.litten.puck
-Name: Puck
-Section: Tweaks
-Maintainer: azlan777@icloud.com
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: debs//love.litten.puck_1.8_iphoneos-arm.deb
-Author : Litten
-Version : 1.8
-Size : 1.07 Mb
-Installed-Size : 1940
-Depends : mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
-Compatibility : iOS 13+
-
-Package: com.bousrih.violaWhite
-Section: Tweaks
-Maintainer: azlan777@icloud.com
-Architecture: iphoneos-arm
 Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: BabyYoda777
 Depends: mobilesubstrate
-Filename: debs//60423ea095a77b001a9181a5.deb
-MD5sum: 
+Filename: ./debs/love.litten.puck_1.8_iphoneos-arm.deb
+Size: 1.56 Mb
+MD5sum: 378dcf5253beec1abeca5b69d763dcc0
 SHA1: 
 SHA256: 
-Description: An amazing theme with ove 2000 icons
-Name: Viola White
-Author: Bossgfx <email@email.com>
-
-Package: com.pholic.modernui
-Section: Tweaks
-Maintainer: azlan777@icloud.com
-Architecture: iphoneos-arm
-Version: 1.1.0
-Depends: mobilesubstrate
-Filename: debs//modernui_1.1.0.deb
-MD5sum: 
-SHA1: 
-SHA256: 
-Description: Gesturesi11 without any customiseability
-Name: GesturesUI
-Author: pholic <email@email.com>
-
-Package: com.cokepokes.appstoreplusplus
-Version: 0.9.14-11
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: deb//com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
-MD5sum: 
-SHA1: 
-SHA256: 
-Section: Tweaks
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Name: AppStore++
-
-Package: xyz.willy.zebra
-Version: 1.1.15
-Architecture: iphoneos-arm
-Maintainer: Zebra Team
-MD5sum: 
-SHA1: 
-SHA256: 
-Section: Tweaks
-Description: One of the best package managers out there.
-Author: Zebra Team
-Name: Zebra
-
-Package: com.laughingquoll.noctis12
-Version: 1.8.9.6
-Architecture: iphoneos-arm
-Maintainer: LaughingQuoll
-Filename: deb//5ff55dd5b37968001bb1125a.deb
-Depends: firmware (>= 12.0)
-MD5sum: 
-SHA1: 
-SHA256: 
-Section: Tweaks
-Description: Dark Mode for iOS 12
-Author: LaughingQuoll
-Name: Noctis12
-
-Package: net.angelxwind.appsyncunified
-Section : Tweaks
-Version: 90.0
-Architecture: iphoneos-arm
-Maintainer: Karen
-Filename: deb//nodelete-net.angelxwind.appsyncunified.deb
-Description: Install unsigned iOS apps freely
-Name: AppSync
-Author : Karen/あけみ, Linus Yang
-Version : 90.0
-Size : 58.32 Kb
-Installed-Size : 732
-Depends : firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.4.1)
+Section: Tweaks 
+Description: Save your jailbreak from dying when your phone is about to die.
+Author: Litten
+Name: Puck
 
