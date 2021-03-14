@@ -1,5 +1,5 @@
 Package: com.spark.snowboard
-Section: 
+Section: Tweak
 Maintainer: azlan777@icloud.com
 Architecture: iphoneos-arm
 Version: 1.4.12~Beta4
@@ -10,6 +10,6 @@ MD5sum:
 SHA1: 
 SHA256: 
 Description: Snowboard is a themes manager that allow you to install themes and customise your icons.
-Name: 
+Name: Snowboard
 Author: name <email@email.com>
 
