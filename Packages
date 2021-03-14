@@ -90,3 +90,17 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.w
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
+
+Package: xyz.willy.zebra
+Version: 1.1.15
+Architecture: iphoneos-arm
+Maintainer: Zebra Team
+Filename: deb//xyz.willy.zebra_1.1.15_iphoneos-arm.deb
+Size: 3003986
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Description: One of the best package managers out there.
+Author: Zebra Team
+Name: Zebra
