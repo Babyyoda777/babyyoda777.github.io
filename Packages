@@ -32,6 +32,7 @@ Author: Hius <email@email.com>
 
 
 Package: love.litten.puck
+Name: Puck
 Section: Tweaks
 Maintainer: azlan777@icloud.com
 Architecture: iphoneos-arm
