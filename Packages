@@ -2,15 +2,18 @@ Package: com.spark.snowboard
 Section: Tweaks
 Maintainer: azlan777@icloud.com
 Architecture: iphoneos-arm
-Version: 1.4.12~Beta4
-Depends: mobilesubstrate
 Filename: debs//1.4.12_Beta4.deb
 MD5sum: 
 SHA1: 
 SHA256: 
 Description: Snowboard is a themes manager that allow you to install themes and customise your icons.
-Name: Snowboard
-Author: Spark <email@email.com>
+Author : Spark
+Version : 1.4.12~Beta4
+Size : 1.56 Mb
+Installed-Size : 4828
+Depends : mobilesubstrate, preferenceloader
+Conflicts : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 
 Package: com.hius.gesturesi11
 Section: Tweaks
@@ -31,15 +34,14 @@ Package: love.litten.puck
 Section: Tweaks
 Maintainer: azlan777@icloud.com
 Architecture: iphoneos-arm
-Version: 1.8
 Depends: mobilesubstrate
 Filename: debs//love.litten.puck_1.8_iphoneos-arm.deb
-MD5sum: 
-SHA1: 
-SHA256: 
-Description: Save your iPhone from dying when on low battery
-Name: Puck
-Author: Hius <email@email.com>
+Author : Litten
+Version : 1.8
+Size : 1.07 Mb
+Installed-Size : 1940
+Depends : mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Compatibility : iOS 13+
 
 Package: com.bousrih.violaWhite
 Section: Tweaks
@@ -116,10 +118,14 @@ Version: 90.0
 Architecture: iphoneos-arm
 Maintainer: Karen
 Filename: deb//nodelete-net.angelxwind.appsyncunified.deb
-MD5sum: 
-SHA1: 
-SHA256: 
-Section: Tweaks
 Description: Install unsigned iOS apps freely
-Author: Karen
 Name: AppSync
+Author : Karen/あけみ, Linus Yang
+Section : Tweaks
+Version : 90.0
+Size : 58.32 Kb
+Installed-Size : 732
+Depends : firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.4.1)
+Conflicts : us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces : us.hackulo.appsync50
+Compatibility : iOS 5
