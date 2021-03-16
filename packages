@@ -1,52 +1,4673 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137158091-1" type="text/javascript"></script>
-<script type="text/javascript">
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
+Package: com.megadev.coronacounter
+Version: 3
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Installed-Size: 460
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.megadev.coronacounter_3_iphoneos-arm.deb
+Size: 112262
+MD5sum: b2c324c81027969db5c54896dae8942b
+SHA1: 1341711f135df191377ed62ff5c41a8dab885f71
+SHA256: 3f6ee70179cbb6a1cfb43ee9d4c671bb4fc28c1ef9bf1a0a479ebacc09392000
+Section: Tweaks
+Description: Shows COVID-19 cases in statusbar.
+Author: MegaDev & Simon021
+Name: CoronaCount
 
-            gtag('config', 'UA-137158091-1');
-        </script>
-<title>Packages</title>
-<link rel="icon" href="favicon.ico" class="next-head">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="../assets/global.css">
-<link rel="stylesheet" type="text/css" href="../assets/packages.css">
-<link rel="stylesheet" type="text/css" href="../assets/fonts/inter.css">
+Package: com.megadev.coronacounter
+Version: 2.1-4
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.megadev.coronacounter_2.1-4_iphoneos-arm.deb
+Size: 112976
+MD5sum: 6e8c5cbdbbe7bfa1159ed65a1ec0caec
+SHA1: e3cec0dcede0beacf33d79398c7dd45b530282b3
+SHA256: b3e8fc634f83004acf3519daeb44cb29c6c4744dfb7c4b516c33ceaa294d6b1c
+Section: Tweaks
+Description: Shows COVID-19 cases in statusbar.
+Author: MegaDev & Simon021
+Name: CoronaCount
 
-</head><body id="darkMode">
-<div class="navbar">
-<div class="navbarContainer">
-<a href="../" class="navbarLogo">&gt; cd ~</a>
-<div class="logoCursor"></div>
-<div class="rightNavContainer">
-<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://babyyoda777.github.io/">Add Repo</a>
-<svg class="themeToggle" width="24" height="24" viewBox="0 0 48 48" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleDarkMode()">
-<path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
-                        3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
-                        13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"></path>
-</svg>
-</div>
-</div>
-</div>
-<div class="wrapper">
-<h1>All Packages</h1>
+Package: com.megadev.coronacounter
+Version: 2.1-3
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.megadev.coronacounter_2.1-3_iphoneos-arm.deb
+Size: 113758
+MD5sum: 85f069cffd1de315a9f0179a3fec6bc1
+SHA1: 0673532eeb7ec25652748cd5ee7af8155f820286
+SHA256: 6b5b7205853f1d4d37d8c8b32a375a0b1026fdaa0dac740bcc2d6a92790650e6
+Section: Tweaks
+Description: Shows COVID-19 cases in statusbar.
+Author: MegaDev & Simon021
+Name: CoronaCount
 
-<title>Babyyoda777's Repo</title>
-<link rel="icon" href="CydiaIcon.png" class="next-head">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="https://midnightchips.me/assets/global.css">
-<link rel="stylesheet" type="text/css" href="https://midnightchips.me/assets/homepage.css">
-<link rel="stylesheet" type="text/css" href="https://midnightchips.me/assets/fonts/inter.css">
+Package: com.megadev.coronacounter
+Version: 2.1-2
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.megadev.coronacounter_2.1-2_iphoneos-arm.deb
+Size: 113760
+MD5sum: 0e0b22baf0e15cb16da914f8d417e6c4
+SHA1: cd1022b62b09b79ea54609c26d51d0e78e4c585b
+SHA256: dd3cfaf0c58d0eaf733b784d7b2b2755d6d35eb42e598c146b70bc04fc2da3a9
+Section: Tweaks
+Description: Shows COVID-19 cases in statusbar.
+Author: MegaDev & Simon021
+Name: CoronaCount
 
 
-</p><div class="navbar">
-<div class="navbarContainer">
-<a href="https://babyyoda777.github.io/" class="navbarLogo">&amp;<p></p></a></div></div></p></div></div></a><a href="/depiction/?trolldrop-gui"><div class="packageWrapper" style="background-image: url(trolldrop-gui/banner.png);animation-delay: 0.5s"><img class="bannerIcon" src="trolldrop-gui/icon.png"><img class="bannerImage" src="trolldrop-gui/banner.png" onerror="removeBanner(this)"><div class="packageLowerInfo"><p class="packageTitle">Trolldrop</p><p><p>Fork of https://github.com/XMB5/trolldrop, which is a fork of https://github.com/a2/TrollDropKit</p></p></div></div></a></div>
+Package: com.autopear.installipa
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 4.0), gsc.armv7
+Section: Utilities
+Priority: optional
+Description: Install IPA from the command line. Compiled for iOS 11.
+Tag: role::enduser, purpose::console
+Author: Merlin
+Name: IPA Installer Console
+dev: lonelystars
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Sponsor: thebigboss.org <http://thebigboss.org/>
+Version: 3.4.2-1
+Installed-Size: 344
+Filename: debs/com.autopear.installipa_3.4.2-1_iphoneos-arm.deb
+Size: 60820
+MD5sum: b3f61326985d96ffbc17f7df8d93975e
+SHA1: 24c73c108e97dd2a15146f385f6c8f45cd20eaa7
+SHA256: e35ca7376b2e5ed7fe5850f1504b2d5efacc4ebb5b5ec8cbf75ac5b5c3d41c77
+
+Package: com.xsf1re.combinationlockhelper
+Name: CombinationLockHelper
+Depends: mobilesubstrate, com.patsluth.swcombinationlock
+Architecture: iphoneos-arm
+Description: 비밀번호를 입력하는 창에서 Combination Lock 트윅과 키패드가 서로 겹쳐지는 버그를 수정합니다. 
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 116
+Filename: debs/com.xsf1re.combinationlockhelper_1.0-1_iphoneos-arm.deb
+Size: 3652
+MD5sum: 4c4ee9b3fad07c82f092178d7cc89988
+SHA1: 2ef89b53d78003a11357e7b2cbc1c3c178346ae5
+SHA256: 0741d3a182e937ea6114e05a96efb8d2fc6610d681dcdfb1a3beb73ed2205aed
+
+Package: com.xsf1re.combinationlockhelperplus
+Name: CombinationLockHelper+
+Depends: mobilesubstrate, com.patsluth.swcombinationlock
+Architecture: iphoneos-arm
+Description: 블러효과가 있는 휠을 제거할 뿐만 아니라 비밀번호를 입력하는 창에서 Combination Lock 트윅과 키패드가 서로 겹쳐지는 버그를 수정합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.0-3
+Installed-Size: 136
+Filename: debs/com.xsf1re.combinationlockhelperplus_1.0-3_iphoneos-arm.deb
+Size: 2826
+MD5sum: f9a82fd35172ee2e0acf04f6d7819a86
+SHA1: d5d6cfa786bcacb4845109344ff41a9fd5c496a4
+SHA256: a671646e6ef57fac5b05dd86ef22980618c0f9ea2c2be0454213bd7aef7d1119
+
+Package: com.xsf1re.fiveappdock11
+Name: FiveAppDock11
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: 독바에 5개의 앱을 추가시킬 수 있습니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.0-3+debug
+Installed-Size: 116
+Filename: debs/com.xsf1re.fiveappdock11_1.0-3+debug_iphoneos-arm.deb
+Size: 3130
+MD5sum: 6a3308ad82feee52e5e4a5d29da52be9
+SHA1: ad2ccc7ec46b509fd2de4fea5c673b913d88b301
+SHA256: 59af5ec2b36769ac5f4d9a97c570703dcb56af021c2a2bb29489db4442742a1c
+
+Package: com.xsf1re.iMessageSimpleSender
+Name: iMessageSimpleSender
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iMessage가 활성화된 상태에서 메시지 창 밑에 서드파티 앱 목록이 자동으로 나오는 것을 방지합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-12+debug
+Installed-Size: 117
+Filename: debs/com.xsf1re.iMessageSimpleSender_0.0.1-12+debug_iphoneos-arm.deb
+Size: 3742
+MD5sum: 78553e90b21f53c6ad214ed087769b1b
+SHA1: 69464ec86fb4124de0a4f2c06d151f09b3ad48ff
+SHA256: f248b9f934edb1f704d3d4670ab9e7b14f278c340fa5d5ef689e59f47776f728
+
+Package: com.xsf1re.installerkr
+Name: InstallerKR
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Installer에 한글화 패치를 적용합니다. Installer b5 버전에서 확인 완료.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.1.3
+Installed-Size: 184
+Filename: debs/com.xsf1re.installerkr_0.1.3_iphoneos-arm.deb
+Size: 17830
+MD5sum: e6d176109ea1e2a90785eb4a49ea2004
+SHA1: 39bcb433ecef4a42cd3c1b1dc42786f649ce68c7
+SHA256: 3aa74323d1c0b719b35c1a64e9ddebab8efaaf213ac5200722a56e779ace69c7
+
+Package: com.xsf1re.nokatalkad
+Name: NoKaTalkAD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: (베타테스터용) 카카오톡 앱에 있는 광고를 제거합니다. 8.4.1버전에서 확인 완료. 또한, 채팅 댑에서 광고가 나타나는 버그를 수정하고 더보기 탭 뿐만 아니라 검색, 새로운 채팅 메뉴에서 더많은 광고를 제거하며 더보기 탭에서 빈 공간에 스크롤되는 버그를 고쳤습니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks 
+Version: 1.3
+Installed-Size: 136
+Filename: debs/com.xsf1re.nokatalkad_1.3_iphoneos-arm.deb
+Size: 3934
+MD5sum: dd606eb5e47ef3cb4dcf6b0ce14416cd
+SHA1: a6a312d596f1d623c90c13e4b8928a4fde791a45
+SHA256: 8ca68baed870dbdc61a3bbd8511116027bbf3ce75364154006a38f08980ae02b
+SileoDepiction: https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/
+
+Package: com.xsf1re.nokatalkmunsang
+Name: NoKaTalkMunsang
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Run OneTouchMunsang without KakaoTalk App Transition.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 136
+Filename: debs/com.xsf1re.nokatalkmunsang_1.0-1_iphoneos-arm.deb
+Size: 2994
+MD5sum: 9cd1294d03af6e4e96779e13eac24263
+SHA1: 78cbfdb517838b145ddb36e5cd4358b65d2b9863
+SHA256: 4aaa8b63225d2ab003ecbc8fa7ec9583ec8d4ef451fcd9346a0eedfc95833caa
+
+Package: com.xsf1re.nomoreweathersource
+Name: NoMoreWeatherSource
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 위젯 창에서 하단에 배치되있는 날씨 정보 제공 관련 문구를 삭제합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-15+debug
+Installed-Size: 117
+Filename: debs/com.xsf1re.nomoreweathersource_0.0.1-15+debug_iphoneos-arm.deb
+Size: 3130
+MD5sum: e0629f065033834d90e8f736f162b4ae
+SHA1: c5c33bb4b56193dfc81135c908dbbade896086ee
+SHA256: 067fbed4068e4cbb81eb12839e18ca364ef0167ed275f664b8b57749060b9dcf
+
+Package: com.xsf1re.nootabadgeinsetting
+Name: NoOTABadgeInSetting
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 아니 왜... 뱃지 지우고 재부팅했는데 탈옥할 때마다 설정 화면에 뱃지 모양이 뜨죠? 상당히 껄끄럽네요.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 136
+Filename: debs/com.xsf1re.nootabadgeinsetting_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3630
+MD5sum: ce4044a6d4dd779aaeccb1a6f46729fd
+SHA1: 8655a1de8646ac318350430641b91589277ece66
+SHA256: 1011b6bbd46e416bd1493e863fd3516f30719639b90c8bbdb8ebfe2260644ace
+
+Package: com.xsf1re.power4options
+Name: Power4Options
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 전원을 끄는 창에서 슬라이더 버튼을 한 번 누를 때마다 기능이 바뀝니다. 
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.1.2.1-2+debug
+Installed-Size: 159
+Filename: debs/com.xsf1re.power4options_1.1.2.1-2+debug_iphoneos-arm.deb
+Size: 18738
+MD5sum: 0159e44223fc121f1d8a1a63297bea9c
+SHA1: 2fc609e2d903a70cbd66a3546c5da6e6bf190867
+SHA256: a181f5c41a665dda5c63614bf1786cf8e6a7eb412f2ec04d673b1634cca1063d
+
+Package: com.xsf1re.youtubefor6
+Name: YoutubeFor6
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Ignore Update Alert of Youtube App running on iOS 6 Device! Confirmed on 10.11.11546 App Version.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks 
+Version: 0.1.1
+Installed-Size: 136
+Filename: debs/com.xsf1re.youtubefor6_0.1.1_iphoneos-arm.deb
+Size: 2596
+MD5sum: c6587e618182ddbe78e4ed85b27947ca
+SHA1: 4807ce792146a96ecf7fee4c55266a89025c9057
+SHA256: 51079f1dc07f127f4901d050501e7c6a47951992b8d88924ba453fbcb173e965
+
+Package: com.xsf1re.zebrakr
+Name: ZebraKR
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Zebra에 한글화 패치를 적용합니다. Zebra 1.0~beta16 버전에서 확인 완료.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.2.1
+Installed-Size: 180
+Filename: debs/com.xsf1re.zebrakr_0.2.1_iphoneos-arm.deb
+Size: 15234
+MD5sum: 5684ea134077a306d33680cd58165ce4
+SHA1: 6b64b794dc0fa4d118955fb7e7336faa150693c2
+SHA256: 8e3224773341df9cf5b23293b1085db5cce24ec584132cdd4a3d92f13e97f1f8
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta9
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta9_iphoneos-arm.deb
+Size: 122412
+MD5sum: f314eaa0e4fd38fd582263c3432fb707
+SHA1: e3ba33859419c6592299e85781c9afae26570f9f
+SHA256: 501b84fa124b248c3fd603c5346785a7a379f821b89eeca781d9e07eaf52a57e
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.substrateloaderfix
+Name: SubstrateLoaderFix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 리브나 U+Pass, 롯데면세점 등 일부 앱과 SubstrateLoader가 서로 충돌되는 현상을 임시방편으로 고치는 역할을 합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.2
+Installed-Size: 88
+Filename: debs/kr.xsf1re.substrateloaderfix_0.2_iphoneos-arm.deb
+Size: 50512
+MD5sum: ef5be9f5889efce1697c90dc8a0477be
+SHA1: d6655e0746f0517e732e6a59f289db27527f0050
+SHA256: b84b34759eacc5ca93587be382ece3bbb209aa518ceddf8a6584cffe551a1e80
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta10
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta10_iphoneos-arm.deb
+Size: 123648
+MD5sum: e4d917c5bd9067cc94f24928e43e5030
+SHA1: eaee998910581670b34d194c0063e9806a694a50
+SHA256: 2a33c592e55b5c9785bba9bc479764775ef6d9297b2bdc8b7304d93831c71c6d
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta11
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta11_iphoneos-arm.deb
+Size: 123562
+MD5sum: d540bb7cba26c5f17c5c5710f4c29329
+SHA1: 86a3084bbf5c3164a7dfcadf37e9864b3cbc9d0e
+SHA256: 379b93d5bde2a927800706dc93a2a99e4a87ec427aa84c0f984b7afe8549bedc
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta12
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta12_iphoneos-arm.deb
+Size: 123374
+MD5sum: 8c0cb73fbec0dd73d9ec6b4b8e180c63
+SHA1: 589f1ec4ecefcd3956756f44b023ad1d80b88ca6
+SHA256: 278cd18e0834f1d8a67d329831f29b68faf4b747282d2ff63efc9089aef551b9
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.ebsihespeeder
+Name: EBSiHESpeeder
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: EBSi 고교강의 플레이어를 조금 개선해줍니다. 재생 속도를 세밀하게 변경하거나 되감기, 빨리감기 간격을 변경할 수 있으며 3.8.8 앱배전 및 64비트 기기에서만 작동 가능합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.1
+Installed-Size: 284
+Filename: debs/kr.xsf1re.ebsihespeeder_0.1_iphoneos-arm.deb
+Size: 11222
+MD5sum: f377412cdb55159253c3bc82a617ba79
+SHA1: 6a62343db2ca517e939aaf2f2b999ef6f9b90f6c
+SHA256: 2ce54d359bfd2a32850fc949448fd3a7e8b86536e6856c634a8b55f8c64b6c14
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta13
+Installed-Size: 772
+Filename: debs/kr.xsf1re.flyjb_0.2~beta13_iphoneos-arm.deb
+Size: 124962
+MD5sum: f4d60296b039e6331f1f05debf7d07c0
+SHA1: 630c53de9112cb20a7eb243a36adf904945beca7
+SHA256: c63dbb4b7ccfbcad1887dffccbbaaa792d98e14ae6814649120e41d25566804b
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: com.xsf1re.nokatalkad
+Name: NoKaTalkAD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: (베타테스터용) 카카오톡 앱에 있는 광고를 제거합니다. 8.6.3버전에서 확인 완료. 채팅 탭에서 광고가 나타나는 버그를 수정하고 더보기 탭 뿐만 아니라 검색, 새로운 채팅 메뉴에서 더많은 광고를 제거하며 더보기 탭에서 빈 공간에 스크롤되는 버그와 메일이나 캘린더 일정 관련 메뉴가 안보이는 버그를 고쳤습니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks 
+Version: 1.3.1
+Installed-Size: 264
+Filename: debs/com.xsf1re.nokatalkad_1.3.1_iphoneos-arm.deb
+Size: 4960
+MD5sum: 7743443eadffe4ff0ec6ec45f6271e96
+SHA1: c6bd6e01bb016fa22033383514ef899bc45a6c60
+SHA256: 1134e536c91c56c4d157035147b432ff5f29a79e706cae4104f0aecb83916e77
+SileoDepiction: https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta14
+Installed-Size: 804
+Filename: debs/kr.xsf1re.flyjb_0.2~beta14_iphoneos-arm.deb
+Size: 126878
+MD5sum: a0ef986ad1974fbb7101630967bed49b
+SHA1: e5184257dac2c8009f5474c1a419481705610682
+SHA256: cb867cbd0f19c8db6bd9a14ae99dc5a153c39fe8dea773a118445f304a3a69cf
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta15
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta15_iphoneos-arm.deb
+Size: 124918
+MD5sum: 656ab8b7d866fc4bcda3fd7a35337ed7
+SHA1: edd8e6ed36e741379ea5c6effeaa50db7a65a360
+SHA256: c280e1918396ca8255e9d034d292a009e5bcb415158a9f5afecad06eab9f16fb
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta16
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta16_iphoneos-arm.deb
+Size: 124840
+MD5sum: f49a5b393e3bfe067d94da3a29ef412e
+SHA1: 10fafc4f3114e1a176ac878889650700e5e60a69
+SHA256: ec5638c1718e2c3d7855e4988ec1ff336b1d0923ccce02524bc26bd5188ee5f4
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta17
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta17_iphoneos-arm.deb
+Size: 125244
+MD5sum: 2a404074e425d398ae24f07f2f3bd077
+SHA1: 22a73a3120c62d1b829f8eda42a9e4f4d7783345
+SHA256: 50e9e5b70c4e5fb92b26e39d9e167c8c0ed4a6a8e43932c54713d1d85e3c94fd
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta18
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta18_iphoneos-arm.deb
+Size: 125654
+MD5sum: 5c7d0fb6366b3d27b379f05c3be9905b
+SHA1: f9f9bc4f7bd89b74a1542cd16d5457876abd6443
+SHA256: 3be166aa4b2fb284f9b8726bee9f3eef5880d76f9a52a91fcfd45196a917f118
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta19
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta19_iphoneos-arm.deb
+Size: 125998
+MD5sum: 1ffc5ad9b9fbad87b1cf901444122c45
+SHA1: 3c52494bce17197dbbb1ae40abd37f7ecb176003
+SHA256: 268f7c80e26404c193c70e724973d0e18da9fac2db0d20ddb6d2f7150485a631
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta20
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta20_iphoneos-arm.deb
+Size: 126078
+MD5sum: 9024f2084e77841e8bf24955b40ce91b
+SHA1: b0caa62f8ea3fd786b5da9e75d6e79cd1baf9c39
+SHA256: bc78d297721bfe63bf48055bbd69935cce23dd0e0c0b6ac700d6900e5c6b2d6f
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta21
+Installed-Size: 756
+Filename: debs/kr.xsf1re.flyjb_0.2~beta21_iphoneos-arm.deb
+Size: 128292
+MD5sum: c876e46c3b4fff20b9e534f116bb1a0a
+SHA1: 66246be6e3faa7fac8ac01d94e76f92285c659fa
+SHA256: dc6f2b3cadcd58fc2d6903ecff9aad67aba7914ff99a6838278815a34207c37b
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta22
+Installed-Size: 756
+Filename: debs/kr.xsf1re.flyjb_0.2~beta22_iphoneos-arm.deb
+Size: 128418
+MD5sum: e8ce570adff788a23de6956c1cb31f58
+SHA1: b3c73f9d8849238ea6d49224dd1a4e6ea733374e
+SHA256: 838e247ed9c0d8dcfd24cf5fe8a052242e38e0eab203326d4c6e83dac78814e1
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta23
+Installed-Size: 772
+Filename: debs/kr.xsf1re.flyjb_0.2~beta23_iphoneos-arm.deb
+Size: 129628
+MD5sum: 9df3ef19a873b26c6e2f05de8e4b037b
+SHA1: d4cb94de7ca8ef719cbd31638adbfe68803f18a4
+SHA256: fea6e0646779ffbffed3653b667e5cf82247afc9a61a0e589eb77ec3162948f5
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta24
+Installed-Size: 772
+Filename: debs/kr.xsf1re.flyjb_0.2~beta24_iphoneos-arm.deb
+Size: 129750
+MD5sum: 2913e5eb842cd3e302c0d18621ca76cc
+SHA1: cecba7d36c46e9c331feb0f17f32b7fcbe2694fe
+SHA256: aac600c560072b751757300b4fb53e96c2ceff82ea7a1d8f89e514bf915fbe2f
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta25
+Installed-Size: 772
+Filename: debs/kr.xsf1re.flyjb_0.2~beta25_iphoneos-arm.deb
+Size: 129716
+MD5sum: 3332f8970c897038c29b9a19583c16f0
+SHA1: a0b5243c6b287f438456dfef69add7199fc532ec
+SHA256: 6f115f2702a5fefb09b49275581c2532492f4c8d2e9039b339a904d7a1536e55
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.ebsihespeeder
+Name: EBSiHESpeeder
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: EBSi 고교강의 플레이어를 조금 개선해줍니다. 재생 속도를 세밀하게 변경하거나 되감기, 빨리감기 간격을 변경할 수 있으며 3.9.1 앱배전 및 64비트 기기에서만 작동 가능합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.1.1
+Installed-Size: 540
+Filename: debs/kr.xsf1re.ebsihespeeder_0.1.1_iphoneos-arm.deb
+Size: 18822
+MD5sum: ef5faac8fbfc179b31dff395c512afe7
+SHA1: e4270d21f4aee1f9cf94dc621d8d869625a5dd3c
+SHA256: 824e1d61b66967cece5c0114e2dd1096999bffb5d2a30d89d7c21d5205184a64
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta26
+Installed-Size: 772
+Filename: debs/kr.xsf1re.flyjb_0.2~beta26_iphoneos-arm.deb
+Size: 129910
+MD5sum: fdf1a48082dee86948afede2e96d0bfb
+SHA1: 14a96426ec6178643c651738318f5b971587bf9a
+SHA256: eaa2fa07dd78eecd95b2fdd0443ad17939c3690e9309c2bfdee2cccf39e41ea1
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: ch.jesseb0rn.rgbkeys
+Version: 2.0.0
+Section: Tweaks
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.rgbkeys.deb
+Description: RGB engaged for your Ios and Ipados Keyboard!
+Name: rgbKeys
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.rgbkeys
+Size: 16978
+MD5sum: 0c2f191ddda1e71a9518effb7a11c42b
+SHA1sum: 91a9b74629c4b812c2fb5d6e5802b15f37f70fcb
+SHA256sum: 538e8554001031b817aefa5e3b1f6445ea74463d25ae011211ac6a08681ea825
 
 
-<script src="https://cdn.jsdelivr.net/npm/showdown" type="text/javascript"></script>
-<script src="../assets/global.js" type="text/javascript"></script>
-<script src="../assets/packages.js" type="text/javascript"></script>
+Package: ch.jesseb0rn.mdmksos
+Version: 0.0.1b1
+Section: Tweaks
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: ws.hbang.newterm2
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.mdmksos.deb
+Description: RGB engaged for your Ios and Ipados Keyboard!
+Name: mdmKSOS
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mdmksos
+Size: 5554
+MD5sum: a655a9f7220651b04af7c3c13a14a8c2
+SHA1sum: 22625cd43bf2442ed1bb931ea0a6310a09239cbe
+SHA256sum: 9c336d8a2f002d9ec4a81f6c26e9a8893308dc5e3c49f8edb62050758912249d
+
+Package: ch.jesseb0rn.rgbattery
+Version: 2.0.1
+Section: Tweaks
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.rgbattery_2.0.1_iphoneos-arm.deb
+Description: RGB lighning for your battery icon in the status bar while plugged in.
+Name: rgbattery
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.rgbattery
+Size: 7420
+MD5sum: 9a89e084e5ef7f9767f95fc0d078cf63
+SHA1sum: c68b4686febb065baff05721ab733eab732c1bf4
+SHA256sum: eeb58f7e06a95d36a6c96ab7c592b44babae0741065303c2e3b85bcb77799e91
+
+Package: ch.jesseb0rn.mqtt
+Version: 1.0.1
+Section: System
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.mqtt_1.0.1_iphoneos-arm.deb
+Description: MQTT Command line utility
+Name: mqtt
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mqtt
+Size: 220156
+MD5sum: 3eb6ba77b9d806e5476e584ab0da878f
+SHA1sum: 95a896067772384a2acd5bdb9ce05b91cd92a6c0
+SHA256sum: b97944bd7d4127821c738cbfb662c877053075da9a1a65ef4c33ccd31cf634e9
+
+Package: ch.jesseb0rn.mqttmodule
+Version: 1.0.3
+Section: Control Center Modules
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: mobilesubstrate, com.opa334.ccsupport, ch.jesseb0rn.mqtt
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.mqttmodule_1.0.3_iphoneos-arm.deb
+Description: MQTT ControlCenter Module
+Name: mqttmodule
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mqttmodule
+Size: 35474
+MD5sum: 70db066ee4feff8b675031c0b6d39530
+SHA1sum: 141b8fc0ae17d6815906687981c55551db4d6702
+SHA256sum: 0199990357384065d5b7388758beee0e179277bc19be2e3d6f2d9dc9c06ad1b7
+
+Package: ch.jesseb0rn.iustum
+Version: 1.0.1
+Section: Tweaks (iPad)
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.iustum_1.0.1_iphoneos-arm.deb
+Description: lat. right
+Name: iustum
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.iustum
+SileoDepiction: https://jesseb0rn.github.io/repo/sileo-depictions/iustum.json
+Size: 5350
+MD5sum: 002c876f17d46467f2cccca115ac8eef
+SHA1sum: 960734cf88ea8c374aa0845f6667b717ce3ca980
+SHA256sum: 6bf88be8aa9cce5b8b9b5ecdc100c3eaa08c7f1ad9154958dd570ac5b5af1ca8
+
+
+Package: ch.jesseb0rn.sz
+Name: superZOOM
+Version: 1.0.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: set maximum zoom factor to 20x.
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Filename: ./debs/ch.jesseb0rn.sz_1.0.2_iphoneos-arm.deb
+Depends: firmware (>= 11.0.0)
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.sz
+Size: 2776
+MD5sum: 5535962ba43d6e9df5f33ca9a3dce511
+SHA1sum: 14ef0c37ee821da24da07473d19f08d7cd8835dc
+SHA256sum: afadd56cfc46b5c52aaaa32582e5b3ce86629003bc6653758ad28fa01cb84a4c
+
+Package: com.breadworks.fluidity
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Kieran Wilson
+Filename: debs/Fluidity.deb
+Size: 258862
+MD5sum: 9ac9b783966c6ade610dd5799906b525
+SHA1: d633626d4969b4ed09f2cf455d63c7ae3c243784
+SHA256: fa73717b98400c138933181e66f2841269d8249092bfe7c9ce38010d73d14a33
+Section: Tweaks
+Homepage: https://twitter.com/samthebreadman
+Description: Add iPX UI to other iOS 11 devices. Can be installed over FluidEnabler. Respring if Cydia doesn't.
+Author: Sam Breadman
+Name: Fluidity
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.5
+Architecture: iphoneos-arm
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: debs/com.julioverne.ext3nder-installer16.5.deb
+Size: 579784
+MD5sum: 3bfc8f1057289efe9893a5db87eddf8b
+SHA1: 3fb4a0854b8ae5a91b56bdac27ecfa9e438e4a27
+SHA256: f757543446933704872c678a517bbf9b2ae3e3cc08691a1af7e07a31d4732d3c
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Author: julioverne, MidnightChips
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.6
+Architecture: iphoneos-arm
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: debs/com.julioverne.ext3nder-installer.deb
+Size: 579542
+MD5sum: 5951ed8e416be7ae1b8933ae453ca87e
+SHA1: 8f2b09fe40221fab2491a1700dd47307dfe14b8f
+SHA256: 22edd086778e7bc9b4a02b54d9c8b7f5b2de9ffd22d9c18516c8686881352fb8
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Author: julioverne, MidnightChips
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.7
+Architecture: iphoneos-arm
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, zip, sed, curl
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: debs/ext3nder.deb
+Size: 475688
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
+SHA1: 0f5626113d5a90431979f3a09f3c5b0a56d2f1db
+SHA256: 1cd5ce01bdc7e19c383842b672345311bca3213a43be9e9ed69a41b18021073f
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Author: julioverne, MidnightChips
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+
+Package: com.midnightchips.asteroid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: midnightchips & the casle
+Installed-Size: 1108
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: debs/com.midnightchips.asteroid_1.0_iphoneos-arm.deb
+Size: 630070
+MD5sum: f99da88ce39f58342fd77b11f413d45e
+SHA1: bab11ca088dd145913c694d1e508395fa3837695
+SHA256: 51d1b18a523c78d8a0c528c59344ebb672ee778fe8cefce26521388a8c35ec36
+Section: Tweaks
+Priority: optional
+Description: System-wide weather tweak.
+Author: midnightchips & the casle
+Dev: midnightchips & the casle
+Name: Asteroid
+
+Package: com.midnightchips.asteroid
+Version: 1.9.9
+Architecture: iphoneos-arm
+Maintainer: midnightchips & the casle
+Installed-Size: 1048
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: debs/com.midnightchips.asteroid_1.9.9_iphoneos-arm.deb
+Size: 624646
+MD5sum: 6f51d3572c981d1696b881722b9b6019
+SHA1: edf1142f9e4587aa12b787bb8afa706d954b20d2
+SHA256: 011a23977f9e1a36574c66c9cf77c2c491a77cf735750f4f3424a9feaaed1722
+Section: Tweaks
+Priority: optional
+Description: System-Wide Weather.
+Author: midnightchips & the casle
+Dev: midnightchips & the casle
+Name: Asteroid
+
+Package: com.midnightchips.bettersettings
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 1852
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: debs/com.midnightchips.bettersettings_0.1.1_iphoneos-arm.deb
+Size: 1269784
+MD5sum: 6fdf8bbf489a0a1c6b582d8058af594f
+SHA1: 4afcc9fdc76b1a8a0f05afd8aec9b9b75a63c8ff
+SHA256: 9963d989d65548429317ee05170b03cc36ecba9bff35a2a2f3e1ecc9731da14f
+Section: Tweaks
+Description: Settings your way
+Author: midnightchips
+Depiction: https://midnightchips.me/depictions/asteroid/
+Name: BetterSettings
+
+Package: com.midnightchips.bettersettings
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 1964
+Depends: mobilesubstrate, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: debs/com.midnightchips.bettersettings_0.1.2_iphoneos-arm.deb
+Size: 1242124
+MD5sum: 461d0bae8b1222725ae3fe482f1e2490
+SHA1: 5d3a483657875f9246b292b6a7327716e7ba68bc
+SHA256: 55625d97de93eed3b92aeec72d7b1a6448ce7a73018efb7d3360bf018c73d108
+Section: Tweaks
+Description: Settings your way
+Author: midnightchips
+Depiction: https://midnightchips.me/depiction/?bettersettings
+Icon: https://midnightchips.me/packages/bettersettings/PM.png
+Name: BetterSettings
+Sileodepiction: https://midnightchips.me/sileo/bettersettings.json
+
+Package: com.midnightchips.cleantab
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 328
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Filename: debs/com.midnightchips.cleantab_0.0.2_iphoneos-arm.deb
+Size: 25478
+MD5sum: 37b55eeac671d14f1f8bace905637a9e
+SHA1: efb1b272f0b9435b7612e1262fb587540ae0d2b0
+SHA256: b5e932c15f65db60630860a5f30806d90171ebfb8fa16c833d2a7330540c93d7
+Section: Tweaks
+Description: Remove iOS Tab Bar Labels
+Author: midnightchips
+Name: Clean Tab
+
+Package: com.midnightchips.homehijack
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: MidnightChip
+Installed-Size: 372
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: debs/HomeHijack.deb
+Size: 95682
+MD5sum: b116159027c6dda5199f9c50b454d350
+SHA1: 549c2b166ff20fbc8424fe754ceb3c464015b570
+SHA256: b6f5f16d0513483e5f8faf8157243a8a20b771be71620b78aa6d80ce7cae7b66
+Section: Tweaks
+Description: Get rid of the annoying Siri, and use something worthwhile!
+Author: MidnightChip
+Depiction: https://repo.auxiliumdev.com/depictions/?p=HomeHijack
+Icon: file:///Library/PreferenceBundles/homehijackpreferences.bundle/icon.png
+Name: HomeHijack
+
+Package: com.midnightchips.ldRun
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 132
+Filename: debs/ldrun.deb
+Size: 3648
+MD5sum: 8bf048e97a595667fc65d2650cf2f002
+SHA1: 5944157392e687c433f3fca788eaa221ff8bbe0a
+SHA256: d7556af1149c14ff6b042f1cca1d4c4cb2ff39ed82281896d66b651e9f358e62
+Section: System
+Description: A binary to run ldrestart as root.
+Tag: role::hacker
+Author: midnightchips
+Name: ldRun
+
+Package: com.neinzedd9.dateundertimex
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.neinzedd9.dateundertimex_1.2.2_iphoneos-arm.deb
+Size: 3636
+MD5sum: 3a807a144d7cb6d0b1a3d53cbf05ad60
+SHA1: 7cc5278ebd952363194641240c394be30aa02c99
+SHA256: 0b0a366358eb9ab3f84c58942fd97cf274a55d95305b93d44782d1797126a141
+Section: Tweaks
+Description: Adds the date under the status bar on Devices with the Modern Statusbar
+Author: NeinZedd9
+Name: DateUnderTimeX-A12
+
+Package: com.vitataf.homegesture
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: MidnightChips/PINPAL
+Installed-Size: 984
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.vitataf.homegesture_1.7_iphoneos-arm.deb
+Size: 821316
+MD5sum: 07b3b0cd70ee6e5143bbabed7f1008b5
+SHA1: 1e0d41f05e6304ca2f186b80f29660c1006c81bd
+SHA256: 7a5f0742344fa196fccd00ff0a60ab9d6ced1131c1b01617debf3118b4121e0f
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://pinpal.github.io/package/HomeGesture/index.html
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+Name: HomeGesture
+
+Package: com.vitataf.homegesture
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips/PINPAL
+Installed-Size: 984
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.vitataf.homegesture_1.7.1_iphoneos-arm.deb
+Size: 821254
+MD5sum: 870a244e93f77de1a7880f6463cb7a95
+SHA1: c24c53d8cfc295c48c3849bcde826d033938b455
+SHA256: a3255a1e4a99f42e178f501bd4154a612359322568efe2a78f0f005b669b38ea
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://pinpal.github.io/package/HomeGesture/index.html
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+Name: HomeGesture
+
+Package: com.vitataf.homegesturelite
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: MidnightChips PINPAL
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs/com.vitataf.homegesturelite_1.4_iphoneos-arm.deb
+Size: 4010
+MD5sum: 18974af8a0055e53af077731087f348c
+SHA1: 4fd3474814d13e91595f36255f243ae5dc7a7561
+SHA256: 397c90f5b3b0bd759b2dee70428ab437cd3ee72c0a338fede10e3c0804483d49
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf
+Name: HomeGesture Lite
+
+Package: com.vitataf.homegesturelite
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: MidnightChips PINPAL
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs/com.vitataf.homegesturelite_1.5_iphoneos-arm.deb
+Size: 3428
+MD5sum: 6dc0345d40bd322af3ad922cbe9d7e3c
+SHA1: 26a6e2843349ecd135ee7ff1a0adf8c304513d48
+SHA256: 42ca286caf2461c46e1a5f2a8468e60c43cc353d87f0ccea3350718cccc13b2c
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf
+Name: HomeGesture Lite
+
+Package: com.wizage.gif2ani2
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: wizages, MidnightChips
+Installed-Size: 424
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Provides: com.aditkamath.springy
+Filename: debs/com.wizage.gif2ani2_2.1.1_iphoneos-arm.deb
+Size: 38252
+MD5sum: 41b78e1f544911e97171bde59beab137
+SHA1: 3d540d32fabd988df57eafdc7d129dbbb5a0daf0
+SHA256: 38b752abdd0f3e5ca163ee7a450591d43fa287285a2f0d1cd4b9b7b94b62f3ec
+Section: Tweaks
+Description: iOS Respring animations from any gif you want!
+Author: wizages, MidnightChips
+Name: Gif2Ani V2
+
+Package: me.midnightchips.snapback
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0_iphoneos-arm.deb
+Size: 515108
+MD5sum: 79167fb9052abaeb0f94e726fb9375a9
+SHA1: 08aeb9d71a921f2b35bd8f0668895a7b8614622b
+SHA256: a0e509ba225f78bdb08f464521b7fdbb44740d0034972ee07a5cdecc9fd07ab4
+Section: Application
+Description: iOS Time Machine
+Author: MidnightChips
+Name: SnapBack
+
+Package: me.midnightchips.snapback
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0.1_iphoneos-arm.deb
+Size: 515492
+MD5sum: e6b85c09c264970bd68e49e5be81c8ee
+SHA1: 7b8db1ae1223f0402661f1ffac2f12927232811d
+SHA256: a756fadb44eb14c2e2e8c1e7fe81d713ecce4175182d124156f05c3ce01a5c3a
+Section: Application
+Description: iOS Time Machine
+Author: MidnightChips
+Name: SnapBack
+
+Package: me.midnightchips.snapback
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0.2_iphoneos-arm.deb
+Size: 515674
+MD5sum: c28d3bfce28a1d2b81917080ab26897c
+SHA1: f92d62bf9de615457758c9415aa05510edb8f8fc
+SHA256: 108444bd1c881a533ec02945641354d92b5d1b6a8ffbfc0e2fc4c4b50de48399
+Section: Application
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+Name: SnapBack
+
+Package: me.midnightchips.snapback
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0.3_iphoneos-arm.deb
+Size: 515718
+MD5sum: b26d2287e3008d214e36d2c631c47d5a
+SHA1: 7f0a050a05d29a9672e86857067595d8134c3ac8
+SHA256: c3c330012a45051a860f3b7474fa80230b3bdc0f4022554b5a0cffb79a230038
+Section: System
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+Name: SnapBack (BETA)
+
+Package: me.midnightchips.snapback
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0.4_iphoneos-arm.deb
+Size: 515366
+MD5sum: 9df8941518f49503d2fa763acc96d20f
+SHA1: 84876a5efefc38bc47a4846dfd147f0f4a362c7c
+SHA256: 666daa6ff5f289240a5f5f4994a2599aa227356be000122632195ab89af5498a
+Section: System
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+Icon: https://midnightchips.me/packages/SnapBack/SileoIcon.png
+Name: SnapBack (BETA)
+Sileodepiction: https://midnightchips.me/sileo/snapback.json
+
+Package: me.midnightchips.trolldrop
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Depends: firmware (>= 11.0), com.modmyi.libswift4
+Filename: debs/Trolldrop1.0.0.deb
+Size: 870220
+MD5sum: 04e50555012dfd5c923fb695bd176760
+SHA1: 136d70ce2f1e8d56c3024684629f30f32c395e57
+SHA256: 84f1869f0bc2edfdeb99b33f498e8998937116a3a57b18cc2a5a142008e9a9c7
+Section: System
+Description: AirDrop Flooder GUI
+Author: MidnightChips, XMB5
+Depiction: https://midnightchips.me/depiction/?trolldrop-gui
+Name: Trolldrop
+
+Package: me.midnightchips.trolldrop
+Version: 1.0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Depends: firmware (>= 11.0), com.modmyi.libswift4
+Filename: debs/Trolldrop1.0.0~beta1.deb
+Size: 307188
+MD5sum: ece9bb49c60e277927dc295b1979757c
+SHA1: 2dfe6564c0f46f0cb4da095a29b63fe0dd088b69
+SHA256: 9e05593eba89f10b8a17cc4b74d02cc6512ab122bd9696367f99f82acb65d146
+Section: System
+Description: AirDrop Flooder GUI
+Author: MidnightChips, XMB5
+Depiction: https://midnightchips.me/depiction/?trolldrop-gui
+Name: Trolldrop (BETA)
+
+Package: me.midnightchips.trolldrop12-cli
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Depends: firmware (>= 11.0), com.modmyi.libswift4
+Filename: debs/trolldropcli.deb
+Size: 26508
+MD5sum: 8668a3ea03224c330366a3790f36b427
+SHA1: f6288842aac15222f6572e1040ccdb47dcf7c688
+SHA256: 6308fe715634e9d31ac5bca25d1d3d1755773d6aba04f05ccccfe2288d7ba276
+Section: System
+Description: AirDrop Flooder, Command Line Interface
+Author: MidnightChips, XMB5
+Depiction: https://midnightchips.me/depiction/?trolldrop12
+Name: trolldrop12-cli
+
+
+
+Package: com.dekesto.minimalcameraios9
+Version: 1.2.0-2
+Architecture: iphoneos-arm
+Maintainer: Dekesto
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9)
+Filename: ./debs/com.dekesto.minimalcameraios9_1.2.0-2_iphoneos-arm.deb
+Size: 60674
+MD5sum: 496191158a82d7c235c7d8ec30446bc6
+SHA1: d0e74833c3c828b4d21d2768155a0423c0b4c6ff
+SHA256: d42ec361b2757fbfc74478d96d3ebc7e87cf93d82dc0bc7a0a826a09e855141a
+Section: Tweaks
+Description: Camera tweak for the minimalist
+Author: Dekesto
+Name: MinimalCamera (iOS 9)
+
+Package: com.ps.3gunrestrictorflipswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 892
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.ps.3gunrestrictorflipswitch_0.0.1-1_iphoneos-arm.deb
+Size: 834512
+MD5sum: 931002acf201eaa2018bd5cefca7cdb6
+SHA1: 15df72b6a5d374308d7161afd66ffad2397222a5
+SHA256: 542223ea9a0e1dc77d85fd410db406367ee4ea541b86284b84a3453780819918
+Section: Addons (Flipswitch)
+Description: Flipswitch for 3G Unrestrictor.
+Author: PoomSmart
+Name: 3G Unrestrictor Flipswitch
+
+Package: com.ps.adguardunbounded
+Version: 0.0.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate, com.ps.blockemall
+Filename: ./debs/com.ps.adguardunbounded_0.0.1.1_iphoneos-arm.deb
+Size: 2384
+MD5sum: 4f1d69fad402a6af0b7af33812585129
+SHA1: f77848a589b5b1c5ab4d1f2c323f9ee2bbc52c2e
+SHA256: 892e7833b97e57e0ae79bb899ee0cecf29ba7d994f62aad5f89c43cc9ac8ac75
+Section: Tweaks
+Description: Over 50000 rules for Adguard app.
+Author: PoomSmart
+Name: Adguard Unbounded
+
+Package: com.ps.amber
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/com.ps.amber_0.0.4_iphoneos-arm.deb
+Size: 38178
+MD5sum: 2a3e17bebd31601ea572eb4b44880a52
+SHA1: 0beb4780a83a9493b9fb83e6770143b7def871cd
+SHA256: 2470bccec903654d0c733e385cc801b1349e48a2af06f45f3ab9f9005d6e7578
+Section: Tweaks
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/amber.html
+Name: Amber
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+
+Package: com.ps.anysuggestemojiim
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.ps.anysuggestemojiim_1.0.1_iphoneos-arm.deb
+Size: 3592
+MD5sum: 8bfbd962ebff8b2dfcd16e5ecdd8b5f0
+SHA1: 0208258dc8f1a496ac2bf63564c068df21dd1eab
+SHA256: 85dde3d92aa071330e3f0b7f41f4e1cd0921095387c92e402a1a24c6c72464d5
+Section: Tweaks
+Description: Tap-to-emoji on any keyboard on iMessages.
+Author: PoomSmart
+Name: AnySuggestEmoji (iMessages)
+
+Package: com.ps.anywherepredict
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs/com.ps.anywherepredict_1.1.2_iphoneos-arm.deb
+Size: 3854
+MD5sum: 263aeabb9c0c1ed72e233022fe8ac5df
+SHA1: fbc282820e36314cbd7b053a6b215ea61ec1287e
+SHA256: 51305fc0cdc53c570481b0b6c9621f70e90d46c9154e408ef509e32b9a79d72f
+Section: Tweaks
+Description: Predictive keyboard anywhere.
+Author: PoomSmart
+Name: AnywherePredict
+
+Package: com.ps.anywherepredict
+Version: 1.1.3.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs/com.ps.anywherepredict_1.1.3.1_iphoneos-arm.deb
+Size: 4750
+MD5sum: 82824fff435e3e84c872a0a533b742d1
+SHA1: 261cd3b6d9ff38e5fd2c644dfdf1bd32d660d48d
+SHA256: b8977c1557fbb193d073ecadc2b8ef6eec2c82b53db81e507bb758d2314872e0
+Section: Tweaks
+Description: Predictive keyboard anywhere.
+Author: PoomSmart
+Name: AnywherePredict
+
+Package: com.ps.anywherewidgetsforipad
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), gsc.ipad, firmware (>= 14.0), me.nepeta.iconstate
+Filename: ./debs/com.ps.anywherewidgetsforipad_1.2_iphoneos-arm.deb
+Size: 4204
+MD5sum: f9732a6b81852e5bcbc6bbaa6fb3a652
+SHA1: 45def04aa8268473ee6f1c94a4714bc1aaebc2c4
+SHA256: c1c50739ce269e6f6b2cf9215e658b94263d05c259ed78be3b7c68c5852ab318
+Section: Tweaks
+Description: Allow widgets to be on home screen on iPad.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/anywherewidgetsforipad.html
+Name: Anywhere Widgets for iPad
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/anywherewidgetsforipad.json
+
+Package: com.ps.applebtdeviceessupport
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.ps.applebtdeviceessupport_0.0.1_iphoneos-arm.deb
+Size: 2468
+MD5sum: 9031c076e2bb64f7639c3f52430c5586
+SHA1: 3e9819d0efb4ca1ff5152e2aabade559f109f814
+SHA256: 39c6cd587eb4e3e0b543163db3201b42bbd03f0c12d66458f5d7b1939fdf92eb
+Section: Tweaks
+Description: Enable discovery and connection to Apple Bluetooth devices.
+Author: PoomSmart
+Name: Apple BT Devices Support
+
+Package: com.ps.apppad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Filename: ./debs/com.ps.apppad_0.0.1_iphoneos-arm.deb
+Size: 3936
+MD5sum: 32fa5867ff751e177aead300a47a201a
+SHA1: 175d6aa9f40591c0ef82f3b45ab6d0eb00a75659
+SHA256: 8565237afdfb0656cc8023c79ab4f535016aad3e56bb6794f38ed90f6704941a
+Section: Tweaks
+Description: Full screen, Split and Slideover for every app on iPad.
+Author: PoomSmart
+Name: AppPad
+
+Package: com.ps.bigmoji
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (<< 10.0)
+Filename: ./debs/com.ps.bigmoji_1.0.0_iphoneos-arm.deb
+Size: 7954
+MD5sum: 168d81a9c14e2bf49aaa10c49b6842ff
+SHA1: 54d4da7000db30bdc0d9b52452ccade245296e8a
+SHA256: 1bcf27d1d36bcbaebdf529acfcb7cdb2250ae40425f9b07bd66fa5aa6026af26
+Section: Tweaks
+Description: Bigger emoji for iMessages
+Author: PoomSmart
+Name: Bigmoji
+
+Package: com.ps.blockemall
+Version: 0.0.2.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: firmware (>= 9.0), mobilesubstrate, com.bingner.plutil, system-cmds
+Filename: ./debs/com.ps.blockemall_0.0.2.2_iphoneos-arm.deb
+Size: 3492
+MD5sum: 57f036f2fb53a12fa1aa08911465047a
+SHA1: fa4b1b771fd40389f6cabee41fcf6f73abc152b6
+SHA256: 9a9d8758f7b6cb102362076eaeb14a56473d7be95680aaf51057c85240ad2781
+Section: Tweaks
+Description: No 50,000 entries limit for Safari content blockers.
+Author: PoomSmart
+Name: BlockEmAll
+
+Package: com.ps.calleridfs
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1764
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, gsc.telephony
+Filename: ./debs/com.ps.calleridfs_0.0.2_iphoneos-arm.deb
+Size: 468918
+MD5sum: ef312ca5e98dd933f0f34715e225caf2
+SHA1: a0d88781e32d91ebf5618e01dc43c2d74b99427f
+SHA256: 71a060fcf2ae1eafbea50278d7b680b751f8ed359e124bee270ab309d6d368fc
+Section: Addons (Flipswitch)
+Description: Toggle for Caller ID.
+Author: PoomSmart
+Name: Caller ID Flipswitch
+
+Package: com.ps.camswitchdown
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 244
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 10.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.ps.camswitchdown_1.4.1_iphoneos-arm.deb
+Size: 15222
+MD5sum: 80857e0fb5283146c09640f2dfccdd96
+SHA1: acd492c84fff570ffdc6a25729d246999817ee75
+SHA256: f4e4aab8999fb595fde261075ce51a1ac62a205cc109c34fcaa0aa90f57045e2
+Section: Tweaks
+Description: iOS 10 Flip button <-> Filter button swap.
+Author: PoomSmart
+Name: CamSwitchDown
+
+Package: com.ps.capture
+Version: 0.0.3
+Architecture: iphoneos-arm
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), gsc.dictation, com.rpetrich.rocketbootstrap (>= 1.0.2), ws.hbang.common (>= 1.2), cc.tweak.libobjcipc
+Filename: ./debs/com.ps.capture_0.0.3_iphoneos-arm.deb
+Size: 79798
+MD5sum: af05472e7172c677e4d6f9f656a77727
+SHA1: e0fdeb07e8d593fefac56f14b8511e59849e07c4
+SHA256: 5aa7909e6b67171e36e1a72b5b59f3203d5c2d0a43852b3646fe5253d2bb62bc
+Section: Tweaks
+Description: Take photos or videos just by saying a word.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/capture/index.html
+Name: Capture
+
+Package: com.ps.cconandoff
+Version: 0.0.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_0.0.1.1_iphoneos-arm.deb
+Size: 3866
+MD5sum: 9c8c207b66b8afedf767d3a62e4bd653
+SHA1: 97e47935fcae3f7e43b17dd71ac898bd48dec49d
+SHA256: 62e032067d1d91d92b8bd79f71c44e3ad7a9f31320bbadabd598c1a15f2757b0
+Section: Tweaks
+Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
+Author: PoomSmart
+Name: CC On & Off
+
+Package: com.ps.ccscalebt
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 124
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: ./debs/com.ps.ccscalebt_1.0-2_iphoneos-arm.deb
+Size: 5064
+MD5sum: bfbfb5d4badf7579155703e27f94c921
+SHA1: ddd88c48cc1d59502e57d0889ab1d40344c64d8a
+SHA256: 50b44dc6405c87d0c517fdc64e70be1db6549f9857549473758b9e55e99bcb27
+Section: Tweaks
+Description: Scale Control Center bottom shelf
+Author: PoomSmart
+Name: CCScaleBT
+
+Package: com.ps.emodeji
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./debs/com.ps.emodeji_1.0_iphoneos-arm.deb
+Size: 5500
+MD5sum: 54b3313811a267b071a4bd64f9fb54db
+SHA1: c286477340e2909982d739373b6ceb564ea3210f
+SHA256: 6ad53e6e4453a924684998929f7d1502a0a376b1308a2a3b68d74e7d073e881b
+Section: Tweaks
+Description: Emoji on camera modes
+Author: PoomSmart
+Name: EModeji
+
+Package: com.ps.emojiattributes
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1116
+Depends: firmware (>= 6.0), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/com.ps.emojiattributes_1.4.2_iphoneos-arm.deb
+Size: 73102
+MD5sum: fc3b161420d8ebbd1c3c34d997216466
+SHA1: 6fece65e802b92c23ce72ba3f3011720f5398343
+SHA256: 5035abd61af802f16fd0d37a9dbb23166608e8557ceb32e964b2e6a941fd35e6
+Section: Tweaks
+Description: Various under-the-hood fixes for emoji display.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+Name: EmojiAttributes
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojiattributes
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1116
+Depends: firmware (>= 6.0), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/com.ps.emojiattributes_1.4.3_iphoneos-arm.deb
+Size: 73024
+MD5sum: 64c7d9ae468196d1c925eb70b9957193
+SHA1: 1518dd79e9ae042def3cce03dc7ea6ad449250c6
+SHA256: bec3626d6c369a306b9cd5ff0d968939ed8f357c08cb9a07b2d3a9b78e2ffab1
+Section: Tweaks
+Description: Various under-the-hood fixes for emoji display.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+Name: EmojiAttributes
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojiattributes
+Version: 1.4.4~b1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1176
+Depends: firmware (>= 6.0), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/com.ps.emojiattributes_1.4.4~b1_iphoneos-arm.deb
+Size: 90744
+MD5sum: 814246e024b1a6ec3b5ad78e8ee89f52
+SHA1: b5c7753b50e1c0fb7a5ed2d6be6ac9e7051e1892
+SHA256: ae2db62168131576ae249c520ed95d566c0283bfe00753152a0fe9ce44e893a8
+Section: Tweaks
+Description: Various under-the-hood fixes for emoji display.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+Name: EmojiAttributes
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojiattributes
+Version: 1.4.4~b2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1176
+Depends: firmware (>= 6.0), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/com.ps.emojiattributes_1.4.4~b2_iphoneos-arm.deb
+Size: 85096
+MD5sum: d83a7ba81803e6c09798b86444e8c72e
+SHA1: 531c651696365569e9830e509db523e653808b60
+SHA256: 226f22709c3a6f6638848916477adb1765ee371fe5b51b7a3caae9b82975c2c2
+Section: Tweaks
+Description: Various under-the-hood fixes for emoji display.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+Name: EmojiAttributes
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojiattributes
+Version: 1.4.4~b3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1116
+Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/com.ps.emojiattributes_1.4.4~b3_iphoneos-arm.deb
+Size: 75460
+MD5sum: 806e236effbd5ceb986cb9986d0b6570
+SHA1: d896ea0602027103a10267c120641bfb06991db1
+SHA256: 3dda2dedae8f40c9adcef3574b09f6f8b48bdac1fd0bad1033f8978729687ac6
+Section: Tweaks
+Description: Various under-the-hood fixes for emoji display.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+Name: EmojiAttributes
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojiattributes
+Version: 1.4.4~b4
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1176
+Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/com.ps.emojiattributes_1.4.4~b4_iphoneos-arm.deb
+Size: 85000
+MD5sum: 657359cbbb63add1272ddaa09aece444
+SHA1: f2cea1661bfba12467079f76fd28839ff7b3366c
+SHA256: 6d64b7a93bd78bc1db25d70a3763d7e1188e7e0b2cb5284ed74731ff5892b557
+Section: Tweaks
+Description: Various under-the-hood fixes for emoji display.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+Name: EmojiAttributes
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojidarkstyle
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 276
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 10.2)
+Conflicts: com.ps.emojiresourcesdark
+Filename: ./debs/com.ps.emojidarkstyle_1.0.6_iphoneos-arm.deb
+Size: 23334
+MD5sum: e5c987d70f43ba31eb8f07a0b9e4f1fb
+SHA1: 0ed2f3687c4a79186c97fa939c6c0e90c4597c28
+SHA256: 4eedeadbf97bb564db8e8778e7c1156bc8b22b84dcc7b5f182b7f8a330e79c46
+Section: Tweaks
+Description: iOS 10.2+ dark emoji icons.
+Author: PoomSmart
+Name: EmojiDarkStyle
+
+Package: com.ps.emojifontmanager
+Version: 0.0.8.4
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 340
+Depends: mobilesubstrate, preferenceloader, com.ps.emojilibrary, firmware (>= 6.0), ws.hbang.common (>= 1.11.3)
+Filename: ./debs/com.ps.emojifontmanager_0.0.8.4_iphoneos-arm.deb
+Size: 39784
+MD5sum: e727cf327c6bd06ea0a49b5ed26479af
+SHA1: 82873acf33075b70af1db362400e7420014d4bd8
+SHA256: bc069995fdee74266d568cc21cf9e6c9267cd8a846a41db591a934e9d02b699b
+Section: Tweaks
+Description: Emoji font override and management.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojifontmanager.html
+Icon: file:///Library/PreferenceBundles/EFMPref.bundle/EFMPref@2x.png
+Name: EmojiFontManager
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojifontmanager.json
+
+Package: com.ps.emojilayout
+Version: 1.1.20
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 132
+Depends: preferenceloader, firmware (>= 5.1), firmware (<< 8.3)
+Filename: ./debs/com.ps.emojilayout_1.1.20_iphoneos-arm.deb
+Size: 34356
+MD5sum: 5a19e1ea42922f4e0d167b7e3e57341a
+SHA1: 8f660741d59ee4c5c8649709ceb870ad26abd2d2
+SHA256: b334cdbdfbc34cca390e261182c362027778ca44720f8c86e7ecae89e393dac1
+Section: Tweaks
+Description: Layout the emoji keyboard.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilayout.html
+Name: EmojiLayout
+
+Package: com.ps.emojilibrary
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 544
+Filename: ./debs/com.ps.emojilibrary_1.2.1_iphoneos-arm.deb
+Size: 70324
+MD5sum: 84f51b22a56c2b6897d7ebf95534834e
+SHA1: 1097ac4f7e706e56352cc9028a0f0386be7a8196
+SHA256: 42f7178489a11733d2b341a3f288bb3054e715ca1f9898cdc22701ae74701e91
+Section: Development
+Description: Master library for PoomSmart's emoji tweaks.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Name: EmojiLibrary
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
+
+Package: com.ps.emojilibrary
+Version: 1.2.2~b1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 544
+Filename: ./debs/com.ps.emojilibrary_1.2.2~b1_iphoneos-arm.deb
+Size: 71526
+MD5sum: 0f5baf4b9d89774d30568dca6ae3dd57
+SHA1: c03530bf3422a3b5689f312ec8a3af7e390c539c
+SHA256: 01b0f248fa79e89bd27d45613dee712e10e1e666f4da652d63a5b31a588c9a88
+Section: Development
+Description: Master library for PoomSmart's emoji tweaks.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Name: EmojiLibrary
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
+
+Package: com.ps.emojilibrary
+Version: 1.2.2~b2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 544
+Filename: ./debs/com.ps.emojilibrary_1.2.2~b2_iphoneos-arm.deb
+Size: 71922
+MD5sum: ea84f076ec3a2441f7f86e7b1d8652d1
+SHA1: 74e8874ea69d5f053a701cd29a817a6ee6e2902e
+SHA256: 5e9662d31e019689c64108c5fb058408b4d0c411d2f05757530ed7de7b30bf95
+Section: Development
+Description: Master library for PoomSmart's emoji tweaks.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Name: EmojiLibrary
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
+
+Package: com.ps.emojilibrary
+Version: 1.2.2~b3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 576
+Filename: ./debs/com.ps.emojilibrary_1.2.2~b3_iphoneos-arm.deb
+Size: 78448
+MD5sum: 8094a191b2a9c8bacc9cc432d9442dda
+SHA1: 6cef9423d4eeef415c3ffb9f46cfb39e1fd0969d
+SHA256: 1d442f327fa39a2b33aa6dcf4985db5d8edac40f43508f93261c555435a168fd
+Section: Development
+Description: Master library for PoomSmart's emoji tweaks.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Name: EmojiLibrary
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
+
+Package: com.ps.emojilibrary
+Version: 1.2.2~b4
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 560
+Filename: ./debs/com.ps.emojilibrary_1.2.2~b4_iphoneos-arm.deb
+Size: 78688
+MD5sum: 0ec0cd226c9f2949ca26e4fa67d5116b
+SHA1: 7052fb7486d87c123e5cdb00d78bfbe08679bec8
+SHA256: a6480d13434e742f9d3d786898ac904121a0e4415019b624f9c724f5ede0ede3
+Section: Development
+Description: Master library for PoomSmart's emoji tweaks.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Name: EmojiLibrary
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
+
+Package: com.ps.emojilibrary
+Version: 1.2.2~b5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 560
+Filename: ./debs/com.ps.emojilibrary_1.2.2~b5_iphoneos-arm.deb
+Size: 77758
+MD5sum: e7711a951e51f251ce076edf3d80391d
+SHA1: 646053a2331c0b9916d80b08295d0b1881a11eb7
+SHA256: b5c4a69eb2a8e7436402b35c0213afc0c64e9991b4183bb80eccdae4d4a845f9
+Section: Development
+Description: Master library for PoomSmart's emoji tweaks.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Name: EmojiLibrary
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
+
+Package: com.ps.emojilocalization
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 284
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 9.1)
+Filename: ./debs/com.ps.emojilocalization_1.1_iphoneos-arm.deb
+Size: 17752
+MD5sum: 6788831f8a26912ccb27d1b7e8978931
+SHA1: 093771745f27b1e8420597a902f8e1c3f7759c76
+SHA256: 1c49ae1c2ff75682ceaad8194e61a5bdaf7580090aaa1f0f68b928d931f0c0e7
+Section: Tweaks
+Description: Correct localization for emoji keyboard.
+Author: PoomSmart
+Name: EmojiLocalization
+
+Package: com.ps.emojilocalization
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 252
+Depends: mobilesubstrate, firmware (>= 5.1), firmware (<< 9.1)
+Filename: ./debs/com.ps.emojilocalization_1.1.1_iphoneos-arm.deb
+Size: 18102
+MD5sum: 3f90004568a93632ebd70c4ba8e0b8c9
+SHA1: 583b0e2694553e3a83b3be10c21f9a55aaabac48
+SHA256: 4fe76706771ca0158913c119144a88f0166cf7e17160cbfbd772b8a892d11ddd
+Section: Tweaks
+Description: Correct localization for emoji keyboard.
+Author: PoomSmart
+Name: EmojiLocalization
+
+Package: com.ps.emojiport10resources
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 116240
+Depends: firmware (>= 10.0)
+Filename: ./debs/com.ps.emojiport10resources_1.2_iphoneos-arm.deb
+Size: 28871688
+MD5sum: f5ce721eafbf0bce88804167f20ecd65
+SHA1: 1838965bd1d285c4441e4091814a8445d4fd7a64
+SHA256: 0d64a1cd4bb8b47c590e7c326c97e2b86e7c3a8aa001adde31ddf1a2b0b20222
+Section: Tweaks
+Description: Necessary resources for EmojiPort iOS 10 and higher.
+Author: PoomSmart
+Name: EmojiPort Resources (iOS 10+)
+
+Package: com.ps.emojiport10resources
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 118028
+Depends: firmware (>= 10.0)
+Filename: ./debs/com.ps.emojiport10resources_1.2.2_iphoneos-arm.deb
+Size: 29267180
+MD5sum: da492a8a0591298fc0d8bc1550ddfd2a
+SHA1: 9d61babcbef85700bedf78e6ec1307c05530e47d
+SHA256: 70b0e30ead3ca32aaf3f3b4a4d3d4411255f5f2be95500e90e8746bfa0c9bb74
+Section: Tweaks
+Description: Necessary resources for EmojiPort iOS 10 and higher.
+Author: PoomSmart
+Name: EmojiPort Resources (iOS 10+)
+
+Package: com.ps.emojiport10resources
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 118028
+Depends: firmware (>= 10.0)
+Filename: ./debs/com.ps.emojiport10resources_1.2.3_iphoneos-arm.deb
+Size: 29250360
+MD5sum: acdca3bebd92ff113e26a4d1b3d55e9e
+SHA1: 5ace42b9851776193c21b90ce88087aa6fca0016
+SHA256: 8dc91b17e4027f0ed24650d0e1c373b5492fc4bf23260ef8faa316916ee8c9a6
+Section: Tweaks
+Description: Necessary resources for EmojiPort iOS 10 and higher.
+Author: PoomSmart
+Name: EmojiPort Resources (iOS 10+)
+
+Package: com.ps.emojiportalpha
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 144
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.1), firmware (<< 6.0), com.ps.emojilayout, com.ps.emojiattributes, com.ps.emojilocalization, com.ps.emojilibrary
+Conflicts: com.ps.emoji10alpha
+Filename: ./debs/com.ps.emojiportalpha_1.0.8_iphoneos-arm.deb
+Size: 22470
+MD5sum: 66cdf533bdd9e0b9fae60138179b3f2b
+SHA1: e70a92ae4e4f85acfaf37673027351de304a0e68
+SHA256: 45a18f134ce4b22d4ccd9a2a0c26e942f83aec4ac08237a965f7381b3870e584
+Section: Tweaks
+Description: Latest emojis for iOS 5.1
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/emojiportalpha/index.html
+Name: EmojiPort (iOS 5.1)
+
+Package: com.ps.emojiportfix
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 268
+Depends: firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes (>= 1.3.24-2), com.ps.emojilocalization (>= 1.1), com.ps.emojiresources (>= 1.1), com.ps.emojilibrary (>= 1.0.19~b6)
+Conflicts: org.thebigboss.emoji83plus, com.ps.emoji9fix, com.ps.emoji10fix
+Filename: ./debs/com.ps.emojiportfix_1.6.2_iphoneos-arm.deb
+Size: 9914
+MD5sum: 21f9c30390088f35af0c59c5e05d8a9e
+SHA1: a215fd7ec4a91df34789dd20018e78e049e21568
+SHA256: 5e1e8ef763a406b85bf8ba942bc9ac2678933b366f0cc27475b2d321ef4cb99b
+Section: Tweaks
+Description: Latest emojis for iOS 8.3-8.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_8_3.html
+Name: EmojiPort (iOS 8.3-8.4)
+
+Package: com.ps.emojiportfix
+Version: 1.6.3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 268
+Depends: firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes (>= 1.4.4~b1), com.ps.emojilocalization (>= 1.1), com.ps.emojiresources (>= 1.1), com.ps.emojilibrary (>= 1.2.2~b5)
+Conflicts: org.thebigboss.emoji83plus, com.ps.emoji9fix, com.ps.emoji10fix
+Filename: ./debs/com.ps.emojiportfix_1.6.3_iphoneos-arm.deb
+Size: 10758
+MD5sum: 9d595b83bfe6ccca8d3344dcd8b9e78d
+SHA1: d0d6b5e6fe6a7527f3c09ad72436032149cb6d20
+SHA256: a2bed9acb4ea2b9c8d8f773ed564c6806b0370d07f7fc251919e3dcb708c5418
+Section: Tweaks
+Description: Latest emojis for iOS 8.3-8.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_8_3.html
+Name: EmojiPort (iOS 8.3-8.4)
+
+Package: com.ps.emojiportlegacy
+Version: 1.7.2~b4
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 376
+Depends: preferenceloader, firmware (>= 6.0), firmware (<< 8.3), com.ps.emojilayout (>= 1.1.17), com.ps.emojiattributes (>= 1.3.24-2), com.ps.emojilocalization (>= 1.1), com.ps.emojilibrary, firmware (<< 7.0) | com.ps.emojiresources (>= 1.1)
+Conflicts: com.ps.emoji9legacy, com.ps.emoji10legacy
+Filename: ./debs/com.ps.emojiportlegacy_1.7.2~b4_iphoneos-arm.deb
+Size: 58676
+MD5sum: dc01cff286765bad186aa2eb1b38bfc1
+SHA1: 25e35075c942710706671eae2d29079639e15e7c
+SHA256: 01bd5d4c1f216399a875777590595726b180f0204dcae09679c3fba472cd7e4b
+Section: Tweaks
+Description: Latest emojis for iOS 6.0-8.2
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_6.html
+Name: EmojiPort (iOS 6.0-8.2)
+
+Package: com.ps.emojiportlegacy
+Version: 1.7.3~b1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 532
+Depends: preferenceloader, firmware (>= 6.0), firmware (<< 8.3), com.ps.emojilayout (>= 1.1.17), com.ps.emojiattributes (>= 1.4.4~b1), com.ps.emojilocalization (>= 1.1), com.ps.emojilibrary (>= 1.2.2~b5), firmware (<< 7.0) | com.ps.emojiresources (>= 1.1)
+Conflicts: com.ps.emoji9legacy, com.ps.emoji10legacy
+Filename: ./debs/com.ps.emojiportlegacy_1.7.3~b1_iphoneos-arm.deb
+Size: 81108
+MD5sum: ba3f8bc7f48162040bd4b7174d9ce575
+SHA1: 3405b9d896dff697ddfabf0953f116f4422985c3
+SHA256: a79e90a2a25cd598350ae72a8c4785c231182dea62398c4afc9a713a8f8309ec
+Section: Tweaks
+Description: Latest emojis for iOS 6.0-8.2
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_6.html
+Name: EmojiPort (iOS 6.0-8.2)
+
+Package: com.ps.emojiportpe
+Version: 1.0.11
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 300
+Depends: firmware (>= 12.0), firmware (<< 14.2), com.ps.emojiattributes (>= 1.3.27), com.ps.emojilibrary (>= 1.2~b1), com.ps.emojiport10resources (>= 1.1~b1)
+Filename: ./debs/com.ps.emojiportpe_1.0.11_iphoneos-arm.deb
+Size: 11190
+MD5sum: d6c98e6dcbdefb8d24f1a1dbb054a57c
+SHA1: 77318c39a1ed686a164a64c103e7762f49292d73
+SHA256: bbefab251777b175a61e3220cf111c2309c8ae9199a16bc18fd2a7dc64b49e79
+Section: Tweaks
+Description: Latest emojis for iOS 12.0-14.1
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+Name: EmojiPort (iOS 12.0-14.1)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
+
+Package: com.ps.emojiportpe
+Version: 1.1~b1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 336
+Depends: firmware (>= 12.0), firmware (<< 14.5), com.ps.emojiattributes (>= 1.3.27), com.ps.emojilibrary (>= 1.2.2~b2), com.ps.emojiport10resources (>= 1.1~b1)
+Filename: ./debs/com.ps.emojiportpe_1.1~b1_iphoneos-arm.deb
+Size: 15848
+MD5sum: 62b8db165522a26c08fa328005e2b89e
+SHA1: 06e156f07c850465bcefec22fb2de1880cde9fa9
+SHA256: 224011079dd5a797753cdbead6b1e79b8449e5effe1d81e35bcf7ce8b632afc1
+Section: Tweaks
+Description: Latest emojis for iOS 12.0-14.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+Name: EmojiPort (iOS 12.0-14.4)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
+
+Package: com.ps.emojiportpe
+Version: 1.1~b2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 340
+Depends: firmware (>= 12.0), firmware (<< 14.5), com.ps.emojiattributes (>= 1.3.27), com.ps.emojilibrary (>= 1.2.2~b3), com.ps.emojiport10resources (>= 1.1~b1)
+Filename: ./debs/com.ps.emojiportpe_1.1~b2_iphoneos-arm.deb
+Size: 16010
+MD5sum: ae41de89b1acb0ec96f75d5cfaeeffdc
+SHA1: 6d5f4e8c351b0d9679e978eae3731404eb687be4
+SHA256: 627c4af2f564ae1e31a824e51f7ce025750b6cef4fdff0a5a0c53f4bd789c31f
+Section: Tweaks
+Description: Latest emojis for iOS 12.0-14.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+Name: EmojiPort (iOS 12.0-14.4)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
+
+Package: com.ps.emojiportpe
+Version: 1.1~b3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 388
+Depends: firmware (>= 12.0), firmware (<< 14.5), com.ps.emojiattributes (>= 1.4.4~b1), com.ps.emojilibrary (>= 1.2.2~b4), com.ps.emojiport10resources (>= 1.2.2)
+Filename: ./debs/com.ps.emojiportpe_1.1~b3_iphoneos-arm.deb
+Size: 23438
+MD5sum: 91f27f900e9a326ff59655589d723258
+SHA1: a940bbc7ab5690bc7b1e125f9f6e5468a24818a8
+SHA256: 23f3dfee2d312c609a5262c882c44348910b721d0f90123abf8656e933493109
+Section: Tweaks
+Description: Latest emojis for iOS 12.0-14.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+Name: EmojiPort (iOS 12.0-14.4)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
+
+Package: com.ps.emojiportpe
+Version: 1.1~b4
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 320
+Depends: firmware (>= 12.0), firmware (<< 14.5), com.ps.emojiattributes (>= 1.4.4~b1), com.ps.emojilibrary (>= 1.2.2~b5), com.ps.emojiport10resources (>= 1.2.2)
+Filename: ./debs/com.ps.emojiportpe_1.1~b4_iphoneos-arm.deb
+Size: 16604
+MD5sum: a60a49145a15bf9cfaf1437c7331468e
+SHA1: eff4f295e7b6a72450e1f347a10afffc31721792
+SHA256: 0db1f74b8b43c2fb249a86930dfaa4d70c11642c5773e8553dffa1a899db2674
+Section: Tweaks
+Description: Latest emojis for iOS 12.0-14.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+Name: EmojiPort (iOS 12.0-14.4)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
+
+Package: com.ps.emojiportpe
+Version: 1.1~b5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 320
+Depends: firmware (>= 12.0), firmware (<< 14.5), com.ps.emojiattributes (>= 1.4.4~b1), com.ps.emojilibrary (>= 1.2.2~b5), com.ps.emojiport10resources (>= 1.2.2)
+Filename: ./debs/com.ps.emojiportpe_1.1~b5_iphoneos-arm.deb
+Size: 16842
+MD5sum: 2daae5d7559ed13f1ec9c6053faf5db8
+SHA1: 684487864adc991e44d3244485fa141bb947dc6f
+SHA256: 9349ea3e1698c1d1fc244cc7a711355edae079f22a517498c84e055bd91429ad
+Section: Tweaks
+Description: Latest emojis for iOS 12.0-14.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+Name: EmojiPort (iOS 12.0-14.4)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
+
+Package: com.ps.emojiportps
+Version: 1.6.3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 268
+Depends: firmware (>= 9.0), firmware (<< 10.0), com.ps.emojiattributes (>= 1.4.4~b1), com.ps.emojilibrary (>= 1.2.2~b5), firmware (>= 9.1) | com.ps.emojilocalization (>= 1.1), firmware (>= 9.1) | com.ps.emojiresources (>= 1.1)
+Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9, com.ps.emoji9ps, com.ps.emoji10ps
+Filename: ./debs/com.ps.emojiportps_1.6.3_iphoneos-arm.deb
+Size: 9520
+MD5sum: a65c891e47a3a37b7ced2ccb67eac824
+SHA1: 8b775dac2159c48547048f9175911e65336f96fd
+SHA256: 9b24d24916d239a48308da76f7f0c083527ad10e0398bfb068ff41daf41271ee
+Section: Tweaks
+Description: Latest emojis for iOS 9.0-9.3
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_9.html
+Name: EmojiPort (iOS 9.0-9.3)
+
+Package: com.ps.emojiportwt
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 336
+Depends: firmware (>= 10.0), firmware (<< 12.0), com.ps.emojiattributes (>= 1.3.24-2), com.ps.emojilibrary (>= 1.1.0), com.ps.emojiport10resources (>= 1.0.5)
+Conflicts: com.ps.emoji10wt
+Filename: ./debs/com.ps.emojiportwt_1.3.4_iphoneos-arm.deb
+Size: 14488
+MD5sum: b4af8c9be2e88d465dfa4206b2f18261
+SHA1: 796c6bd339bbd9ffeff692a4cdc816a9145692a4
+SHA256: 6853c73e7d6887978c2cc8074672bac30bff5a83bd06a61861ca4523d610b6dc
+Section: Tweaks
+Description: Latest emojis for iOS 10.0-11.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_10.html
+Name: EmojiPort (iOS 10.0-11.4)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_10.json
+
+Package: com.ps.emojiresources
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 420
+Depends: firmware (>= 7.0), firmware (<< 9.1), mobilesubstrate
+Filename: ./debs/com.ps.emojiresources_1.1_iphoneos-arm.deb
+Size: 33076
+MD5sum: b1ca253d64838fe9a6d231712c09da46
+SHA1: a61f692c97b32ab4a309b0616026f04f6bceb62e
+SHA256: d1d530664bbc907905724eca1b7daa31fcabd45d6eb37c4bbb10f13d75fed50b
+Section: Tweaks
+Description: Extra Emoji category icons.
+Author: PoomSmart
+Name: EmojiResources
+
+Package: com.ps.flexibleflipswitch
+Version: 0.0.2-5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1920
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.shmoopillc.flexible
+Filename: ./debs/com.ps.flexibleflipswitch_0.0.2-5_iphoneos-arm.deb
+Size: 487380
+MD5sum: 111501dbc44d014d66cc99a969941833
+SHA1: a955c4bd265a489458118204e6a840ce4572bfea
+SHA256: a0969d5ab8ee450228c98825e478a4673954a4cbd8f5db9f38cf095ac7d1846e
+Section: Addons (Flipswitch)
+Description: Flipswitch for FLEXible.
+Author: PoomSmart
+Name: FLEXible Flipswitch
+
+Package: com.ps.forceinpicture
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.ps.forceinpicture_1.0_iphoneos-arm.deb
+Size: 3748
+MD5sum: 7199881f9c170b42307fd3fdcdf3c858
+SHA1: 84db8cf504b92db12e05c9eadc027e1e2e69dbab
+SHA256: 1ae08ac58e729265762ac3e834de7576fe7a15c453d02872f0419fe42741d4ae
+Section: Tweaks
+Description: "Programmatically" enable picture in picture feature.
+Author: PoomSmart
+Name: ForceInPicture
+
+Package: com.ps.gboardall
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/com.ps.gboardall_1.0.2_iphoneos-arm.deb
+Size: 2852
+MD5sum: fdb27f57424b9d2b2aa4efb1ad0e6361
+SHA1: d7380dccdec63db9b071fd8220cfa1b96060282b
+SHA256: 80d3f67f5c7a94b5a7f40126f6ba00ee3b504ed4fa4d5dca3191a268df6480e2
+Section: Tweaks
+Description: Allow unsupported emojis to show on Gboard keyboard.
+Author: PoomSmart
+Name: GboardAll
+
+Package: com.ps.hdavatar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.ps.hdavatar_0.0.1_iphoneos-arm.deb
+Size: 2758
+MD5sum: 0abcec71e9ac5e78366ba7091398b1db
+SHA1: 363314a0f1f0bc0d657a076c2b783dc2061cc7c0
+SHA256: 0dbdae431d37bed3782382d16c25f40a43866fb57a13a7aa4d61ac2c95229ec2
+Section: Tweaks
+Description: Double the size of Animoji/Memoji stickers.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/hdavatar.html
+Name: HD Avatar
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/hdavatar.json
+
+Package: com.ps.highgraphics
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./debs/com.ps.highgraphics_1.0.5_iphoneos-arm.deb
+Size: 4752
+MD5sum: 7445fbf2d477ae396f2f000f318af24a
+SHA1: 642627c40ef844e42dcfc70c727c3a1f54236afb
+SHA256: b78208b1f1bc312eb852ada045ab5b37a7683cd15a2b6bc61bba893a4e0e641e
+Section: Tweaks
+Description: Best UIKit graphics for older devices.
+Author: PoomSmart
+Name: HighGraphics
+
+Package: com.ps.letmeblock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.ps.letmeblock_0.0.1_iphoneos-arm.deb
+Size: 1982
+MD5sum: 94c19760c8ac9cc1df3ec34bde433083
+SHA1: ac743f1fc7c6cfbeab7b49c8c8d0f1b62b75fad4
+SHA256: 0bcf46aa72f3c91444780bcbfbeabcdf9217e5f718691111fa5927d31857ef40
+Section: Tweaks
+Description: Make mDNSResponder care about /etc/hosts
+Author: PoomSmart
+Name: LetMeBlock
+
+Package: com.ps.letmeblock
+Version: 0.0.7.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.ps.letmeblock_0.0.7.1_iphoneos-arm.deb
+Size: 6108
+MD5sum: 2c117370cb07e6a04dedbf84439de558
+SHA1: f69b8571546438c73731533bc6f17ca87dd31245
+SHA256: 74abf3b109afb089a45522869c822d18eebeccec7b19cdaab781df17a76663f3
+Section: Tweaks
+Description: Make mDNSResponder care more about /etc/hosts
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+Name: LetMeBlock
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+
+Package: com.ps.letmeblock
+Version: 0.0.7.5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.ps.letmeblock_0.0.7.5_iphoneos-arm.deb
+Size: 5068
+MD5sum: 529fde6b36c7de2c777faf94b21f898d
+SHA1: 8f8d192410d312947681063c7092c2624d62ffa9
+SHA256: 94e0df2ebfb2ec0332bb3e23ba362c23d76fedbc67c1f158497c1fb42c62b69d
+Section: Tweaks
+Description: Make mDNSResponder care more about /etc/hosts
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+Name: LetMeBlock
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+
+Package: com.ps.libsubstitrate
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.ps.libsubstitrate_0.0.1-3_iphoneos-arm.deb
+Size: 4460
+MD5sum: 973eab2f66209ab438de762cda6f2d1b
+SHA1: afd39223657a565124ae1b09b7e75aeb30980441
+SHA256: fecfd57d3ace5155f2fd266be6c9dea9c9b650d56390ae247ae4f5ee88bbc37b
+Section: System
+Description: Substrate/Substitute hooking selector.
+Tag: role::developer
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/libsubstitrate.html
+Name: libSubstitrate
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/libsubstitrate.json
+
+Package: com.ps.m4dark
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.ps.m4dark_0.0.1_iphoneos-arm.deb
+Size: 2764
+MD5sum: 821a577c6855b972e864d043d7607a2a
+SHA1: a8542265a2cd4993ff0c79751a5d329c3b0047fc
+SHA256: 957c80b402c5d9efa0199e485fe4ba9c426e2c5822854a7c9431cfb5fea78ce3
+Section: Tweaks
+Description: Force enable FB Messenger Native Dark Mode.
+Author: PoomSmart
+Name: M4Dark
+
+Package: com.ps.mywifs
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.ps.mywifs_0.0.1_iphoneos-arm.deb
+Size: 35604
+MD5sum: 92a18b070bd2ff834ce2af7cb39182dc
+SHA1: a0330a0af62876656c81f96d01afb7cab7cc0e5e
+SHA256: 21235a16262668f2b7c397cf047f9e8cb9d71d06823dacd7cca36d2c99f1d649
+Section: Addons (Flipswitch)
+Priority: optional
+Description: Flipswitch for MyWi, all three types
+Author: PoomSmart
+Name: MyWi Flipswitch
+
+Package: com.ps.pad56
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./debs/com.ps.pad56_0.0.1_iphoneos-arm.deb
+Size: 3134
+MD5sum: 9f9371b5aef051a882adea91d0dd8cfa
+SHA1: 1eabe5cd76840cfec62a6e6a76a3686a0efbb2b5
+SHA256: 41711569740f9e635265d29ff1ff37d6804b8fd44c37d55b98329692da5c3049
+Section: Tweaks
+Description: 5x6 icon layout for iPad and iPad Pro.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/pad56.html
+Name: Pad56
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/pad56.json
+
+Package: com.ps.pearltracking
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/com.ps.pearltracking_0.0.1_iphoneos-arm.deb
+Size: 37348
+MD5sum: 29b741f273d3d3b1d8c4102ec8e71b6c
+SHA1: e79e67dd6f1029d07ac6433e8492561a3aa98a0b
+SHA256: 510de1de8be0c60023dbf2d81962a98dd89fb2079f7e51351cf7d35acce53667
+Section: Tweaks
+Description: Move the mouse cursor with your face.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/pearltracking.html
+Name: PearlTracking
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/pearltracking.json
+
+Package: com.ps.pencilpro
+Version: 0.0.2.4
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: firmware (>= 9.0), gsc.ipad, mobilesubstrate
+Filename: ./debs/com.ps.pencilpro_0.0.2.4_iphoneos-arm.deb
+Size: 6544
+MD5sum: 88d7a9f5d516457bd57c2f3740c52efb
+SHA1: 3b47d06e19fed3b34716ffa03762e33df4c4271b
+SHA256: b6dd56bc07410df8696c6beb784e232f9f9e83a4c60f932b8f5a8a63e714bae8
+Section: Tweaks
+Description: Apple Pencil can do better.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/pencilpro.html
+Name: Pencil Pro
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/pencilpro.json
+
+Package: com.ps.poweroptionfs
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.ps.poweroptionfs_0.0.2_iphoneos-arm.deb
+Size: 11208
+MD5sum: c312000efcbc2b8c224a1ba79b7d0e21
+SHA1: ada952d31fed48c6fc28fab4a9d97a00f2fd1b85
+SHA256: c42ff59d2246a559779e88adbd35235347fbf45841cb0e05d05da9f370301369
+Section: Addons (Flipswitch)
+Description: Toggle for power actions, with confirmation
+Author: PoomSmart
+Name: Power Option FS
+
+Package: com.ps.quadhighcurrent
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 396
+Depends: mobilesubstrate, firmware (>= 10.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/com.ps.quadhighcurrent_0.0.3_iphoneos-arm.deb
+Size: 18646
+MD5sum: 4cd4d887ef6a034f1048f55858540cd0
+SHA1: 5fc6d31621008c730c323a22374a31d9a5b0de29
+SHA256: 898dbca1a31e5a1cd16eae6f4e5ce227b60462268487afd54b13734f2e109646
+Section: Tweaks
+Description: Utilize "high current" for Quad-LEDs devices.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/quadhighcurrent.html
+Name: QuadHighCurrent
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/quadhighcurrent.json
+
+Package: com.ps.recordpause
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: SpicaT
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.2)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.ps.recordpause_1.3.4_iphoneos-arm.deb
+Size: 10480
+MD5sum: 6ce3b4a8f992b66e8f8c1166bc89bc88
+SHA1: e4c262ff9c7428ee0febfd7e4d34fbe22a22f328
+SHA256: cfc0625902de36f6f46e101dc7bc3819a6db1737ad3cc099f9146cf5c983bb72
+Section: Tweaks
+Description: Pause/resume video recording.
+Author: SpicaT
+Icon: file:///Library/PreferenceLoader/Preferences/RecordPause/RP@2x.png
+Name: RecordPause (iOS 9+)
+
+Package: com.ps.silactions
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: firmware (>= 11.0), mobilesubstrate, org.coolstar.sileo (>= 1.3.1)
+Filename: ./debs/com.ps.silactions_1.0.5_iphoneos-arm.deb
+Size: 7588
+MD5sum: 2f8850bdae476c9f43de20ce4c1964d9
+SHA1: e515a84f26155293208aa1042491501181a01153
+SHA256: aa3711b620d2107320b9e7c1eefdbc708c7c974800cd300e643626420694cfc8
+Section: Tweaks
+Description: Manage packages in Sileo easier.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/silactions.html
+Name: Silactions
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/silactions.json
+
+Package: com.ps.sixtyfps
+Version: 0.0.7-1
+Architecture: iphoneos-arm
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 7.0), gsc.still-camera
+Filename: ./debs/com.ps.sixtyfps_0.0.7-1_iphoneos-arm.deb
+Size: 6588
+MD5sum: 9727ca2f49afb41b4018944cf400fbda
+SHA1: d8e32393eae4eb916b19d9aed15abc08cbe03e2e
+SHA256: c6fc40c912126981f666975c2b7843c173c29d1e297b4120e6bea358e105d5e3
+Section: Tweaks
+Description: 60 fps capture support for legacy camera.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/60fps.html
+Name: 60fps
+
+Package: com.ps.slicesflipswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1776
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./debs/com.ps.slicesflipswitch_0.0.1-1_iphoneos-arm.deb
+Size: 1719330
+MD5sum: 8e3e2b7a03f6fd28cb172eefed3fa362
+SHA1: d27d0b35f87463e419aa680a56677cda2c106b8e
+SHA256: 0d83f676f96f76fc565387f46b6a780e0029a30b4c4e319360a56bafa5adac9b
+Section: Addons (Flipswitch)
+Description: Flipswitch for Slices.
+Author: PoomSmart
+Name: Slices Flipswitch
+
+Package: com.ps.smarttapflipswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1768
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./debs/com.ps.smarttapflipswitch_0.0.1-1_iphoneos-arm.deb
+Size: 1720488
+MD5sum: 35a21a37b84e90034068384e14885f71
+SHA1: 68cc5ab33b978a4f19e43bc0fb68016973f9db96
+SHA256: 23eca51696aaf288f848ca7b22215a605be407f6994d46a0a10cf68d1ed9927c
+Section: Addons (Flipswitch)
+Description: Flipswitch for SmartTap.
+Author: PoomSmart
+Name: SmartTap Flipswitch
+
+Package: com.ps.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm.deb
+Size: 2474
+MD5sum: 5839234c825ee565451f6ed4d05a8dba
+SHA1: 226eddc87867a7c1e403a71bf46352d141554c93
+SHA256: 7b9be90adb0cdd24a4f9f32f6aee378f11228bee8acae0db69ef2a28e5ad5ef5
+Section: Tweaks
+Description: Office 2013-styled cursor animation.
+Author: PoomSmart
+Name: SmoothCursor iOS 13
+
+Package: com.ps.smoothkb
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: org.thebigboss.smoothpop
+Filename: ./debs/com.ps.smoothkb_1.0.1_iphoneos-arm.deb
+Size: 3234
+MD5sum: 35424bb36b0a08cad484dd370bc78c37
+SHA1: 0bbe94462da85926cc0c90813032e60fd8d3a2f8
+SHA256: d914c62b9cf5ac85d6370caa1d6def8b82f27829cfe32d339126008bb7cf99bd
+Section: Tweaks
+Description: Fade animation across keyboard typing.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/smoothkb.html
+Name: SmoothKB
+
+Package: com.ps.smsgroupname
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.ps.smsgroupname_0.0.1-1_iphoneos-arm.deb
+Size: 3008
+MD5sum: 47a1a66f6f3ebc6845c48228b21084c0
+SHA1: a69bf8cda3bf7bf07b2f944e9bf62a9963745079
+SHA256: 63fe110655963e028c49bad59bfb0a233b257e62aa3d3f5a2af470b38664e616
+Section: Tweaks
+Description: Rename SMS group conversation.
+Author: PoomSmart
+Name: SMSGroupName
+
+Package: com.ps.splitit
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 3584
+Depends: firmware (>= 10.0), mobilesubstrate, gsc.ipad
+Filename: ./debs/com.ps.splitit_0.0.2_iphoneos-arm.deb
+Size: 669854
+MD5sum: 50fe8305f8a27c87ae4df3f32aa355da
+SHA1: c825405a6063e3e07bbcd8a75b2567fccee9b928
+SHA256: e6aba33dd8aeb8536b31e83fa401c2ddce56af3803825e4ce4d4930fcda68b63
+Section: Tweaks
+Description: Enable keyboard split feature on borderless iPads.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/splitit.html
+Name: SplitIt
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/splitit.json
+
+Package: com.ps.ssgesturesios12fix
+Version: 0.0.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 104
+Depends: mobilesubstrate, firmware (>= 12.0), com.atwiiks.ssgestures
+Filename: ./debs/com.ps.ssgesturesios12fix_0.0.1.1_iphoneos-arm.deb
+Size: 2746
+MD5sum: 25c58809e1aabae90acaf137603ea49a
+SHA1: d3d9d8c5f6c7dfaa8cb8ff85bd50b7312350f2f4
+SHA256: 0d1d8de365bcdc709c569fa396f96064b0b5ec9311a3253769bd6a60f3716151
+Section: Tweaks
+Description: Fix SSGestures crashing on iOS 12
+Author: PoomSmart
+Name: SSGestures iOS 12 Fix
+
+Package: com.ps.staticzoom
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 4.0)
+Filename: ./debs/com.ps.staticzoom_0.0.2_iphoneos-arm.deb
+Size: 5268
+MD5sum: 76c3a1d5264806bb2471363d152621e4
+SHA1: cfa98278658b877af29625d5902aa576eed0a864
+SHA256: e628dfd3519513464d3b9469c1e1e2625136f86aaecfdff525a05f25560a5a9e
+Section: Tweaks
+Description: Always show zoom slider in camera app.
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/staticzoom/index.html
+Name: StaticZoom
+
+Package: com.ps.swipekey
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 92
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
+Replaces: org.thebigboss.swipekey
+Filename: ./debs/com.ps.swipekey_1.0-2_iphoneos-arm.deb
+Size: 7632
+MD5sum: 5de0895b1023aa0625515fa4ed7c0d1c
+SHA1: 294db066d7605c9f79be0defc564bac60292c669
+SHA256: 7c5f2164266ccda1e37c3f1a6deb87677339928243003bd7e4335cfa7d0f143d
+Section: Tweaks
+Description: Swipe across keyboard for continuous typing!
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/swipekey/index.html
+Name: SwipeKey [Beta]
+
+Package: com.ps.tapformore
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: firmware (>= 4.0), firmware (<< 8.0), preferenceloader
+Filename: ./debs/com.ps.tapformore_1.0.1_iphoneos-arm.deb
+Size: 14760
+MD5sum: ad5cfcbdb8d3546f3f1eac6fde6e4d66
+SHA1: 6e9a9dd7b9aa3fca9e97b118f32cb1037ede7d2c
+SHA256: 797b27e5b34825120bc120d15e6b82f3824581cb716d3f8a82f57d98c2811354
+Section: Tweaks
+Description: Manage packages via tap.
+Author: PoomSmart
+Depiction: https://poomSmart.github.io/repo/tapformore/index.html
+Name: TapForMore
+
+Package: com.ps.tapvideoconfig
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: com.spicat.tapvideoconfig
+Replaces: com.spicat.tapvideoconfig
+Provides: com.spicat.tapvideoconfig
+Filename: ./debs/com.ps.tapvideoconfig_0.0.5_iphoneos-arm.deb
+Size: 12010
+MD5sum: ec4c2bdf5f1fa5b766665d27f1a07883
+SHA1: 050451dce9e61fefd2f0f1afa874522d83c29319
+SHA256: 683a8049793809a8a301f588fee7039f85b7a4e4cfc72d08893dc6ce49b19587
+Section: Tweaks
+Description: Change video configuration directly in Camera app.
+Author: PoomSmart
+Name: TapVideoConfig
+
+Package: com.ps.youpip
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 212
+Depends: mobilesubstrate, gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Provides: com.spicat.youpip
+Filename: ./debs/com.ps.youpip_0.0.8_iphoneos-arm.deb
+Size: 14712
+MD5sum: 99d5e5a8bf67ab5a06b3f50211e68872
+SHA1: 6feb6782db34f7c8621f4fd2a563fa16e0625941
+SHA256: c3cef8787834b1553debda5654c3263e2cc10bbe838a885a87d96518bfcfd440
+Section: Tweaks
+Description: Enable PIP in native YouTube app.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
+Name: YouPIP
+Sileodepiction: https://poomsmart.github.io/repo/depictions/youpip.json
+
+Package: com.ps.ytuhd
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytuhd_0.0.1_iphoneos-arm.deb
+Size: 3584
+MD5sum: 1bd7aebcb97fe0fff4d4043e7d9e6f76
+SHA1: 96b53fb06b1c24dc1d3f2eb624dd70913fc3e77e
+SHA256: 5ee562c9f16d61817776046a10e92691e67441b109d117eb4179eaadd39dafdc
+Section: Tweaks
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Author: PoomSmart
+Name: YTUHD
+
+Package: com.ps.ytuhd
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytuhd_0.0.2_iphoneos-arm.deb
+Size: 3404
+MD5sum: f9def201ccc6beceba7093f12dc26df8
+SHA1: ac9a6c6c467cbe97856bd0cd677ab1f9e058e4aa
+SHA256: 4b7a6d8ef9f0bd250597f26d5dba699e6d2e6b8d0712fc128c831d89ef8365c1
+Section: Tweaks
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+Name: YTUHD SW
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+
+Package: com.ps.ytuhd
+Version: 0.0.3.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytuhd_0.0.3.1_iphoneos-arm.deb
+Size: 3520
+MD5sum: af3a3e2721ef6969314df33e01214096
+SHA1: 06f55620961758a22fba0e389b285af5c126ecea
+SHA256: 1ba95b161a3b476caeeae97b3368e2f868a570818764e73f321e0ca91a9acc30
+Section: Tweaks
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+Name: YTUHD SW
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+
+Package: com.ps.ytuhd
+Version: 0.0.3.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: cy+cpu.arm64e
+Filename: ./debs/com.ps.ytuhd_0.0.3.2_iphoneos-arm.deb
+Size: 3994
+MD5sum: 2ab8f8b61f6ddfc25cb128dbb4e2c78c
+SHA1: eb063b0f393f14c91220b869bea8e74ea53d1a9f
+SHA256: e7da0778b3b5ccce4819653323f2b14bf5bd1ba51ebfd0874557f63575fd84f3
+Section: Tweaks
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+Name: YTUHD SW Legacy
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+
+Package: com.ps.ytuhd
+Version: 0.0.3.3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytuhd_0.0.3.3_iphoneos-arm.deb
+Size: 3560
+MD5sum: 832796151abaa48d9d5b632f161b052f
+SHA1: 82ee36b0671ae78f0cae58cc5765782de53a9291
+SHA256: 26dda696a140d4c1cf80af182e1109702075beb3394138ddef56cf06e5526773
+Section: Tweaks
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+Name: YTUHD SW
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+
+Package: com.ps.ytuhd
+Version: 0.0.3.7
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytuhd_0.0.3.7_iphoneos-arm.deb
+Size: 4202
+MD5sum: 561a70a260d441ca0050832dd9e06abb
+SHA1: ca563249c73ea1c5a8ae78ce7d924b73bfeb8a73
+SHA256: 2023d2c485e97598e6b5ed09af41d397ef1ffedc431d53f0260e27de982b663c
+Section: Tweaks
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+Name: YTUHD SW
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+
+Package: com.spicat.appcolorclose
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Spica T
+Installed-Size: 160
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.appcolorclose
+Filename: ./debs/com.spicat.appcolorclose_1.2_iphoneos-arm.deb
+Size: 20512
+MD5sum: 544928b1ee498d993a4666ce7b3c2f8a
+SHA1: 858b68c3cd0f289c1fcafc879d88f5d8fdf632be
+SHA256: 0f18eb8ea9d4ffbfeb3e8648f91cf5c888a3248e6053f7b3ddd17c7163f71234
+Section: Tweaks
+Description: Tint app close box based on app icon color.
+Author: Spica T
+Name: AppColorClose iOS 12+
+
+Package: com.spicat.blurrybadges
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: SpicaT
+Installed-Size: 492
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges
+Filename: ./debs/com.spicat.blurrybadges_1.2.4_iphoneos-arm.deb
+Size: 41876
+MD5sum: 52c2ce861159034394136af82712a1bc
+SHA1: 97dfa7fd013730c3c82cb36608100f8bcdeebd0b
+SHA256: aeefaf9e63a25c4d358cd6f7627588a53fd90ad467070e157b71c0b211e8d303
+Section: Tweaks
+Description: Add customizable blur to SpringBoard icon badges.
+Author: SpicaT
+Name: BlurryBadges
+
+Package: com.spicat.flashorama
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: SpicaT
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 4) | cy+model.ipod (>= 5)
+Conflicts: org.thebigboss.flashorama
+Replaces: org.thebigboss.flashorama
+Provides: org.thebigboss.flashorama
+Filename: ./debs/com.spicat.flashorama_1.6.2_iphoneos-arm.deb
+Size: 38944
+MD5sum: 5e0d654fe9321e3e18f7511c623a3909
+SHA1: 2a9d41c068a2a10a56ecf52253a81985b922ef66
+SHA256: 856faf4529fbb19049eac4ebd175c42837fd3bf4be53dea7d2e1e826450276dc
+Section: Tweaks
+Description: use Torch when Capturing Panorama!
+Author: SpicaT
+Icon: file:///Library/PreferenceLoader/Preferences/Flashorama/Flasho@2x.png
+Name: Flashorama
+
+Package: com.spicat.internalphotos
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: SpicaT
+Installed-Size: 212
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: org.thebigboss.internalphotos
+Replaces: org.thebigboss.internalphotos
+Provides: org.thebigboss.internalphotos
+Filename: ./debs/com.spicat.internalphotos_1.2.1_iphoneos-arm.deb
+Size: 12856
+MD5sum: ba162ef65cb8f62f256705f00c95d342
+SHA1: 12c243bee8a5a6ca802c526fdc0934ee874d7e78
+SHA256: e8e94e5f15ff72904dbbea1917e02265c33e8644491ea4863688ba96578a0f67
+Section: Tweaks
+Description: Enable hidden Photos internal settings.
+Author: SpicaT
+Name: InternalPhotos
+
+Package: com.spicat.photores
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Spica T
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), ws.hbang.common (>= 1.2)
+Conflicts: org.thebigboss.photores
+Filename: ./debs/com.spicat.photores_1.4.2_iphoneos-arm.deb
+Size: 33206
+MD5sum: e575fb33f096d633264079308677f374
+SHA1: 23fd41ba6ccb1c072bf984dab6ca94fc6f8cf403
+SHA256: 84176bac30dfa5fc448ab74f77313ed2ae5b0991e89df41444fe2d1bd5c2f11f
+Section: Tweaks
+Description: Taking photos at any sizes.
+Author: Spica T
+Name: PhotoRes+
+
+Package: com.spicat.phototorch
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: SpicaT
+Installed-Size: 1464
+Depends: firmware (>= 6.0), gsc.camera-flash, mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.phototorch
+Replaces: org.thebigboss.phototorch
+Provides: org.thebigboss.phototorch
+Filename: ./debs/com.spicat.phototorch_1.7.1_iphoneos-arm.deb
+Size: 163808
+MD5sum: 9f3550b7d968e2c2ca3d0c3c963c6181
+SHA1: 5ba9cb5a13a3a4faba1f9ceb8cbc27a0611b65b9
+SHA256: c25d4879fa0e761b7cc0461b62d8933c9654d23c98adf37cb127358e58262cf6
+Section: Tweaks
+Description: adjustable torch for camera app.
+Author: SpicaT
+Name: PhotoTorch
+
+Package: com.spicat.recordntorch
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: SpicaT
+Installed-Size: 156
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), gsc.camera-flash, gsc.still-camera, ws.hbang.common (>= 1.2)
+Conflicts: org.thebigboss.recordntorch
+Filename: ./debs/com.spicat.recordntorch_1.8_iphoneos-arm.deb
+Size: 18128
+MD5sum: da887b3fecfc781b1831d9f779e3cc7a
+SHA1: f12849a04b943837b24aa8dbee041231ae38c391
+SHA256: ad7edd42acd9408ee22405f45763f40dc95928a08ef1023b93d506e2aaf4e319
+Section: Tweaks
+Description: Toggle Torch while recording video.
+Author: SpicaT
+Icon: file:///Library/PreferenceLoaders/Preferences/TFV/TFV@2x.png
+Name: Record 'n' Torch iOS 12+
+
+Package: com.spicat.transparentcamerabar
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: SpicaT
+Installed-Size: 884
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0), ws.hbang.common (>= 1.2), gsc.still-camera | gsc.front-facing-camera
+Conflicts: org.thebigboss.transparentcamerabar
+Replaces: org.thebigboss.transparentcamerabar
+Provides: org.thebigboss.transparentcamerabar
+Filename: ./debs/com.spicat.transparentcamerabar_1.8_iphoneos-arm.deb
+Size: 67716
+MD5sum: 90d9c8d47cac5c3795020b240667a7a2
+SHA1: 15bfdf21d879e2dd691c57389b0bd02e384169f6
+SHA256: 36fa5d7e9d8882ddd4b65633fee612d4504a0da25bb4709dc876ee8ccf03b58b
+Section: Tweaks
+Description: Set opacity, hide and shrink camera bars.
+Author: SpicaT
+Icon: file:///Library/PreferenceBundles/TransparentCameraBarSettings.bundle/TCB@2x.png
+Name: TransparentCameraBar
+
+Package: com.spicat.whatsallemojis
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Spica T
+Installed-Size: 136
+Depends: mobilesubstrate, com.ps.emojilibrary
+Filename: ./debs/com.spicat.whatsallemojis_0.0.1_iphoneos-arm.deb
+Size: 4590
+MD5sum: c7601c7cd4a9e04a71d77dd43dc3be90
+SHA1: 8452f02617061184230ea2b062efc27e7de3013a
+SHA256: 1ef21f15848d56e4f3c88434dabffae5f444c4d5053ad1fe440ed2b89bf0d80d
+Section: Tweaks
+Description: Ensure you get latest emojis for WhatsApp stamps.
+Author: Spica T
+Name: WhatsAllEmojis
+
+Package: me.nepeta.iconstate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/me.nepeta.iconstate_0.1.0_iphoneos-arm.deb
+Size: 4618
+MD5sum: 3e4b6beb0282378e2fe33d9f03da4cf5
+SHA1: e7e6f4f94e7067364c1d9059e9e65efae8b6e0ae
+SHA256: 24dfde881451a6285793e7d346ea7a58a6138112fc93c90a78847fec3ccb4aaf
+Section: Tweaks
+Description: Preserve custom icon layouts between reboots
+Author: Nepeta <ominousness@protonmail.com>
+Name: IconState
+
+Package: org.thebigboss.camblur7
+Version: 1.6.4
+Architecture: iphoneos-arm
+Installed-Size: 1276
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.transparentcamerabar, ws.hbang.common (>= 1.2), firmware (>= 7.0), gsc.still-camera | gsc.front-facing-camera
+Filename: ./debs/org.thebigboss.camblur7_1.6.4_iphoneos-arm.deb
+Size: 154126
+MD5sum: 43b07ba4e0ce65865eb00f537c9b454e
+SHA1: e180b31dfcd8f892aa384fab8633efd5f3654374
+SHA256: 3cca63db37897eba3dd8745b0924b482dff9f0274749aa98cec3b52d35f5cb46
+Section: Tweaks
+Description: Blurry cool camera interface.
+Author: PoomSmart
+Icon: file:///Library/PreferenceBundles/CamBlur7Settings/CamBlur7@2x.png
+Name: CamBlur7 (Debug)
+
+Package: org.thebigboss.changevolwithbtnfs
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 144
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/org.thebigboss.changevolwithbtnfs_0.0.1_iphoneos-arm.deb
+Size: 22424
+MD5sum: 3a8363e1a0b6c673347f69d648e34f38
+SHA1: 90306a54ee87c6aef096c4995b2844a8185af823
+SHA256: d759e4ce06bbc5b3cae3fe1250df4c5a012b0189960a17312e378615aa55d3ca
+Section: Addons (Flipswitch)
+Description: Flipswitch for volume change with buttons
+Author: PoomSmart
+Name: Change Vol With Buttons FS
+
+Package: org.thebigboss.dismissprogress
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: firmware (>= 6.0)
+Filename: ./debs/org.thebigboss.dismissprogress_1.1.1_iphoneos-arm.deb
+Size: 5238
+MD5sum: e3a54711baec689ad8a831177179ea34
+SHA1: 9258aabc239dfee37cfbb9db3db33844b096340e
+SHA256: 69362db9aee63b06d5e71931b336645885777bb1b1fe79cdf0d7998325c55d79
+Section: Tweaks
+Description: Dismiss installation window without closing cydia.
+Author: PoomSmart
+Name: DismissProgress
+
+Package: org.thebigboss.smoothcursor
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/org.thebigboss.smoothcursor_1.1.3_iphoneos-arm.deb
+Size: 3786
+MD5sum: 9699a1be9a81aaceaba4367b5916e8a4
+SHA1: df23e7c269c74e2cddd3f3546f433aa8b56c497f
+SHA256: 31dd64678a931e2a697e35315b56737470167d313cd9348f09ce2fd4b9c849e0
+Section: Tweaks
+Description: Office 2013-styled cursor animation.
+Author: PoomSmart
+Name: SmoothCursor
+
+Package: org.thebigboss.swipeformore
+Version: 1.1.10
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 172
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debs/org.thebigboss.swipeformore_1.1.10_iphoneos-arm.deb
+Size: 24038
+MD5sum: 2f90620ca23c8867456540c856b1a961
+SHA1: 82a2b1a9f9a99145680e7555b195b7908eac7b14
+SHA256: f2ffed6fb42dd83ec173d947ef27f39ce06d24bb5adb845e6189a5332fba0bad
+Section: Tweaks
+Description: Manage Cydia packages via swipe.
+Author: PoomSmart
+Name: SwipeForMore
+
+
+Package: com.shiftcmdk.autoalerts
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 392
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.autoalerts_1.0_iphoneos-arm.deb
+Size: 48746
+MD5sum: eb90a257688ff2e71cbfc9e9bcde68a4
+SHA1: 3643945d3d99c7a5ac635dffacaef1d274d65404
+SHA256: 32d1a8aabd20ec0b5f13a3c451659e811effd60ba36c70baa4b794f5ea40c653
+Section: Tweaks
+Description: Automate alert actions.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Name: AutoAlerts
+
+Package: com.shiftcmdk.autoalerts
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 392
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.autoalerts_1.0.1_iphoneos-arm.deb
+Size: 49212
+MD5sum: 8a114acf9e233fe973be676e35172221
+SHA1: d2aea881303010ae8afe52af91a2bb0d348093da
+SHA256: 4d3e8afe633d8b39c5c6daac7874c4e1d3ade71ba966ecf51e034a5e8c9d046d
+Section: Tweaks
+Description: Automate alert actions.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Name: AutoAlerts
+
+Package: com.shiftcmdk.autoalerts
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm.deb
+Size: 49792
+MD5sum: 21ee93af7a1fffb352f63aff93ff68c6
+SHA1: 4f908f2d2518d6dd7380b2c757f1caa02ba42972
+SHA256: e9913ac9973bbec2784bbb54fbbe98fefe2e1e36952221c474393deb76acc3fd
+Section: Tweaks
+Description: Automate alert actions.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Name: AutoAlerts
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.0_iphoneos-arm.deb
+Size: 5542
+MD5sum: 3badbe6b42e82a3843f6b346bbbb10ab
+SHA1: 605b884b968dd6639a560ea27c12d6377e396888
+SHA256: 9b3f0a65015b208034e6a804fd752c86a0c349143f40d27b3c66b1a425aeaa6a
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.0.1_iphoneos-arm.deb
+Size: 6030
+MD5sum: 55d0b56632e4c84e6b89a0ca38210c1a
+SHA1: adc7f89cea30624a261256b749424f09d9fe563f
+SHA256: 7ec01f1bbb1e0ecca81eab8960706d71726cf8a6a19fcc96128747fcd5716e2f
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.0.2_iphoneos-arm.deb
+Size: 6044
+MD5sum: 27627410a6437a7f46719f1896ab39a0
+SHA1: 7dcbadc571ddda699e51284987f957ea738b15e6
+SHA256: cd13f37526b4904cd564e55c5baa32e18a999ae58e37e409d3067083f7d514fb
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.1_iphoneos-arm.deb
+Size: 19904
+MD5sum: c4b19eeda4b6edc021dd1ca84482504a
+SHA1: b2303f73752b28fc945b8ca4e5ef430ada54396e
+SHA256: 8d277bd0e8dfee2f775ee5f39a34a310da2842e823c26f107e18b4f76af28c78
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.1.1_iphoneos-arm.deb
+Size: 19868
+MD5sum: 714fd336690228690fba5c7bb74aa179
+SHA1: 2119c939422950ab0740c68835de68c46c632f53
+SHA256: 427b72944dc13ee69b79e585258dd9eef565dc3c3011579b6dca08201c08bcfc
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.1.2_iphoneos-arm.deb
+Size: 19866
+MD5sum: 3120cdbd34727411992c8a2aac8b108c
+SHA1: 8955092c0397380633b2e190eb3efc2e74730b54
+SHA256: 28bffbfc0a75de2e80206899be875c332127afe1a48f042286e68e41949bc2aa
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.1.3_iphoneos-arm.deb
+Size: 20100
+MD5sum: b2c010aae07bbe7ccac03898dd0a86a2
+SHA1: 83949b504af164ba99a21b87279d2cc5a94e8683
+SHA256: 2a34a29de923c3163e00b22299f3ae9360a06222252cad18c98a4116991940f4
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
+Package: com.shiftcmdk.betterreachability
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.1_iphoneos-arm.deb
+Size: 11126
+MD5sum: 592df73225913722f3f67b29ebd64e0a
+SHA1: 51e4458d6d913e2d5f28f8820699f9fca9848cf0
+SHA256: 469a23c9c6a2376cf42e5dcde07ea9b0e9a83818445093a1b423422571f68531
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
+Package: com.shiftcmdk.betterreachability
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.2_iphoneos-arm.deb
+Size: 21430
+MD5sum: 44cb279c0fb6184d06e90a644948ab38
+SHA1: 2159a0746a9b4f7add41125be46d4154ba4d557d
+SHA256: d6060def4027781acdcbd4712efe4c49fdeae3c1ea8f522f0368b2cd03994bd7
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
+Package: com.shiftcmdk.betterreachability
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.2.1_iphoneos-arm.deb
+Size: 16636
+MD5sum: 9c882f8ba8f9d52ebc35aaf66b92c89c
+SHA1: 6efea1944a9cb5bca657cbfb48b87b94291d5ee3
+SHA256: 63172063e90f85a60ca3638b63d7f64eb75170f2f58124c65fdcaf5d5ef1a84d
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
+Package: com.shiftcmdk.betterreachability
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.3_iphoneos-arm.deb
+Size: 30860
+MD5sum: 04f00252ee08e0e4e4ff25df51f15335
+SHA1: 241b51a41a5db72d908da0732773d94e37629a5e
+SHA256: 60995a8ff26fd0970150d933971e11381aa792f7a379f11bfb981bf68e17077b
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
+Package: com.shiftcmdk.bookmarkicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0_iphoneos-arm.deb
+Size: 11912
+MD5sum: f37365276016e998b8a7b8dae07c16a1
+SHA1: 11dc2e1794cc359ffa7be35fda8467674fa825fd
+SHA256: 0d75f74e3701b1219b4b80a613f41d287ba54527ed394ee8f441103b93604e18
+Section: Tweaks
+Description: Set custom icons for Safari bookmarks.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.bookmarkicons
+Name: BookmarkIcons
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.0_iphoneos-arm.deb
+Size: 6988
+MD5sum: 0477f2f23d77857e5a5ac27533d6bb7c
+SHA1: 303249fb7b712e38b70e3354d9ead89ccfbe2c3c
+SHA256: db866145a5869cd332376cec58e543cbc25c1bfc166a448993da40e77fb69b7f
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1_iphoneos-arm.deb
+Size: 8320
+MD5sum: 9e47ff4a008100e3739b50c2c18fbad4
+SHA1: 487846c86f43d92c2d50ebd2e91fe22e1936a9b6
+SHA256: 828547744f2544a0ae2321d31807915cab8502c0d3a9e5e425979714b12a4707
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1.1_iphoneos-arm.deb
+Size: 8516
+MD5sum: 64571134cb5b84a440b2b757b91ed9f5
+SHA1: 7e5423aab29d6939ef90ee51f1cce4b126ab83be
+SHA256: 5bae6c14bcef340d974941d2d64c32c7789e89f5a24fff28f129be57d76a9343
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1.2_iphoneos-arm.deb
+Size: 6480
+MD5sum: d0ab4a8ed3f8d78171ded797cb4752e3
+SHA1: fc11218f489a572d2a4b9abf143cf7149be4e580
+SHA256: 48d6c34409dc06e18c62899073097367ce43ceaf735c9afe8dda3937c4e990b1
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_0.1_iphoneos-arm.deb
+Size: 6430
+MD5sum: a1f0ffe78c6d8720648f000acf262146
+SHA1: 7f39ba6cf129e4476e4d8a71c1c1c4fc73c181a6
+SHA256: c4b8c8722a43d0b5a8f09ebab1164e3e58cf6a96dd7b303aa4487ba0ce56caa2
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_0.1.1_iphoneos-arm.deb
+Size: 7736
+MD5sum: 1e6c67ddc25182edfbb1f33e45ed6360
+SHA1: 697ed7bca766e15347ae27e3ccb6260ffe5ba534
+SHA256: e44e0ab8ff3f100d26e021aa07341d134f56ffbfcf9827bcde63753d557e6679
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_1.0_iphoneos-arm.deb
+Size: 8258
+MD5sum: d21649eeb0345d75b28463e9e2a42203
+SHA1: d187f0fd2255134ff51b2fe13963c99a58028024
+SHA256: 479ac44905aa9fb04b1b7c29c287cf559d346ba9fe061713a54760a723ab26da
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_1.0.1_iphoneos-arm.deb
+Size: 6998
+MD5sum: a8b6ed24e45d11c36e062b500fb9c0c7
+SHA1: 83844a493b316f712fa5f58940138cc4f6dea14a
+SHA256: 81881fcbbcaf1b366d51b4fc3fbc8531a67f8ea02002d149ba64dfd14ca5568b
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_1.0.2_iphoneos-arm.deb
+Size: 7258
+MD5sum: 06cfdf86b97a7eb819762d8ebcbb7dd9
+SHA1: f9832488631b0261a4b13b03ad8cd3131d7f1610
+SHA256: 96e1069b14c46068d4ed2d82b7c5cf89a7906fe6dc0fdb2cb9562ad893424d8a
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.noclipboardforyou
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.noclipboardforyou_1.0_iphoneos-arm.deb
+Size: 20302
+MD5sum: 2144c3c8ed9bc7c1f6055114e0e1407e
+SHA1: af8a2869edebbedcf6581d3e76e336dc8b348b98
+SHA256: 5216624482fea2406a6a448ba682fd4d338a3dd4f4d88323481119310e1ea062
+Section: Tweaks
+Description: Prevent apps from accessing your clipboard.
+Author: shiftcmdk
+Name: NoClipboardForYou
+
+Package: com.shiftcmdk.noclipboardforyou
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.noclipboardforyou_1.0.1_iphoneos-arm.deb
+Size: 20714
+MD5sum: 759ddc4457b2525c6df33af0e8ab5358
+SHA1: ccabc7969fd2d93d7c46e330fb898b985957032d
+SHA256: d215f291ef092348e674954f960bbc29efc90093aeea93d92f025606732be3b7
+Section: Tweaks
+Description: Prevent apps from accessing your clipboard.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.noclipboardforyou
+Name: NoClipboardForYou
+
+Package: com.shiftcmdk.noclipboardforyou
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.noclipboardforyou_1.0.2_iphoneos-arm.deb
+Size: 20754
+MD5sum: a23420b3e68101a8e186ce9bbb78b99d
+SHA1: c38ea5959fd5fe7e540b4d4ce5a0463395d857b3
+SHA256: b1f5acabd503320cdf276d1be19cdee83066a82d659b3f9706df04ee5ea2cce7
+Section: Tweaks
+Description: Prevent apps from accessing your clipboard.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.noclipboardforyou
+Name: NoClipboardForYou
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0_iphoneos-arm.deb
+Size: 21232
+MD5sum: 797dcfd129422c6fe3659e768afb38f3
+SHA1: b45a8c3d3c987b4c986fa177b19a84c85c0609f2
+SHA256: 9afccb980399befd5d2724912077f5ec49d72abee13ec7a17566080242013c98
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0.1_iphoneos-arm.deb
+Size: 21218
+MD5sum: d90b5e8e0bc6b895b660cfa46e387f6c
+SHA1: bbc725141a955f6c578a2de5e8d5da1e5ec5356b
+SHA256: 839b8beb39d2b70a6dbf0721fe98bb44845e04c29a3a912ae603e23aacbea8f8
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0.2_iphoneos-arm.deb
+Size: 21522
+MD5sum: f35e45a15031e81683c297e60f4182c9
+SHA1: 82d90d4c270d8a3e5175acd3638f32d4bc743aa5
+SHA256: f9f128a10ca250c6585fc96d35395c14c13770e2425c27d9269bd5a99032867d
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1_iphoneos-arm.deb
+Size: 40768
+MD5sum: d226c56cf9f684d2b421fe290006141c
+SHA1: eb5c0bf1a41fc82885a8f9ecd5f1508931a2de79
+SHA256: 7bf5a63f54b70f05abf458e3d675f22c35a940a4adb55c466f58e07fc3d6e7ea
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.1_iphoneos-arm.deb
+Size: 40954
+MD5sum: 29fdc82ea42eb928094e6f563b27f551
+SHA1: de747dff5cf7b27f55e0bace10f35d49b731a6e5
+SHA256: d3ead9fad1618410d9b2516c298dd52656f003edc1448eb24704fd9f7748dd32
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.2_iphoneos-arm.deb
+Size: 45998
+MD5sum: 01e92a4348d8a9c7d81ea759c7d41508
+SHA1: f6256f9c76896b4bfd6c1b1e5e4110a355207361
+SHA256: 91c1e894ffc31072e4a7a3427983eff06622c262eb3a2131f16a821ffdca189b
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.3_iphoneos-arm.deb
+Size: 46692
+MD5sum: 82118efbb1569046cf30e8d44234be08
+SHA1: 6886993db8fd1973939e91a8f309b4befed72093
+SHA256: 0198089f71af44969b53ac0bae33db5b4acc7407033bc827621ccd048ea5ff11
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b1_iphoneos-arm.deb
+Size: 48472
+MD5sum: bfe570f56b3666718cec98bf487df850
+SHA1: b178544f1161fa41e4730753c467bb6e5d9af05c
+SHA256: af29ba580f5dc5768e03ed8c1baef853cd6aaef82730fa71815d6727205f2327
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b2_iphoneos-arm.deb
+Size: 48484
+MD5sum: 1fb0b7a80f325602fa7849d73c595378
+SHA1: 81529457af522223cb6c30d6aaed37e4b22d3dd1
+SHA256: bed3a3505c86085eb4d7ecf3e9b4b731c4a9dc72a597ec2204ae9f95e470eb01
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b3_iphoneos-arm.deb
+Size: 48462
+MD5sum: 0e8f8081095cdd97a9eb99bd7eb059cb
+SHA1: 70b94c4930639b6d81451c95c0a64a863d1062c1
+SHA256: dc9caf7ffeba226eb9c855e010198c6b04371b21ef4fc0fe99cdd793fe6a8cce
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b4
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b4_iphoneos-arm.deb
+Size: 387944
+MD5sum: a5460314128d82bc590c153c91ca175d
+SHA1: 8cf63e8ac17525cfa48c15b36b341cdf99d10621
+SHA256: 7ef504696a8e8376f10dc6d503659845da4afa4132781a124b1fc05402361d7e
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b5
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b5_iphoneos-arm.deb
+Size: 388116
+MD5sum: d49ebe2d2a20be1210f7705fd535c640
+SHA1: 633c9ea970d155bbbe482545cdbcbeee33a8e673
+SHA256: e93055daba7bef20e2fb90f0929d6207771e08d35890613618a5ee0463b971a5
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b6
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b6_iphoneos-arm.deb
+Size: 377910
+MD5sum: d89b842b507ecc9c5c7f0bb0c5e4d2cc
+SHA1: f3d140bc2a124917c0af161846a52c111f4c6137
+SHA256: 99a1cadf9f4a8e77a9ed9fd092556d9f10e66be7cb3a7179861ad4e888037895
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b7
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3592
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
+Size: 378932
+MD5sum: 43d42846a6ae58f0c641b13000d762e3
+SHA1: 4828bcef31c915881b03023e6df34da56dd0c050
+SHA256: 023ff8fd7d4a2fa855e38905c844dea1fde60b55f1b2dc79c709bb2c0835b145
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.permaflex
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 372
+Depends: mobilesubstrate, com.shmoopillc.flexible
+Filename: ./debs/com.shiftcmdk.permaflex_1.0.1_iphoneos-arm.deb
+Size: 57138
+MD5sum: 97030d3afac5152997aae0f3cedc5487
+SHA1: 345fdf9934424c5c2448952e41d61bd367eb3edc
+SHA256: 3d0818c8835d51540d58dda1906d53cc111afeb07010da1f94ac45901faa52c3
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Name: PermaFlex
+
+Package: com.shiftcmdk.permaflex
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.permaflex_1.0.2_iphoneos-arm.deb
+Size: 45966
+MD5sum: 9151b6054aad179f4975083b780e7b9a
+SHA1: 43cc7c35be9fcd04225b3e2fd25a2510129beb46
+SHA256: 9734711b853d72da00dc9949cbe02363a1a4b570fef5ec7e0784c0e421934cdf
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Name: PermaFlex
+
+Package: com.shiftcmdk.settingscollapse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.0_iphoneos-arm.deb
+Size: 14676
+MD5sum: f7fe3cc364da343db0a858582a1bf777
+SHA1: 4a5e440882109d4d0465f09469ce40e2a156adfd
+SHA256: 9ab38d8b2723794257782cb5dcbc2e6172cc50d578eb20a8f68eb6d02066a384
+Section: Tweaks
+Description: Expand or hide individual sections in the Settings app.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.settingscollapse
+Name: SettingsCollapse
+
+Package: com.shiftcmdk.settingscollapse
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 348
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.1_iphoneos-arm.deb
+Size: 42044
+MD5sum: 99f13ad781d0242b2849548965d6407e
+SHA1: 2cf964e9263341a1cc0550f9d2a9d5e3387bab3d
+SHA256: 259426d38a8f10f5521dab4d2af07d6b57c235fe6cd22d865d1693c7bcc4abb4
+Section: Tweaks
+Description: Expand or hide individual sections in the Settings app.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.settingscollapse
+Name: SettingsCollapse
+
+Package: com.shiftcmdk.settingscollapse
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 436
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker|me.nepeta.libcolorpicker
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.1.1_iphoneos-arm.deb
+Size: 37650
+MD5sum: c1bf8e1822de52005f65f3b6d43576b3
+SHA1: af39e98bef8c92084b8add68038c6be6cb5161d4
+SHA256: 4531037fd793918d5578f908e3ee7f74bde97138f2b1a84c701c6acde69b9f3c
+Section: Tweaks
+Description: Expand or hide individual sections in the Settings app.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.settingscollapse
+Name: SettingsCollapse
+
+Package: com.samgisaninja.SuccessionRestore
+Version: 0.9~b6
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.SuccessionRestore_1.0_iphoneos-arm.deb
+Size: 833482
+MD5sum: 89791b7794e72c0751100378c8039955
+SHA1: ec55085051d05e41eb3357d55bcaf0f79a810c49
+SHA256: ac660d026febee557a5e37c08c8ed004bac6f19b9023180ff7a8eb0268edaad0
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession [beta]
+
+Package: com.samgisaninja.SuccessionRestore
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.SuccessionRestore_1.1_iphoneos-arm.deb
+Size: 2266464
+MD5sum: f8c040534505e140fd4891835bcd31d5
+SHA1: 258270005f5c10866717092312c38847f98786d2
+SHA256: 47166593348278c31be3507fc3e07f2d2863c291d4b5c20e2b3f180766459e67
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.chlorophyll
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.chlorophyll_1.0_iphoneos-arm.deb
+Size: 11436
+MD5sum: 984b6f0674c2b4330990ce7d4542b915
+SHA1: d350402049e53835415078bac46aa7e2cfb4f4a7
+SHA256: 68cf9f97b1cb5d8b7523c64ef698342f0738070338d1da46dfb8811621be4b8f
+Section: Tweaks
+Description: Highlight downloaded items in app store!
+Author: Samg_is_a_Ninja
+Name: chlorophyll
+
+Package: com.samgisaninja.chlorophyll
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja & calicocat
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.chlorophyll_1.1_iphoneos-arm.deb
+Size: 19664
+MD5sum: 4c6500f0b1373299fbb0c2a0fa5eb65e
+SHA1: 84903c0b78f173b9721367383f98befebacb6f8d
+SHA256: f1b97373d4fdcc706372f93d05449b6046ae02eaf4cc2ed54057f2e80f4c3b04
+Section: Tweaks
+Description: Highlight downloaded items in app store!
+Author: Samg_is_a_Ninja
+Name: chlorophyll
+
+Package: com.samgisaninja.danaus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.danaus_1.0_iphoneos-arm.deb
+Size: 3322
+MD5sum: 60816e3c7468e08e4c29110e085722b8
+SHA1: a2e7eb3db7edf5958f0a1f20fd279b5a84ae1379
+SHA256: a478094e5edb28cc0d28af9baf2cbdb3ef78738f8ebd06ead40f521308c3a71e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Samg_is_a_Ninja
+Name: danaus
+
+Package: com.samgisaninja.danaus
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.danaus_1.1_iphoneos-arm.deb
+Size: 10052
+MD5sum: e3226e5f9028edbcebecd950822741a5
+SHA1: 9b210f0aae070e97529b6c200aa09d1e1008c114
+SHA256: 78b341e4023aca96a228d24527d959400bfa7a502fba4557330e61e044a260a8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Samg_is_a_Ninja
+Name: danaus
+
+Package: com.samgisaninja.dollarvoting
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: Sam Gardner
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.dollarvoting_1.0-4+debug_iphoneos-arm.deb
+Size: 3010
+MD5sum: 24e46829f2f09631d27cef4def650bc9
+SHA1: 64030b3397548ce26bc94bc324edac5ca8355453
+SHA256: ae9e127b0e794c37f0282d67f3d1be8767d90b0304deee2ccc011ab79986e5d3
+Section: Tweaks
+Description: Hides the "give gold" button on stock reddit app
+Author: Sam Gardner
+Name: DollarVoting
+
+Package: com.samgisaninja.dollarvoting
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Sam Gardner
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.dollarvoting_1.0.1_iphoneos-arm.deb
+Size: 7276
+MD5sum: 70f0f52822fcef361167384036c2fcf9
+SHA1: 6693cce9f8ab6180c98133f870fdc01debf266ab
+SHA256: d0b342d1a294a8484af2cb0e41513d7d3dd485933ebdc325673001c0544a7faf
+Section: Tweaks
+Description: Hides the "give gold" button on stock reddit app
+Author: Sam Gardner
+Name: DollarVoting
+
+Package: com.samgisaninja.hidelockicon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.samgisaninja.hidelockicon_1.0_iphoneos-arm.deb
+Size: 12210
+MD5sum: 11fa56018c9bfb905ec006408978f03b
+SHA1: 5f122b60f8dada6748be326e3f701aa629251e8a
+SHA256: 4842b42b6982ffd16dad8c937177098e73ee5cf60586ec96b876e2b253d0d59d
+Section: Tweaks
+Description: Hides FaceID lock icon, requested by @OodleMyNoodle#6211
+Author: Samg_is_a_Ninja
+Name: Hide Lock Icon
+
+Package: com.samgisaninja.hidelockicon
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 268
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.samgisaninja.hidelockicon_1.0.1_iphoneos-arm.deb
+Size: 23170
+MD5sum: cb043ba826e9f81488ca76f069c85361
+SHA1: 3daf878e3775bd5f0c6c4ea1cbc5962e411c12ce
+SHA256: cba7aade6ecd8802e753a4775d5ca2f0af631dbcbc5974135ffb1e66dcfc98ff
+Section: Tweaks
+Description: Hides FaceID lock icon, requested by @OodleMyNoodle#6211
+Author: Samg_is_a_Ninja
+Name: Hide Lock Icon
+
+Package: com.samgisaninja.malleus
+Version: 1.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: Sam Gardner
+Installed-Size: 104
+Depends: mobilesubstrate, firmware (<= 12.0.1)
+Filename: ./debs/com.samgisaninja.malleus_1.1-6+debug_iphoneos-arm.deb
+Size: 3938
+MD5sum: b3cba3690ad07823ad31d57f274678ee
+SHA1: 8a3e35f6c1d5c8a5c3ffe5a80b2189322684b2e1
+SHA256: 10706359b9ae45c37e6c92be0983e5fbf148ddd26c3a9597865a120935b5b002
+Section: Tweaks
+Description: iOS 12.1 3D Touch sounds
+Author: Sam Gardner
+Name: malleus
+
+Package: com.samgisaninja.malleus
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Sam Gardner
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (<= 12.0.1)
+Filename: ./debs/com.samgisaninja.malleus_1.1.1_iphoneos-arm.deb
+Size: 9854
+MD5sum: 79f913f55a3b6ba99e771ede537deb05
+SHA1: eef1ece255362d84c6d329e6d0ae4e25bb2e5070
+SHA256: f6aaf40bee1e67af983ddd8cdd6b0e041c19d672dd743ad7482cd296dfa7bb5b
+Section: Tweaks
+Description: iOS 12.1 3D Touch sounds
+Author: Sam Gardner
+Name: malleus
+
+Package: com.samgisaninja.nocturnal
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 100
+Depends: mobilesubstrate, com.opa334.ccsupport, me.gmoran.eclipse12
+Filename: ./debs/com.samgisaninja.nocturnal_1.0-1+debug_iphoneos-arm.deb
+Size: 20912
+MD5sum: 33e186b80ce8946217c61f64a5b513c1
+SHA1: c5e8ee909814278902b3455eb5ca2dfbcf1a0108
+SHA256: 03ce68544ae8357633f4d0d7b328b724964740c300dc1e0dc45104c5bb242379
+Section: Control Center (Modules)
+Description: Control Center Module for Eclipse!
+Author: Samg_is_a_Ninja
+Name: nocturnal
+
+Package: com.samgisaninja.nocturnal
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 100
+Depends: mobilesubstrate, com.opa334.ccsupport, me.gmoran.eclipse12
+Filename: ./debs/com.samgisaninja.nocturnal_1.1-1+debug_iphoneos-arm.deb
+Size: 20894
+MD5sum: e338f3277290422e5f45a099195cddc4
+SHA1: c0857eadfe879cdd4f8e78b781c9174a7f6a8213
+SHA256: 665e7d1b01b431b211056278fd2c40c5231c17edec2ecbb5b4a6895c834bc2e3
+Section: Control Center (Modules)
+Description: Control Center Module for Eclipse!
+Author: Samg_is_a_Ninja
+Name: nocturnal
+
+Package: com.samgisaninja.nocturnal
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 168
+Depends: mobilesubstrate, com.opa334.ccsupport, me.gmoran.eclipse12
+Filename: ./debs/com.samgisaninja.nocturnal_1.1.1_iphoneos-arm.deb
+Size: 25060
+MD5sum: 4c1981aa9fb3f9919f287f7cd9bce4c2
+SHA1: 56caca248eb2f625821f0067dd6126fa2ed81c75
+SHA256: 04b0ee2e34aecfcab167e8401fe584647243b3678d60f4d83d4f3c6086dbb8a9
+Section: Control Center (Modules)
+Description: Control Center Module for Eclipse!
+Author: Samg_is_a_Ninja
+Name: nocturnal
+
+Package: com.samgisaninja.nocturnal11
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 100
+Depends: mobilesubstrate, com.opa334.ccsupport, me.gmoran.eclipsex
+Filename: ./debs/com.samgisaninja.nocturnal11_1.1-1+debug_iphoneos-arm.deb
+Size: 20914
+MD5sum: a853014372ac35010442c01ad610fa14
+SHA1: 12ef001e938ff988658cb80f48fd1cfdcd7dc00a
+SHA256: 6ae4243d1295fdda5cd02419ef67530b3e59da03f311559bfd3e10eadcbd9be9
+Section: Control Center (Modules)
+Description: Control Center Module for Eclipse!
+Author: Samg_is_a_Ninja
+Name: nocturnal (iOS 11)
+
+Package: com.samgisaninja.nslogify-ios
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 196
+Filename: ./debs/com.samgisaninja.nslogify-ios_1.1_iphoneos-arm.deb
+Size: 7812
+MD5sum: bc5ee13521fa1c640feeadf45d333c34
+SHA1: b49835a586cb35d2919c765284de166702c969ef
+SHA256: ed5b443d5b7f7ed925031a64c4a306b4b28b429511b8c9d4fe3cda9c0036978e
+Section: System
+Description: Objective-C based recreation of logify.pl, uses NSLog instead of %log
+Tag: role::hacker
+Author: Samg_is_a_Ninja
+Name: nslogify-ios
+
+Package: com.samgisaninja.sillyo
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 117
+Depends: mobilesubstrate
+Conflicts: com.pixelomer.u0sileo.backend, com.pixelomer.u0sileo
+Filename: ./debs/com.samgisaninja.sillyo_1.2.1_iphoneos-arm.deb
+Size: 11870
+MD5sum: ed623bf51ce43e39e30d2f84b156fd6a
+SHA1: 4fa4be6bc7c0a1617ec2b02f80c6af7807d53a59
+SHA256: 18fe31cf0927d35d1e3784f47fa9d226ff83defe7770d6282a46cc3666196498
+Section: Tweaks
+Description: Compatibility layer for Sileo/unc0ver
+Author: Samg_is_a_Ninja & sbingner
+Name: Sileo Compatibility Layer
+
+Package: com.samgisaninja.stratosphere
+Version: 0.9
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.stratosphere_0.9_iphoneos-arm.deb
+Size: 11524
+MD5sum: 89bd0333d6ee20bdd5d34bdc641e3697
+SHA1: fd0ce6fe746f33c0638a7cb83c62e0286b1e7b52
+SHA256: 69380390c8ebfdb34da2aeb7d7f7f9d98a3f19f461cb630a16b193f7b05589a6
+Section: Tweaks
+Description: Move the dock to the top!
+Author: Samg_is_a_Ninja
+Name: stratosphere
+
+Package: com.samgisaninja.stratosphere
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.stratosphere_1.0.1_iphoneos-arm.deb
+Size: 7162
+MD5sum: 5a87d6c0955fcd5c89bc667acdfa97a1
+SHA1: 6d20807cd36d7171aa63724fd8d0ed8bc1cabb43
+SHA256: 5a6ada1440d2c8b01e7b31a649cd2deb674e3a16acf3f7ddf49e4766d9096a69
+Section: Tweaks
+Description: Move the dock to the top!
+Author: Samg_is_a_Ninja
+Name: stratosphere
+
+Package: com.samgisaninja.stratosphere
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.samgisaninja.stratosphere_1.1_iphoneos-arm.deb
+Size: 60834
+MD5sum: 5681632fc63b2b86309e728817af06c6
+SHA1: 5f050938431a1b63316de0081a9f2bedac31a895
+SHA256: 5abc686e8a3ca4f0c62bdf49e08a4ef783f1e61d7f7d97848c70127320b7a5f7
+Section: Tweaks
+Description: Move the dock to the top!
+Author: Samg_is_a_Ninja
+Icon: file:///Library/PreferenceBundles/stratosphereprefs.bundle/icon@3x.png
+Name: stratosphere
+
+Package: com.samgisaninja.successionrestore
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.2.2_iphoneos-arm.deb
+Size: 910770
+MD5sum: 6e4d0a3d6e527c379b806357ced45454
+SHA1: 392897ab04a523d7258f108f4ceaa1f0b961fedf
+SHA256: 8a7bbb8e6f40d79f9b6df1049b16c90dbe24abcb0202dc6ab0833182d3f0cd51
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.2.3_iphoneos-arm.deb
+Size: 910740
+MD5sum: e4b180b52a2a1ccbe0a5330736c755f5
+SHA1: 38f3eaaf49043d7f4275e88bdae71d60de5090ba
+SHA256: b65069d8068fd29ce4ebe568b48b066d45ac44bf3b9b6dd545bf2eeef71a9bbe
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.2.4_iphoneos-arm.deb
+Size: 916090
+MD5sum: c28ff3777edb6b33f76a2186109cb777
+SHA1: d1a5b4f34ebbc235c575074245f2f41c6902eba4
+SHA256: db4b3dbb5a617a8c9ac3ffbf3a2bfec0adf85e2af3f39bc6a53e7e11e7b2eac3
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.3_iphoneos-arm.deb
+Size: 991506
+MD5sum: c4712f400e6596466bb3a6ba1a07566f
+SHA1: 5e89d3338a93f0e09d38b59ce7fcf0914b220f84
+SHA256: 0183ad42ebc5d4f62165b8a111cbf33b61ea4a9748a3db9b7551f21b3f2eb329
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja <stgardner4@att.net>
+Depends: firmware (>=7.0), firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.3.2_iphoneos-arm.deb
+Size: 1004268
+MD5sum: 45bb407660e2eb0a3d88f45a50dc84ab
+SHA1: 61972a5c0ef8ac0ff7d4c82c4acff782dabfb70b
+SHA256: 64341295e7d085b724664eea0cd738649854465efe5bbf2de5165c98cc663da3
+Section: Utilities
+Homepage: https://shuga.co/
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja <stgardner4@att.net>
+Depiction: https://samgisaninja.github.io/depiction/web/com.samgisaninja.successionrestore.html
+Icon: https://samgisaninja.github.io/assets/com.samgisaninja.successionrestore/icon.png
+Moderndepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
+Name: Succession
+Sileodepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
+
+Package: com.samgisaninja.successionrestore
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.3.3_iphoneos-arm.deb
+Size: 1013858
+MD5sum: b99164cad564f0b84e7e67bfe3e0c1df
+SHA1: 7de631e3bf5fc3978c645cb618b90b594677f1c2
+SHA256: 12c929bee92462104bbc600a0435f0964e44cc48cb50e74f589f5fbf049e2fdb
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.3.4_iphoneos-arm.deb
+Size: 1006864
+MD5sum: a213f22a8347898d9aea3e6e0d45f66e
+SHA1: bbaae04d74cc7167c4786ce90f9d1ec03ebfde74
+SHA256: 161968e999add004efe2d17fe5ac9e5f346141d524c885d38c11611991ff48ed
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.3.5_iphoneos-arm.deb
+Size: 1232552
+MD5sum: fe501d5e6ad496ba026e63e6fbbb5213
+SHA1: 82492b1286f49088b9fae63bb0d7ec33ae5602f8
+SHA256: 85f70648435d6d2399fac09ce9fa973644dd1f1b5307579a645c6577121078e6
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.3.6_iphoneos-arm.deb
+Size: 1246054
+MD5sum: 5061d28de82f8619fede98d6a2cc71da
+SHA1: 974022a8ed5409b25f69d565e3beb8bf3092e5b6
+SHA256: ac08266566a0b6413b378bc6e93d44d8c7a1ee724720698a49cb03d6fa170204
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.3.7_iphoneos-arm.deb
+Size: 1245182
+MD5sum: 163fa3c6ff3e970f71411136d3f1a401
+SHA1: da1610e9d019a7f737e45175a4d7290912cb909f
+SHA256: cae7fbd96489c86c908c0211ea3bfcd1e700267d2394a2d27b1bb4a93855142a
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.3.8
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.3.8_iphoneos-arm.deb
+Size: 1250376
+MD5sum: f15eab6f9b4022e10c9a20354ec49153
+SHA1: 23757b99613ebd75796265b1973bba83a087fb30
+SHA256: c737fc2c9037c2a88aeb4c368e23e2f667f5fb7e451233b6206ac84e586e34ee
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.1_iphoneos-arm.deb
+Size: 1313608
+MD5sum: 11a78dd7c8a36af36b9ac24fe4921325
+SHA1: 4c04d011aafd1bdb94dc9e18d4ed040f43fb7c11
+SHA256: 44103ef53e09a817adaf6676f9305b4cdb937a08e085ec9badab3d16b4bc98c7
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.11
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.11_iphoneos-arm.deb
+Size: 1331450
+MD5sum: 90c0f1b19cdd439e6feea6aed5254243
+SHA1: eef0a0acd9a5ef83859067c8c41606b7e674a589
+SHA256: 765c35da74465badcdf05d951a709d12af68c5385e5ce08a10d6a29eecd9b1a9
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.12
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.12_iphoneos-arm.deb
+Size: 1388088
+MD5sum: 15fc3fa0cd1b23fa2123b41b3ccbe7d7
+SHA1: 13fb6382fa4600f865e260e6fc2a1c69ab2b2bb8
+SHA256: 7e0e5504654dd82def467766932cff6139b4ae72108c25675093b85de050b972
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.13
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.13_iphoneos-arm.deb
+Size: 1376200
+MD5sum: cfe5843c91f45a2b4e13067412b46ee8
+SHA1: 6db326fe277228ab0eb1b4d396f8a2a93612c12e
+SHA256: 1e12fe1368f847ca4e1ba78653fa29b06313fff3e588b4833e02d456b1928d0e
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.14
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.14_iphoneos-arm.deb
+Size: 1377792
+MD5sum: e4a8f4c7904873d96cf27d5d1cbce087
+SHA1: 469616dfd9995c9a70434a2ffa988a581d33c0ae
+SHA256: 32f672257f9d1daffafa96970d9fd06201d9f8a7c5e286b81a207f477ec665b5
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.15
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.15_iphoneos-arm.deb
+Size: 1176050
+MD5sum: 49897046f0f21b2a5b69a8f035aa9201
+SHA1: bc8377c3723535aa71af974d3e7b4cede404e879
+SHA256: b62349fb95e1773ecde52407034f33b3bb223c2c2aef2e97d148556f944cc36a
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.2_iphoneos-arm.deb
+Size: 1326626
+MD5sum: 8fbb51039c35afcdadb1bc0f10a9f531
+SHA1: d7693ccc3e5f5a93e34a67e106f32b8b7f70ae5a
+SHA256: 8fcbc289593d4a11d2c94b0f3a5284d5509860325315913ddb91259cd1abe48b
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.3_iphoneos-arm.deb
+Size: 1327140
+MD5sum: ba1c0bc20a37257be1f4ab3fd1e1e350
+SHA1: cb227b7b5813ea7a325d924f3ac5301b371f1583
+SHA256: 8319afe6f1f3fe1695cbcc172e514e2f9c24d5a8eeca0843f7c6e86fec6bf0ca
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.4_iphoneos-arm.deb
+Size: 1313200
+MD5sum: cd501c873befc4e3ed35ec3742c7dd4c
+SHA1: 32c413507e853005e0ea210d91c44e304c5a2d76
+SHA256: 5cd89e7f4f7f949611ddf67893c76e744477492b5e52f1c699cbf565d50a31e9
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.5_iphoneos-arm.deb
+Size: 1321074
+MD5sum: ba8ae49a5c7a034fde52e2d25d37c1b1
+SHA1: fbf31e29adce796118abd00448510670f27f58d5
+SHA256: e8d9030c1652c6712b774d41944a803704bf7cfad4cd6ea8f1d52dbbd5a36297
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.6
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.6_iphoneos-arm.deb
+Size: 1326734
+MD5sum: b4ec84a067d6fc8c539988f47619af2f
+SHA1: f973156c811780fc65380301b881d92282469187
+SHA256: 2b1f85d46eff9e4dd6820eab496ace92e4187a26729c765b162181f3573d34f0
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.7_iphoneos-arm.deb
+Size: 1327346
+MD5sum: 1da70a1c50ace5e485ba83c63c3cf069
+SHA1: 63fd1044a9a144f90bae71b2a871eab1f1998716
+SHA256: 869657f60f2a61ee6449f7656f70637c5217fca1f1149f6a45bdda0bada871bb
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.thaliana
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: Sam Gardner
+Installed-Size: 72
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.samgisaninja.thaliana_1.0-2+debug_iphoneos-arm.deb
+Size: 12178
+MD5sum: 1be39fb9be7c06c1da2e25b95b7d360c
+SHA1: 9cf8fac5cc75a98999f98419d0de19ced44200a0
+SHA256: 10db738a11bdd61c88c5eb5f142a7a681621782e1cb2ecbcc39161f41d776403
+Section: Control Center (Modules)
+Description: Control Center module for Firebird emulator
+Author: Sam Gardner
+Name: thaliana
+
+Package: com.samgisaninja.tweakcompatible-zebra
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 332
+Depends: mobilesubstrate, xyz.willy.zebra
+Filename: ./debs/com.samgisaninja.tweakcompatible-zebra_1.1.3_iphoneos-arm.deb
+Size: 94654
+MD5sum: 7d58cefaa6c9370c31abaf7e2e1df2f5
+SHA1: 9cf6cdf24cf688bae505f91682382967900774fc
+SHA256: 806aa040c915378b3a97f4dfc6dbf29942a2f60761df0d2efc41104cc5f9148e
+Section: Tweaks
+Description: Adds TweakCompatible to Zebra!
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.tweakcompatible-zebra
+Icon: file:///Library/tweakcompatible-zebra/icon.png
+Name: TweakCompatible for Zebra
+
+Package: com.samgisaninja.tweakcompatible-zebra
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 336
+Depends: mobilesubstrate, xyz.willy.zebra
+Filename: ./debs/com.samgisaninja.tweakcompatible-zebra_1.1.4_iphoneos-arm.deb
+Size: 100626
+MD5sum: 1f2f0f894e9ea0ed2e51e57441b6ba0d
+SHA1: 5c37d5404a516b6640549965b4c1a093741385bb
+SHA256: a3186452bcfd2bf25a103b41371c0b5d0109c58bbbfb3ad407e89098324a8613
+Section: Tweaks
+Description: Adds TweakCompatible to Zebra!
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.tweakcompatible-zebra
+Icon: file:///Library/tweakcompatible-zebra/icon.png
+Name: TweakCompatible for Zebra
+
+Package: com.samgisaninja.tweakcompatible-zebra
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 332
+Depends: mobilesubstrate, xyz.willy.zebra
+Filename: ./debs/com.samgisaninja.tweakcompatible-zebra_1.1.5_iphoneos-arm.deb
+Size: 97558
+MD5sum: 8e6e5b4159dbd2e04a8a04b90af50cba
+SHA1: 3f5265a1b7213678be1d23ee6f9f11dd250eaac8
+SHA256: 6b3ae3409faf19676fd5522b8a42be82694d55dcad80b56e998978c7697d8cd3
+Section: Tweaks
+Description: Adds TweakCompatible to Zebra!
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.tweakcompatible-zebra
+Icon: file:///Library/tweakcompatible-zebra/icon.png
+Name: TweakCompatible for Zebra
+
+Package: com.yourepo.samgisaninja.cydia11icon
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.samgisaninja.cydia11icon_1.0_iphoneos-arm.deb
+Size: 164898
+MD5sum: f374c8ba27ef002e6d5286f6fdeaa971
+SHA1: 26fd5b9897d058d1d38a7facf9b52903f9d134b1
+SHA256: 554e94a867f5e5130d419b4e12de1fb84aae20029523fba13a574090bea1046b
+Section: Themes
+Description: iOS 11-style icon for Cydia
+Author: Sam Gardner <stgardner4@att.net>
+Name: Cydia 11 icon
+
+Package: com.yourepo.samgisaninja.extrarecipelauncher
+Version: 3.1.2
+Architecture: iphoneos-arm
+Filename: ./debs/com.samgisaninja.extrarecipelauncher_3.1_iphoneos-arm.deb
+Size: 1514
+MD5sum: 81ce62fb4600d1b3ecc31edf0e528a33
+SHA1: f048fb7eb512aa2144960b4a2d9547504c61b78d
+SHA256: 3869331e8a952740d71cfa84e8767fe7039fe02ba2775f1810530d177ed941d4
+Section: Tweaks
+Description: A substrate launcher and rootfs mounter for the extra_recipe jailbreak.
+Author: Sam Gardner <stgardner4@att.net>
+Name: extra_recipe launcher
+
+Package: com.yourepo.samgisaninja.hotdogmanfilteranimationforspringy
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: com.aditkamath.springy
+Filename: ./debs/com.samgisaninja.hotdogmanfilteranimationforspringy_1.0_iphoneos-arm.deb
+Size: 662982
+MD5sum: bca36a171e87208876c7cecaab3773dc
+SHA1: 76ccf0776c917f8b437ffcfb618a968508613669
+SHA256: ba26a51fc7143fe70f7e69a2f04f394aa6e25ad1fd7954e3ad7c07dbfbfae2d3
+Section: Themes
+Description: The popular hot dog man snapchat filter as a springy animation.
+Author: Sam Gardner <stgardner4@att.net>
+Name: Hot Dog Man filter animation for springy
+
+Package: com.yourepo.samgisaninja.percentageanimationforspringy
+Version: 1.1.2
+Architecture: iphoneos-arm
+Filename: ./debs/com.samgisaninja.percentageanimationforspringy_1.1_iphoneos-arm.deb
+Size: 1657480
+MD5sum: 770e8939fc7ec507a34b8ba04ba0376f
+SHA1: 8b03f17894d4c8e77f9b36962e261bdd45706eca
+SHA256: df9de0d26ad3cf1272e52e3ceee71bab8969f44ef27cacc5e79fd4dd3e203ef3
+Section: Themes
+Description: A springy animation that (inaccurately) shows the percentage of a respring
+Author: Sam Gardner <stgardner4@att.net>
+Name: Percentage Animation for Springy
+
+Package: me.midnightchips.snapback
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 1548
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: ./debs/me.midnightchips.snapback_2.0.1_iphoneos-arm.deb
+Size: 582812
+MD5sum: 4aa88d6e5f7b7ce20a8113999223d7fd
+SHA1: cb3afd8b7bcdf3abb3f08a2ffa9b28dc6b861927
+SHA256: 0fed981413a057ac6c83083ab92d397ba8d259b0ea85beb6d8816131cdf8fbf9
+Section: Utilities
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+Icon: https://midnightchips.me/packages/SnapBack/SileoIcon.png
+Name: SnapBack
+Sileodepiction: https://midnightchips.me/sileo/snapback.json
 
