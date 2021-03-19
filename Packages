@@ -1,3 +1,17 @@
+Package: com.babyyoda777.iPhoneXLite_1.0.0_iphoneos-arm
+Name: iPhoneXLite
+Author: Babyyoda777
+Description: Gestures for home button iPhones on IOS 13 & 14. There are no options. 
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: debs/com.babyyoda777.iPhoneXLite_1.0.0_iphoneos-arm.deb
+Replaces: com.pholic.modernuiplus,  com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Conflict: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Maintainer: babyyoda777
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
+
 Package: com.megadev.coronacounter
 Version: 3
 Architecture: iphoneos-arm
