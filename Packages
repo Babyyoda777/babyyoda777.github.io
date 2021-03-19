@@ -12,9 +12,9 @@ Installed-Size: 136
 Description: Gestures for home button iPhones on IOS 13 & 14. There are no options. This only give you gestures and hides the status bar in the CC, nothing else.
 Name: iPhoneXLite
 Author: Babyyoda777
-MD5sum: 0740716b33075cd4c000121361bae5db
-SHA1: 35ea4073b7113a3be6f72a33c3f748980038f21d
-SHA256: d14eec08d86dfce69e64d5fb7b4056a18b128c7b6a106aa0c0bdd1220397c094
+MD5sum: iPhonexLite
+SHA1: iPhonexLite
+SHA256: iPhonexLite
 
 Package: com.megadev.coronacounter
 Version: 3
