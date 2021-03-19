@@ -8,7 +8,7 @@ Replaces: com.pholic.modernuiplus,  com.ryannair05.little11, com.VitaTaf.HomeGes
 Conflict: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Provides: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Maintainer: babyyoda777
-MD5sum: b2c324c81027969db5c54896dae8942b
+MD5sum: f1e89e05f31f6aa5e18c675cf84bfba7
 SHA1: 1341711f135df191377ed62ff5c41a8dab885f71
 SHA256: 3f6ee70179cbb6a1cfb43ee9d4c671bb4fc28c1ef9bf1a0a479ebacc09392000
 Architecture: iphoneos-arm
