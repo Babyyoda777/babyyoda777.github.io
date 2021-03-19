@@ -1,21 +1,20 @@
-Package: com.babyyoda777.iPhoneXLite_1.0.0_iphoneos-arm
+Package: com.babyyoda777.iPhoneXLite
+Version: 1.1.5
+Section: My Tweaks
+Maintainer: Babyyoda777
+Depends: mobilesubstrate, firmware (>= 13)
+Provides: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Replaces: com.pholic.modernuiplus,  com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Architecture: iphoneos-arm
+Filename: ./debs/com.babyyoda777.iPhoneXLite_1.0.0_iphoneos-arm.deb
+Size: 3266
+Installed-Size: 136
+Description: Gestures for home button iPhones on IOS 13 & 14. There are no options. This only give you gestures and hides the status bar in the CC, nothing else.
 Name: iPhoneXLite
 Author: Babyyoda777
-Description: Gestures for home button iPhones on IOS 13 & 14. There are no options. 
-Depends: mobilesubstrate, firmware (>= 13)
-Filename: ./debs/com.babyyoda777.iPhoneXLite_1.0.0_iphoneos-arm.deb
-Replaces: com.pholic.modernuiplus,  com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Conflict: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Provides: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Maintainer: babyyoda777
-Installed-Size: 238
-Size: 4270
-MD5sum: f1e89e05f31f6aa5e18c675cf84bfba7
-SHA1: 1341711f135df191377ed62ff5c41a8dab885f71
-SHA256: 3f6ee70179cbb6a1cfb43ee9d4c671bb4fc28c1ef9bf1a0a479ebacc09392000
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 1.0.0
+MD5sum: 0740716b33075cd4c000121361bae5db
+SHA1: 35ea4073b7113a3be6f72a33c3f748980038f21d
+SHA256: d14eec08d86dfce69e64d5fb7b4056a18b128c7b6a106aa0c0bdd1220397c094
 
 Package: com.megadev.coronacounter
 Version: 3
