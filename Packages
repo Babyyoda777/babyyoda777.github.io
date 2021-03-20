@@ -12,8 +12,8 @@ Section: My Tweaks
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-MD5sum: FB6DA83453BCF26F83A90E77F6C52A9D
-SHA1: F4DBA29A43A295029C9F48C880EA76F89C185EE3
-SHA256: E9464258FA517113AA0EA887BFCEE085C31ECED06BB71B6C1E5B274FAB745528
+MD5sum: DAEDF38EDB213A5981E254B27F58C46F
+SHA1: DD7445A1E8AF4136CB63D158978ECFABDE03302C
+SHA256: 36F80F1A08357FEA4E8FACA28FE17485B843ACA1310F9E347BBDD99F156E2ADC
 
 
