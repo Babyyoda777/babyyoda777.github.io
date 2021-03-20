@@ -14,3 +14,16 @@ Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, c
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 MD5sum: D8437696BEF079D69D89F6A5E904B0BD
 
+Package: com.babyyoda777.Tiny14_1.0.0_iphoneos-arm
+Name: Tiny14
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: babyyoda777 
+Depends: preferenceloader
+Filename: debs//com.babyyoda777.Tiny14_1.0.0_iphoneos-arm.deb
+Size: 96569
+MD5sum: 0b0805cc75d1aed56fb18a719548dfd9
+SHA1: 1636c56e72d050076ee893db4bd949bb6dc15aa2
+SHA256: 4987ed43440a4ff9c48a791bc74ffe647530216b6b0c4dce20aa50b2fcdca742
+Section: Tweaks
+Description: test do not install
