@@ -8,8 +8,6 @@ Maintainer: Babyyoda777
 Author: Babyyoda777
 Filename: ./debs/com.babyyoda777.Tiny14_1.0.0_iphoneos-arm.deb
 Section: My Tweaks
-Size: 99328
-Installed-Size: 1024
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
