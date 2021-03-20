@@ -14,8 +14,8 @@ Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, co
 Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 MD5sum: c33ce9a1c9d7c0c986725012fe42042f
-SHA1: 
-SHA256: 
+SHA1: 943ABC9BF52F1E2340649BEC02892E6CF6C9E849
+SHA256: 62A87BC97B1114BFEB4CEC18653C7958C0F0314FD00FF59A14855A831FBB5755
 
 Package: com.babyyoda777.iPhoneXLite
 Version: 1.1.5
