@@ -12,8 +12,8 @@ Section: My Tweaks
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-MD5sum: 4B10994B445CA295CAB4E00AF4CC5D26
-SHA1: 7CBA39A0C963EB06787553156A70EADBC91EEE01
+MD5sum: 4b10994b445ca295cab4e00af4cc5d26
+SHA1: 7cba39a0c963eB06787553156a70eadbc91eee01
 SHA256: ab84d838d1764ee243290cd9dff6031f4103da5d390a4f0c7fc48becbcd283b9
 
 Package: com.babyyoda777.Tiny14_1.0.1_iphoneos-arm
@@ -30,8 +30,8 @@ Section: My Tweaks
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-MD5sum: 4B10994B445CA295CAB4E00AF4CC5D26
-SHA1: 7CBA39A0C963EB06787553156A70EADBC91EEE01
+MD5sum: 4b10994b445ca295cab4e00af4cc5d26
+SHA1: 7cba39a0c963eB06787553156a70eadbc91eee01
 SHA256: ab84d838d1764ee243290cd9dff6031f4103da5d390a4f0c7fc48becbcd283b9
 
 
