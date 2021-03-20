@@ -14,7 +14,6 @@ Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, c
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 MD5sum: D8437696BEF079D69D89F6A5E904B0BD
 SHA1: 8A116812298D1B64A3079A5F55C33C525414A06E
-SHA256: AB84D838D1764EE243290CD9DFF6031F4103DA5D390A4F0C7FC48BECBCD283B9
 
 
 Package: com.megadev.coronacounter
