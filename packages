@@ -12,6 +12,26 @@ Section: My Tweaks
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-MD5sum: D8437696BEF079D69D89F6A5E904B0BD
-SHA1: 8A116812298D1B64A3079A5F55C33C525414A06E
-SHA256: AB84D838D1764EE243290CD9DFF6031F4103DA5D390A4F0C7FC48BECBCD283B9
+MD5sum: 4B10994B445CA295CAB4E00AF4CC5D26
+SHA1: 7CBA39A0C963EB06787553156A70EADBC91EEE01
+SHA256: ab84d838d1764ee243290cd9dff6031f4103da5d390a4f0c7fc48becbcd283b9
+
+Package: com.babyyoda777.Tiny14_1.0.1_iphoneos-arm
+Name: Tiny14
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: iPhone 11 gestures and more for iOS 13 and 14. Huge thanks to Ryan Nair with the source code. Based off little11. There are no preferences.
+Maintainer: Babyyoda777
+Author: Babyyoda777
+Size: 96560
+Filename: ./debs/com.babyyoda777.Tiny14_1.0.1_iphoneos-arm.deb
+Section: My Tweaks
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+MD5sum: 4B10994B445CA295CAB4E00AF4CC5D26
+SHA1: 7CBA39A0C963EB06787553156A70EADBC91EEE01
+SHA256: ab84d838d1764ee243290cd9dff6031f4103da5d390a4f0c7fc48becbcd283b9
+
+
