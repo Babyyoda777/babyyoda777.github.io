@@ -1,0 +1,6 @@
+function ndChangeTab(show,hide){let i;for(i=0;i<document.querySelectorAll(`${hide}.nd_tab`).length;i++){document.querySelectorAll(`${hide}.nd_tab`)[i].classList.add("nd_hidden");document.querySelectorAll(`${hide}.nd_nav_btn`)[i].classList.remove("nd_active");}
+for(i=0;i<document.querySelectorAll(`${show}.nd_tab`).length;i++){document.querySelectorAll(`${show}.nd_tab`)[i].classList.remove("nd_hidden");document.querySelectorAll(`${show}.nd_nav_btn`)[i].classList.add("nd_active");}
+ndSetFrameHeights();}
+function ndSetFrameHeights(){let i;let iframe=document.querySelectorAll("iframe.nd_md_iframe");for(i=0;i<iframe.length;i++){iframe[i].height=getComputedStyle(iframe[i].contentDocument.body.parentElement).height;}}
+function darkMode(isOled){var darkColor=isOled?"black":"#161616";document.querySelector("body").style.color="white";document.querySelector("body").style.background=darkColor;for(var i=document.querySelectorAll(".subtle_link, .subtle_link > div > div, .subtle_link > div > div > p").length-1;i>=0;i--){document.querySelectorAll(".subtle_link, .subtle_link > div > div, .subtle_link > div > div > p")[i].style.color="white";}}
+if(navigator.userAgent.toLowerCase().indexOf("dark")!=-1){darkMode(navigator.userAgent.toLowerCase().indexOf("oled")!=-1||navigator.userAgent.toLowerCase().indexOf("black")!=-1);}
