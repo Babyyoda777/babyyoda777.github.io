@@ -14,7 +14,7 @@ Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, c
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 MD5sum: 4b10994b445ca295cab4e00af4cc5d26
 SHA1: 7cba39a0c963eB06787553156a70eadbc91eee01
-SHA256: ab84d838d1764ee243290cd9dff6031f4103da5d390a4f0c7fc48becbcd283b9
+SHA256: 26eaaf2b9aae26fc7007cdcf670ed95759819c7279cc0cef5ff0f25295e82849
 
 Package: com.babyyoda777.HandWritten
 Name: HandWritten
