@@ -24,9 +24,8 @@ Architecture: iphoneos-arm
 Description: A glpyh theme with badly handwritten icons.
 Author: babyyoda777	<babyyoda777@icloud.com> 
 Maintainer: babyyoda777 <babyyoda777@icloud.com> 
-Section: Themes
-Installed-Size : 67597
-Size : 67597
+Section: My Themes
+Size: 67597
 Filename : ./debs/Handwritten.deb
 MD5 : 0c91215282c0a1cbda011891ae43a76b
 SHA1 : e7f3aaca8ba1fc144a15ba7923058d1f446a4bd8
