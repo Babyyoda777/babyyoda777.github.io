@@ -6,7 +6,7 @@ Architecture: iphoneos-arm
 Description: iPhone 11 gestures and more for iOS 13 and 14. Huge thanks to Ryan Nair with the source code. Based off little11 and little12. There are no preferences.
 Maintainer: Babyyoda777
 Author: Babyyoda777
-Install-size: 30
+Installed-size: 30
 Size: 30
 Filename: ./debs/com.babyyoda777.Tiny14_2.0.0_iphoneos-arm.deb
 Section: My Tweaks
@@ -26,6 +26,7 @@ Description: A glpyh theme with badly handwritten icons.
 Author: babyyoda777	<babyyoda777@icloud.com> 
 Maintainer: babyyoda777 <babyyoda777@icloud.com> 
 Section: Themes
+Size : 14
 Filename : ./debs/Handwritten.deb
 MD5 : 0c91215282c0a1cbda011891ae43a76b
 SHA1 : e7f3aaca8ba1fc144a15ba7923058d1f446a4bd8
