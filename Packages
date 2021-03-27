@@ -16,7 +16,7 @@ MD5sum: 4b10994b445ca295cab4e00af4cc5d26
 SHA1: 7cba39a0c963eB06787553156a70eadbc91eee01
 SHA256: 26eaaf2b9aae26fc7007cdcf670ed95759819c7279cc0cef5ff0f25295e82849
 
-Package: com.babyyoda777.HandWritten
+Package: com.babyyoda777.handwritten
 Name: HandWritten
 Depends: com.anemonetheming.anemone, com.spark.snowboard
 Version: 1.0
