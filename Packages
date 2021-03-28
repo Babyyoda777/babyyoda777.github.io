@@ -4,8 +4,8 @@ Depends: mobilesubstrate, firmware (>= 11.0)
 Version: 2.0.0
 Architecture: iphoneos-arm
 Description: iPhone 11 gestures and more for iOS 13 and 14. Huge thanks to Ryan Nair with the source code. Based off little11 and little12. There are no preferences.
-Maintainer: Babyyoda777
-Author: Babyyoda777
+Author: babyyoda777	<babyyoda777@icloud.com> 
+Maintainer: babyyoda777 <babyyoda777@icloud.com> 
 Size: 55600
 Filename: ./com.babyyoda777.Tiny14_2.0.0_iphoneos-armOG.deb
 Section: My Tweaks
