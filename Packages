@@ -28,7 +28,7 @@ Size: 55600
 MD5sum: aad1efdcae321fcce37064c32204efbe
 SHA1: b3453ae81997cb3037f411d51c2fece77843ba9b
 SHA256: 26eaaf2b9aae26fc7007cdcf670ed95759819c7279cc0cef5ff0f25295e82849
-Section: My Tweaks
+Section: Tweaks
 Description: iPhone X gestures for devices with home buttons. Supports 6s- SE 2020. Based of Little11 and Little12. Huge thanks to Ryan Nair.
 Author: babyyoda777
 Name: Tiny14
