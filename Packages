@@ -4,7 +4,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: babyyoda777 <babyyoda777@icloud.com>
 Depends: com.anemonetheming.anemone, com.spark.snowboard
-Filename: ./.local/share/Trash/files/com.babyyoda777.HandWritten_1.0_iphoneos-arm.deb
+Filename: ./com.babyyoda777.HandWritten_1.0_iphoneos-arm.deb
 Size: 1015068
 MD5sum: 4b3674d2e1d637035fb6a3245d4d7a14
 SHA1: b8d665a63fe177a86c0e9b45c6d27c048966bc9f
@@ -23,7 +23,7 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
-Filename: ./Downloads/com.babyyoda777.Tiny14_2.0.0_iphoneos-armOG.deb
+Filename: ./com.babyyoda777.Tiny14_2.0.0_iphoneos-armOG.deb
 Size: 55600
 MD5sum: aad1efdcae321fcce37064c32204efbe
 SHA1: b3453ae81997cb3037f411d51c2fece77843ba9b
