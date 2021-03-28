@@ -9,7 +9,7 @@ Size: 1015068
 MD5sum: 4b3674d2e1d637035fb6a3245d4d7a14
 SHA1: b8d665a63fe177a86c0e9b45c6d27c048966bc9f
 SHA256: 00ac21a2a0a7144af846ded32005560f9061451706e55e180b0c9ce48f96d513
-Section: Themes
+Section: My Themes
 Description: A glpyh theme with badly handwritten icons.
 Author: babyyoda777    <babyyoda777@icloud.com>
 Name: HandWritten
@@ -28,7 +28,7 @@ Size: 55600
 MD5sum: aad1efdcae321fcce37064c32204efbe
 SHA1: b3453ae81997cb3037f411d51c2fece77843ba9b
 SHA256: 26eaaf2b9aae26fc7007cdcf670ed95759819c7279cc0cef5ff0f25295e82849
-Section: Tweaks
+Section: My Tweaks
 Description: iPhone X gestures for devices with home buttons. Supports 6s- SE 2020. Based of Little11 and Little12. Huge thanks to Ryan Nair.
 Author: babyyoda777
 Name: Tiny14
