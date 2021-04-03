@@ -49,3 +49,22 @@ Description: Modern gestures, iPad features, and many unique features but lightw
 Author: babyyoda777
 Icon: https://github.com/hieuvh/HalFiPad/raw/master/packages/iphonex.png
 Name: ProGesture Lite
+
+Package: com.babyyoda777.pucklite
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: babyyoda777
+Installed-Size: 1940
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./com.babyyoda777.pucklite_1.7_iphoneos-arm.deb
+Size: 1054404
+MD5sum: 87fa6bd75f2ffff7f993b06c294e33c3
+SHA1: 53ae263b852a7dc85c924a779d3d2981bf2713e2
+SHA256: e5032488e6da430407cd2d0beb3c22d10d2ebc26ae8107d2c4738060ad8c3537
+Section: Tweaks
+Description: Puck a battery and jailbreak saving tweak. Similar to Sentinel. Now without preferenceloader to improve app launch speed. To enable, got straight to control centre and add the puck toggle.
+Author: babyyoda777
+Depiction: https://repo.litten.love/depictions/pck/index.html
+Icon: https://repo.litten.love/depictions/pck/assets/icon.png
+Name: Puck Lite
+Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
