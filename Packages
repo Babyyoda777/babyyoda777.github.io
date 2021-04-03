@@ -32,3 +32,20 @@ Section: My Tweaks
 Description: iPhone X gestures for devices with home buttons. Supports 6s- SE 2020. Based of Little11 and Little12. Huge thanks to Ryan Nair.
 Author: babyyoda777
 Name: Tiny14
+
+Package: com.babyyoda777.ProGestureLite
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: babyyoda777
+Depends: mobilesubstrate, firmware(>=14.0)
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn, com.hius.halfipad
+Filename: ./com.babyyoda777.ProGestureLite_1.0.9_iphoneos-arm.deb
+Size: 83540
+MD5sum: b4322a3b69e8c63bd9ed01f78186e2bb
+SHA1: 6da71873432e272450fac3714a747371fab058f9
+SHA256: dcbbbf828d412de5d9eb9f6e71f49717afe84264c00e2da2e509b9a2730723eb
+Section: Tweaks
+Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain. Only for iOS 14. Pro Gesture without preferenceloader. Lighter but less customise able than original.
+Author: babyyoda777
+Icon: https://github.com/hieuvh/HalFiPad/raw/master/packages/iphonex.png
+Name: ProGesture Lite
