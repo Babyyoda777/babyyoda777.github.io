@@ -68,3 +68,19 @@ Depiction: https://repo.litten.love/depictions/pck/index.html
 Icon: https://repo.litten.love/depictions/pck/assets/icon.png
 Name: Puck Lite
 Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
+
+Package: com.babyyoda777.ArchiveOS
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: babyyoda777 <babyyoda777@icloud.com>
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: ./com.babyyoda777.ArchiveOS_1.0_iphoneos-arm.deb
+Size: 1312732
+MD5sum: 55ece4c92d43c0ae3eac31a3ae1ea221
+SHA1: 41501528e4fd0561049bcc008d1bcffb16f95cb9
+SHA256: e3780b0afa5f91ab592a1efa0a299307a0d655960d27825ed3fa5df1e37b27a1
+Section: Themes
+Description: Windows Vista, XP and 95 icons for iOS. All icons were found online on a range of websites for free. There are currently over 60 icons. More coming in future.
+Author: babyyoda777	<babyyoda777@icloud.com>
+Name: ArchiveOS
+
