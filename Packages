@@ -14,60 +14,6 @@ Description: A glpyh theme with badly handwritten icons.
 Author: babyyoda777    <babyyoda777@icloud.com>
 Name: HandWritten
 
-Package: com.babyyoda777.Tiny14
-Version: 2.0.0
-Architecture: iphoneos-arm
-Maintainer: babyyoda777
-Installed-Size: 1024
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
-Filename: ./com.babyyoda777.Tiny14_2.0.0_iphoneos-armOG.deb
-Size: 55600
-MD5sum: aad1efdcae321fcce37064c32204efbe
-SHA1: b3453ae81997cb3037f411d51c2fece77843ba9b
-SHA256: 26eaaf2b9aae26fc7007cdcf670ed95759819c7279cc0cef5ff0f25295e82849
-Section: Tweaks
-Description: iPhone X gestures for devices with home buttons. Supports 6s- SE 2020. Based of Little11 and Little12. Huge thanks to Ryan Nair.
-Author: babyyoda777
-Name: Tiny14
-
-Package: com.babyyoda777.ProGestureLite
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: babyyoda777
-Depends: mobilesubstrate, firmware(>=14.0)
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn, com.hius.halfipad
-Filename: ./com.babyyoda777.ProGestureLite_1.0.9_iphoneos-arm.deb
-Size: 83540
-MD5sum: b4322a3b69e8c63bd9ed01f78186e2bb
-SHA1: 6da71873432e272450fac3714a747371fab058f9
-SHA256: dcbbbf828d412de5d9eb9f6e71f49717afe84264c00e2da2e509b9a2730723eb
-Section: Tweaks
-Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain. Only for iOS 14. Pro Gesture without preferenceloader. Lighter but less customise able than original.
-Author: babyyoda777
-Icon: https://github.com/hieuvh/HalFiPad/raw/master/packages/iphonex.png
-Name: ProGesture Lite
-
-Package: com.babyyoda777.pucklite
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: babyyoda777
-Installed-Size: 1940
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
-Filename: ./com.babyyoda777.pucklite_1.7_iphoneos-arm.deb
-Size: 1054404
-MD5sum: 87fa6bd75f2ffff7f993b06c294e33c3
-SHA1: 53ae263b852a7dc85c924a779d3d2981bf2713e2
-SHA256: e5032488e6da430407cd2d0beb3c22d10d2ebc26ae8107d2c4738060ad8c3537
-Section: Tweaks
-Description: Puck a battery and jailbreak saving tweak. Similar to Sentinel. Now without preferenceloader to improve app launch speed. To enable, got straight to control centre and add the puck toggle.
-Author: babyyoda777
-Depiction: https://repo.litten.love/depictions/pck/index.html
-Icon: https://repo.litten.love/depictions/pck/assets/icon.png
-Name: Puck Lite
-Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
 
 Package: com.babyyoda777.ArchiveOS
 Version: 1.0
