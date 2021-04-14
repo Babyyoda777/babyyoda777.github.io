@@ -31,18 +31,19 @@ Author: babyyoda777	<babyyoda777@icloud.com>
 Name: ArchiveOS
 
 Package: com.babyyoda777.hidedock14
-Version: 0.0.2
+Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: babyyoda777
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./babyyoda777_0.0.1-2+debug_iphoneos-arm.deb
-Size: 3322
-MD5sum: 9f6fef3e9cfd9e7d1c6e9b8e0de949a2
-SHA1: 14e7ce219024683cfdcd9e1dcd284985492ee7f8
-SHA256: b60cc9e637b62a68f6f85e062ccacdf9cd3c661bc6fccbb4f3567eef961879a0
+Filename: ./babyyoda777_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3524
+MD5sum: a9ae6d84a63a8b67aeefa6ee8cbaec0d
+SHA1: a983204574236959a72acfc2e657e4b00552dffe
+SHA256: 12b0891b400b331d01ce625afe2c9fbb2e18d18e2411115368d6e5d0c866fe53
 Section: Tweaks
-Description: Hide Your dockbackground and page dots. This is a lightweight and preferenceloader-free tweak!
+Description: Hide dock and page dots in iOS 14.
 Author: babyyoda777
 Name: HideDock14
+
 
