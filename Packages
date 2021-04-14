@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: babyyoda777
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./HideDock1.1.deb
+Filename: ./HideDock1.1.0.deb
 Size: 3524
 MD5sum: a9ae6d84a63a8b67aeefa6ee8cbaec0d
 SHA1: a983204574236959a72acfc2e657e4b00552dffe
