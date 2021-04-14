@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: babyyoda777
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./babyyoda777_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./babyyoda777_0.0.1-2+debug_iphoneos-arm.deb
 Size: 3524
 MD5sum: a9ae6d84a63a8b67aeefa6ee8cbaec0d
 SHA1: a983204574236959a72acfc2e657e4b00552dffe
@@ -46,8 +46,8 @@ Description: Hide dock and page dots in iOS 14.
 Author: babyyoda777
 Name: HideDock14
 
-Package: babyyoda777
-Version: 0.0.1-5+debug
+Package: com.babyyoda777.diebackground
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: babyyoda777
 Installed-Size: 200
