@@ -52,7 +52,7 @@ Architecture: iphoneos-arm
 Maintainer: babyyoda777
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./babyyoda777_0.0.1-5+debug_iphoneos-arm.deb
+Filename: ./DieBackground.deb
 Size: 3518
 MD5sum: c7d4bdb662a08737969a5334547ac0d0
 SHA1: e5233c3448959d92c66f4fe1e47392246741b130
