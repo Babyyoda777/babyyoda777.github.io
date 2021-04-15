@@ -47,17 +47,17 @@ Author: babyyoda777
 Name: HideDock14
 
 Package: com.babyyoda777.diebackground
-Version: 1.0.0
+Version: 2.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: babyyoda777
-Installed-Size: 200
+Installed-Size: 164
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./DieBackground.deb
-Size: 3518
-MD5sum: c7d4bdb662a08737969a5334547ac0d0
-SHA1: e5233c3448959d92c66f4fe1e47392246741b130
-SHA256: 7b77aa25283bf8033e9d7cb05bfe9f0412b86b6fd92ab403021018c6bf6c9da7
+Filename: ./com.babyyoda777.diebackground_2.0.0-1+debug_iphoneos-arm.deb
+Size: 3812
+MD5sum: 16d4f3d0c4c3a8b3e11442a5301b0b31
+SHA1: 57d19327a8fac22e3f66191d4de2af6545b74948
+SHA256: 681b86071c0759d1618536061c22572fe39b2732144a7c9fe3503a2cce0da327
 Section: Tweaks
-Description: Hide folder background on homescreen!
+Description: Hide folder background on homescreen and when open!
 Author: babyyoda777
 Name: DieBackground
