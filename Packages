@@ -62,3 +62,18 @@ Description: Hide folder background on homescreen and when open!
 Author: babyyoda777
 Name: DieBackground
 
+Package: com.babyyoda777.cleanup
+Version: 0.0.1-20+debug
+Architecture: iphoneos-arm
+Maintainer: babyyoda777
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.babyyoda777.cleanup_0.0.1-20+debug_iphoneos-arm.deb
+Size: 5446
+MD5sum: 106ff0f9158c7e31eabca64562c092e0
+SHA1: 086424241a36f8009e4bd6c3716720d59e615f8e
+SHA256: 6f90593c6834d97fc9c1f0f28578ad38634b2716a56324414e438b462fb90bfc
+Section: Tweaks
+Description: An all-in-one tweak to hide dock background, folder backgrounds, when open and closed, page dots and much more!
+Author: babyyoda777
+Name: CleanUp
