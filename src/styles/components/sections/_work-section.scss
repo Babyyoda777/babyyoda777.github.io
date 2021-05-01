@@ -1,0 +1,35 @@
+.work-body {
+    max-width: 1300px;
+
+    &__description {
+        font-weight: 600;
+        margin-bottom: 2.5rem;
+    }
+
+    &__link {
+        text-decoration: underline;
+    }
+}
+.work {
+    opacity: 0;
+    &:not(:last-child) {
+        margin-bottom: 2.5rem;
+    }
+
+    &__header {
+        display: flex;
+        flex-direction: column;
+        @include mq('sm') {
+            flex-direction: row;
+        }
+        margin-bottom: 1rem;
+    }
+
+    &__time {
+        margin-top: 1rem;
+        @include mq('sm') {
+            margin: 0 0 0 auto;
+        }
+        font-weight: 600;
+    }
+}

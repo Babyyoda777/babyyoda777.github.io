@@ -1,0 +1,109 @@
+.about-body {
+    display: flex;
+    flex-direction: column;
+
+    @include mq('md-lg') {
+        flex-direction: row;
+    }
+
+    &__description {
+        width: 100%;
+        flex-shrink: 0.75;
+    }
+
+    &__initial-p {
+        margin-top: 0;
+    }
+
+    &__skills {
+        padding: 1.5rem;
+        max-width: 515px;
+        height: fit-content;
+        background-color: var(--color-primary-light);
+        width: 100%;
+        color: var(--color-secondary);
+        border-radius: 0.5rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        margin-top: 1rem; 
+        @include mq('md-lg') {
+            margin-top: 0;
+            margin-left: 2rem;
+        }
+    }
+
+    &__skills-heading {
+        text-align: center;
+        @include mq('xxs') {
+            text-align: left;
+        }
+        font-size: 1.25rem;
+
+        @include mq('sm') {
+            font-size: 1.5rem;
+        }
+        @include mq('md') {
+            font-size: 1.75rem;
+        }
+
+        @include mq('md-lg') {
+            font-size: 1.25rem;
+        }
+
+        @include mq('lg') {
+            font-size: 1.5rem;
+        }
+
+        @include mq('xl') {
+            font-size: 1.75rem;
+        }
+    }
+
+    &__skills-content {
+        display: flex;
+        flex-direction: column;
+        @include mq('xxs') {
+            flex-direction: row;
+            align-items: start;
+        }
+    }
+
+    &__skills-subsection {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        @include mq('xxs') {
+            align-items: start;
+        }
+        padding: 1rem;
+        padding-left: 0;
+    }
+
+    &__skills-subsection:last-child {
+        @include mq('xxs') {
+            margin-left: 1rem;
+        }
+    }
+
+    &__subtitle {
+        font-family: var(--font-primary);
+    }
+
+    &__list {
+        text-align: center;
+        @include mq('xxs') {
+            text-align: left;
+            padding-left: 1rem;
+            list-style-type: square;
+        }
+    }
+
+    &__list-item {
+        color: var(--color-secondary);
+        font-family: var(--font-secondary);
+    }
+}
+
+
+
+
