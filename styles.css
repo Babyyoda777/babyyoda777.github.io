@@ -47,7 +47,7 @@ html{
     typing 2.5s steps(40, end),
     blink-caret .75s step-end infinite;
   font-size: 1.625rem;
-  width: 530px;
+
 
 }
 
