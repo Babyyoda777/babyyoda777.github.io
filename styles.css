@@ -18,6 +18,7 @@ html{
 #navbar{
   overflow:hidden;
   position:sticky;
+  max-width: 100%;
 }
 
 #aboutme{
@@ -167,6 +168,8 @@ nav{
   justify-content: center;
   margin-top: -10px;
   background-color: var(--nav);
+  max-width: 100%;
+
 }
 
 a{
@@ -174,6 +177,7 @@ a{
   color: var(--color);
   text-decoration: none;
   transition: color 0.2s ease,color 0.2s ease;
+
 }
 
 a:hover{
@@ -312,7 +316,7 @@ article{
   color: var(--color);
 
   transition: color 0.3s ease;
-  padding-left: 40px;
+  padding-left: 5px;
 }
 
 #menuToggle a:hover
@@ -425,8 +429,7 @@ article{
 
 #menu li
 {
-  padding: 10px 0;
-  font-size: 37px;
+  padding: 7px 0;
 }
 
 /*
