@@ -67,6 +67,9 @@ html{
     font-size: 35px;
     max-width: 100%;
   }
+  h5{
+    font-size: 30px;
+  }
 }
 
 /* The typing effect */
