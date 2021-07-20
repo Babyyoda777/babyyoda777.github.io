@@ -39,14 +39,18 @@ html{
 }
 
 #typewriter h1 {
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .05em solid black; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */ /* Adjust as needed */
-  animation:
-    typing 2.5s steps(40, end),
-    blink-caret .75s step-end infinite;
-  font-size: 1.625rem;
+  width: 550px;
+      letter-spacing: .035em;
+      overflow: hidden;
+      white-space: nowrap;
+      margin: 0 auto;
+      border-right: .15em solid #fe5186;
+      transition: all .3s ease;
+      -webkit-transition: all .3s ease;
+      -moz-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      -ms-transition: all .3s ease;
+      animation: typing 1.5s steps(25,end),blink-caret .75s step-end infinite;
 
 
 }
