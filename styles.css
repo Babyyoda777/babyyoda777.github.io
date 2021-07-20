@@ -39,12 +39,10 @@ html{
 }
 
 #typewriter h1 {
-  max-width: 375px;
       letter-spacing: .035em;
       overflow: hidden;
       white-space: nowrap;
       margin: 0 auto;
-      font-size: 40px;
       border-right: .15em solid #fe5186;
       transition: all .3s ease;
       -webkit-transition: all .3s ease;
@@ -54,6 +52,21 @@ html{
       animation: typing 1.5s steps(25,end),blink-caret .75s step-end infinite;
 
 
+
+}
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 50px;
+    max-width: 700px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  h1 {
+    font-size: 35px;
+    max-width: 100%;
+  }
 }
 
 /* The typing effect */
