@@ -39,11 +39,12 @@ html{
 }
 
 #typewriter h1 {
-  width: 550px;
+  max-width: 375px;
       letter-spacing: .035em;
       overflow: hidden;
       white-space: nowrap;
       margin: 0 auto;
+      font-size: 40px;
       border-right: .15em solid #fe5186;
       transition: all .3s ease;
       -webkit-transition: all .3s ease;
@@ -101,15 +102,15 @@ grad{
 .hero{
   text-align: center;
   justify-content: center;
-  position: relative;
-  padding-top: -80px;;
+  padding-top: -80px;
   width: 100%;
   clear:both;
   min-width: 220px;
   margin: auto;
   font-size: 40px;
   margin-bottom: 100px;
-  max-width: 1000px;
+
+  text-align: center;
 
 }
 
