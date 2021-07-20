@@ -46,6 +46,7 @@ html{
   animation:
     typing 2.5s steps(40, end),
     blink-caret .75s step-end infinite;
+  font-size: 40px;
 
 }
 
