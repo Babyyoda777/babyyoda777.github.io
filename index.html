@@ -1,70 +1,116 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap" rel="stylesheet">
-        <title>Babyyoda777</title>
-        <link rel="stylesheet" href="styles.css" />
-        <link rel="icon" href="img/me.png" type="image/gif">
-    </head>
-    <body class="dark">
-      <div class="dmode">
-        <span onclick="myFunction()" class="toggle"></span>
+   <head>
+      <title>Babyyoda777 | iOS Jailbreak Developer</title>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="description" content="iOS Jailbreak and Web Developer">
+      <link rel="stylesheet" href="./style.css">
+   </head>
+   <body>
+      <div class="theme-switch-wrapper">
+         <label class="theme-switch" for="checkbox">
+            <input type="checkbox" id="checkbox" />
+            <div class="slider round">
+              <div class="roll">
+
+              </div>
+            </div>
+         </label>
       </div>
-      <nav>
-        <div id="menuToggle">
-          <input type="checkbox" />
-          <span></span>
-          <span></span>
-          <span></span>
-          <ul id="menu">
-            <a href="#"><li>Home</li></a>
-            <a href="#aboutme"><li>About Me</li></a>
-            <a href="#work"><li>Work</li></a>
-          </ul>
-        </div>
+      <nav class="navbar">
+         <div class="">
+            <a href="mailto:babyyoda777@icloud.com" class="nav-logo">📬 babyyoda777@icloud.com</a>
+         </div>
+         <ul class="nav-menu">
+            <li class="nav-item">
+               <a href="#aboutus" class="nav-link">About</a>
+            </li>
+            <li class="nav-item">
+               <a href="#work" class="nav-link">Work</a>
+            </li>
+            <li class="nav-item">
+               <a href="#repo" class="nav-link">Repo</a>
+            </li>
+            <li class="nav-item">
+               <a href="#contact" class="nav-link">Contact</a>
+            </li>
+         </ul>
+         <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+         </div>
       </nav>
-        <section class="hero" id="typewriter">
-          <h1>I am <br> <grad>Babyyoda777</grad><span class="wave">👋</span></h1>
-          <h5>iOS <grad>Jailbreak </grad>Developer, Web <grad> Designer </grad> and <grad> Programmer </grad> </h5>
-          <a href="#aboutme" class="button"> About Me</a>
-        </section>
-        <section class="section" id="aboutme">
-          <h2>About Me</h2>
-          <div class="breaker">
-          </div>
-          <p>Hi! I'm <grad>babyyoda777</grad>, a iOS developer based in UK, and recent tweak developer in the jailbreak community. I am passionate about creating user experiences that are both performant and responsive, whether it be transforming another person's design into code, or building personal web app projects for myself and others.
-          </p>
-          <p>As a developer, I'm constantly trying to improve upon my current skills/technologies while learning new ones. Currently, I have professional work experience with <grad> HTML, CSS, Python, ReactJS, Objecive-C, and Swift </grad>. As for new skills, I'm not only learning new technologies like <grad>TailwindCSS</grad> and <grad>GatsbyJS</grad>, but also learning to be better equipped for creating accessible experiences (following WCAG), and for better performance in my websites and web applications. </p>
-          <p> The following is a list of technologies that I currently work with for personal projects, and also ones that I've had varying levels of experience with and would be willing to pick up again whether for a personal or work-related project.</p>
-          <img class="me" src="img/me.png" alt="" width="300px">
-        </section>
-        <section id="work">
-          <h2>Work</h2>
-          <article>
-            <h3 class="title">DieBackground:</h3>
-            <div class="ches">
-            </div>
-            <aside>
-              <img class="work" src="img/die.png" alt="" width="300px">
-            </aside>
-            <p>A somewhat more complicated tweak, and looks much nicer as well! This was my second ever tweak. DieBackground hides the folder icon background on homescreen, folder blur when open and homscreen when open.</p>
-            <a class="icon" href="https://github.com/babyyoda777/DieBackground" target="_blank" rel="noreferrer noopener" aria-label="External Link"><svg  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" ><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"></path></svg></a>
-          </article>
-          <article>
-            <h3 class="title2">CleanUp:</h3>
-            <div class="clean">
-            </div>
-            <aside>
-              <img class="work" src="img/clean.png" alt="" width="400px">
-            </aside>
-            <p>My most comprehensive tweak. Cleans iOS up and removes clutter. No options to configure. Sort of alternative for NoClutter that works on iOS 14.</p>
-            <a class="icon" href="https://github.com/babyyoda777/cleanup" target="_blank" rel="noreferrer noopener" aria-label="External Link"><svg  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" ><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"></path></svg></a>
-          </article>
-        </section>
-        <script src="toggle.js"></script>
-    </body>
+      <section class="hero">
+        <div class="avatar">
+          <img src="img/babyyoda777.png" height="160px" alt="">
+        </div>
+        <div class="hi">
+          <h2>Hi, I'm babyyoda777 👋</h2>
+        </div>
+        <div>
+          <h1 class="typed-headline">
+            <span class="typed-words"></span>
+          </h1>
+        </div>
+      </section>
+      <section id="aboutus">
+        <h1>About Me:</h1>
+        <h3>Hi! I'm babyyoda777, a iOS developer based in UK, and recent tweak developer in the jailbreak community. I am passionate about creating user experiences that are both performant and responsive, whether it be transforming another person's design into code, or building personal web app projects for myself and others.
+
+As a developer, I'm constantly trying to improve upon my current skills/technologies while learning new ones. Currently, I have professional work experience with HTML, CSS, Python, ReactJS, Objecive-C, and Swift . As for new skills, I'm not only learning new technologies like TailwindCSS and GatsbyJS, but also learning to be better equipped for creating accessible experiences (following WCAG), and for better performance in my websites and web applications.
+
+The following is a list of technologies that I currently work with for personal projects, and also ones that I've had varying levels of experience with and would be willing to pick up again whether for a personal or work-related project.</h3>
+      </section>
+      <section id="work">
+      <h1>My Work:</h1>
+      <div class="project">
+        <h3 class="title">DieBackground:</h3>
+        <div class="ches">
+        </div>
+        <img class="showcase" src="img/die.png" alt="">
+        <h3 class="description">A somewhat more complicated tweak, and looks much nicer as well! This was my second ever tweak. DieBackground hides the folder icon background on homescreen, folder blur when open and homscreen when open.</h3>
+      </div>
+      <div class="project">
+        <h3 class="title2">CleanUp:</h3>
+        <div class="ches2">
+        </div>
+        <img class="showcase" src="img/clean.png" alt="">
+        <h3 class="description">My most comprehensive tweak. Cleans iOS up and removes clutter. No options to configure. Sort of alternative for NoClutter that works on iOS 14.</h3>
+      </div>
+      </section>
+      <section id="repo">
+        <h1 class="addrepo">Add My Repo:</h1>
+        <h3>Add my repo to your favoutire package manager.</h3>
+        <div class="repo">
+          <a class="cydia" href="cydia://url/https://babyyoda777.github.io">Cydia</a>
+          <a class="installer" href="installer://add/repo=https://babyyoda777.github.io">Installer</a>
+          <a class="zebra" href="zbra://sources/add/https://babyyoda777.github.io">Zebra</a>
+          <a class="sileo" href="sileo://source/https://babyyoda777.github.io">Sileo</a>
+        </div>
+      </section>
+      <section id="contact">
+        <h1>Contact Me:</h1>
+        <h3>You can contact me by email:</h3>
+        <h3 class="title"><a href="mailto:babyyoda777@icloud.com">babyyoda777@icloud.com</a></h3>
+        <h3>Or on Reddit:</h3>
+        <h3><a class="title2"href="https://reddit.com/u/AmountOk3836">u/AmountOk3836</a></h3>
+      </section>
+      <script  src="./script.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js"></script>
+      <script type="text/javascript">
+      var typed = new Typed(".typed-words", {
+      strings: ["Developer", "Designer", "Creator"],
+      typeSpeed: 80,
+      backSpeed: 120,
+      backDelay: 720,
+      startDelay: 0,
+      loop: true,
+      showCursor: false,
+      cursorChar: "|",
+      attr: null,
+      });
+      </script>
+   </body>
 </html>
