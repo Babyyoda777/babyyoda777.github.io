@@ -118,10 +118,10 @@ h3{
 @media only screen and (max-width: 768px) {
     .nav-menu {
         position: fixed;
-        left: -110%;
+        left: -111%;
         top: 5rem;
         flex-direction: column;
-        background-color: white;
+        background-color: var(--bg);
         z-index: 1000;
         width: 100%;
         border-radius: 10px;
