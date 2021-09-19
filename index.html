@@ -8,6 +8,11 @@
       <link rel="stylesheet" href="./style.css">
       <link rel="icon" type="image/png" href="img/me.png"/>
       <link rel="manifest" href="manifest.json" />
+      <script type="module">
+         import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+         const el = document.createElement('pwa-update');
+         document.body.appendChild(el);
+   </script>
    </head>
    <body>
       <div class="theme-switch-wrapper">
