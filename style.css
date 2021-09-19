@@ -54,6 +54,8 @@ h2{
 
 h3{
   color: var(--color);
+  font-weight: 400;
+  line-height: 35px;
 }
 
 
@@ -118,11 +120,14 @@ h3{
 @media only screen and (max-width: 768px) {
     .nav-menu {
         position: fixed;
-        left: -111%;
+        left: -115%;
+        height: 90%;
+        justify-content: space-evenly;
         top: 5rem;
         flex-direction: column;
         background-color: var(--bg);
         z-index: 1000;
+        padding: 0;
         width: 100%;
         border-radius: 10px;
         text-align: center;
@@ -134,7 +139,7 @@ h3{
     }
 
     .nav-item {
-        margin: 2.5rem 0;
+        margin-left: 2.5rem ;
     }
 
     .nav-link{
@@ -360,6 +365,7 @@ background-color: #eaf9fa;
     -webkit-text-fill-color: transparent;
     -webkit-box-decoration-break: clone;
     font-size: 30px!important;
+    font-weight: bold;
 }
 
 .title2{
@@ -372,6 +378,7 @@ background-color: #eaf9fa;
     -webkit-text-fill-color: transparent;
     -webkit-box-decoration-break: clone;
         font-size: 30px!important;
+            font-weight: bold;
 }
 
 .ches {
