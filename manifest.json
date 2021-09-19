@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "iOS Jailbreak and Web Developer",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "babyyoda777",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "babyyoda777",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/832x832.png",
+      "type": "image/png",
+      "sizes": "832x832"
+    }
+  ]
+}
