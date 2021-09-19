@@ -1,7 +1,7 @@
 
 :root{
-  --bg: white;
-  --color: black;
+  --bg: black;
+  --color: white;
   --hover: grey;
   --mail: url(img/mail.svg);
   transition: 0.3s;
@@ -17,8 +17,8 @@
 }
 
 [data-theme="dark"] {
-  --bg: black;
-  --color: white;
+  --bg: white;
+  --color: black;
   --mail: url(img/mail.png);
   transition: 0.3s;
 }
