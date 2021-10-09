@@ -326,6 +326,9 @@ background-color: #eaf9fa;
 	}
 }
 @media screen and (max-width: 479px) {
+    .avatar{
+        margin-top: -150px;
+    }
 	h1 {
 		font-size: 36px;
 	}
