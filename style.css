@@ -28,9 +28,9 @@ body{
   scroll-behavior: smooth;
   overflow-x: hidden;
   background: var(--bg);
-  font-family: Plusjakartadisplay, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:display=swap');
 *{
   scroll-behavior: smooth;
 }
@@ -46,6 +46,7 @@ a {
 
 h1{
   color: var(--color);
+    font-size: 48px;
 }
 
 h2{
@@ -286,6 +287,7 @@ background-color: #eaf9fa;
 	font-size: 72px;
   color: var(--color);
   z-index: 10;
+    font-family: 'Poppins', sans-serif;
 }
 .typed-headline::after {
 	content: "|";
@@ -366,6 +368,26 @@ background-color: #eaf9fa;
     -webkit-box-decoration-break: clone;
     font-size: 30px!important;
     font-weight: bold;
+}
+
+.title1 {
+    background: linear-gradient(
+            90deg
+            , hsla(0, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 20%);
+    color: #B664B0;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+    font-size: 25px!important;
+    font-weight: bold;
+}
+
+#contact{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
 }
 
 .title2{
