@@ -55,7 +55,7 @@ h2{
 
 h3{
   color: var(--color);
-  font-weight: 400;
+  font-weight: 500;
   line-height: 35px;
 }
 
@@ -96,7 +96,7 @@ h3{
 
 .nav-link{
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 500;
     color: var(--color);
     margin-left: -30px;
 }
@@ -379,7 +379,6 @@ background-color: #eaf9fa;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-box-decoration-break: clone;
-    font-size: 25px!important;
     font-weight: bold;
 }
 
@@ -403,8 +402,21 @@ background-color: #eaf9fa;
             font-weight: bold;
 }
 
+.title3{
+    background: linear-gradient(
+            90deg
+            , hsla(160, 100%, 40%, 1) 0%, hsla(82, 100%, 50%, 1) 100%);
+    color: #B664B0;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+    font-weight: bold;
+}
+
 .ches {
     max-width: 3px;
+    height: 50%;
     height: 50%;
     position: absolute;
     background: linear-gradient(
