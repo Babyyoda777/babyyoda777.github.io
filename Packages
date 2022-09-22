@@ -1,6 +1,6 @@
 Package: com.babyyoda777.HandWritten
 Version: 1.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: babyyoda777 <babyyoda777@icloud.com>
 Depends: com.anemonetheming.anemone, com.spark.snowboard
 Filename: ./com.babyyoda777.HandWritten_1.0_iphoneos-arm.deb
@@ -15,7 +15,7 @@ Name: HandWritten
 
 Package: com.babyyoda777.hidedock14
 Version: 1.1.0-2+debug
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: babyyoda777
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -31,7 +31,7 @@ Name: HideDock14
 
 Package: com.babyyoda777.diebackground
 Version: 2.0.0-9+debug
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: babyyoda777
 Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -47,7 +47,7 @@ Name: DieBackground
 
 Package: com.babyyoda777.cleanup
 Version: 0.0.1-20+debug
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: babyyoda777
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
