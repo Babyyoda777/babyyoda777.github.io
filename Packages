@@ -15,7 +15,7 @@ Name: HandWritten
 
 Package: com.babyyoda777.hidedock14
 Version: 1.1.0-2+debug
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64-rootless
 Maintainer: babyyoda777
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
